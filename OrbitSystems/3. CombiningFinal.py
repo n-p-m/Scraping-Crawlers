@@ -31,7 +31,7 @@
 # #         print(f"An error occurred while processing {url}: {str(e)}")
 # #         return None
 
-# # if __name__ == "__main__":
+# # if __name__ == "__main__": 
 
 # #     # Read the CSV file
 # #     # csv_file = pd.read_csv('NER Engine Data Prep(Jason).csv')

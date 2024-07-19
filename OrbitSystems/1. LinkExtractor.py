@@ -1,6 +1,5 @@
 # #This script extracts all the URLs from a given
 # # webpage using the BeautifulSoup library.
-
 # from bs4 import BeautifulSoup
 # import requests
 # import csv 
