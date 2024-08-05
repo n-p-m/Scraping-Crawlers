@@ -1,0 +1,13 @@
+2024-07-31 11:46:30,102 - root - INFO - Iterating Over the Forbes List
+2024-07-31 11:46:30,103 - root - INFO - Processing index 0
+2024-07-31 11:46:30,103 - root - INFO - First Name: , Last Name: Aavia, Organization: Aavia
+2024-07-31 11:46:30,104 - root - INFO - EnteringGoogle Extraction
+2024-07-31 11:46:30,104 - asyncio - DEBUG - Using selector: EpollSelector
+2024-07-31 11:46:30,341 - root - INFO - Starting Google Extraction
+2024-07-31 11:46:30,341 - root - INFO - Inside Run Function
+2024-07-31 11:46:30,494 - root - INFO - Browser Launched
+2024-07-31 11:46:30,503 - root - INFO - New Context Created
+2024-07-31 11:46:30,912 - root - INFO - New Page Created
+2024-07-31 11:46:32,007 - root - INFO - Navigated to Google
+2024-07-31 11:46:32,007 - root - INFO - Trying to get search box
+2024-07-31 11:46:32,007 - root - INFO - Search box found

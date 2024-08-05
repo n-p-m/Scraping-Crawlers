@@ -1,0 +1,1076 @@
+2024-07-31 11:28:13,908 - root - INFO - Iterating Over the Forbes List
+2024-07-31 11:28:13,909 - root - INFO - Processing index 0
+2024-07-31 11:28:13,909 - root - INFO - First Name: , Last Name: Aavia, Organization: Aavia
+2024-07-31 11:28:13,909 - root - INFO - EnteringGoogle Extraction
+2024-07-31 11:28:13,910 - asyncio - DEBUG - Using selector: EpollSelector
+2024-07-31 11:28:14,143 - root - INFO - Starting Google Extraction
+2024-07-31 11:28:14,143 - root - INFO - Inside Run Function
+2024-07-31 11:28:14,295 - root - INFO - Browser Launched
+2024-07-31 11:28:14,305 - root - INFO - New Context Created
+2024-07-31 11:28:14,731 - root - INFO - New Page Created
+2024-07-31 11:28:15,825 - root - INFO - Navigated to Google
+2024-07-31 11:28:15,825 - root - INFO - Trying to get search box
+2024-07-31 11:28:15,825 - root - INFO - Search box found
+2024-07-31 11:28:19,048 - root - INFO - Search results loaded
+2024-07-31 11:28:19,092 - root - INFO - Trying to get News tab
+2024-07-31 11:28:19,092 - root - INFO - News tab found
+2024-07-31 11:28:21,114 - root - INFO - News results loaded
+2024-07-31 11:28:21,140 - root - INFO - Extracted all 'a' tags
+2024-07-31 11:28:21,140 - root - INFO - Checking if URL is not google domain: 
+2024-07-31 11:28:21,140 - root - INFO - URL is not google domain: 
+2024-07-31 11:28:21,140 - root - INFO - Checking if URL is not google domain: https://support.google.com/websearch/answer/181196?hl=en
+2024-07-31 11:28:21,140 - root - INFO - Checking if URL is not google domain: 
+2024-07-31 11:28:21,140 - root - INFO - URL is not google domain: 
+2024-07-31 11:28:21,140 - root - INFO - Checking if URL is not google domain: https://www.google.com/webhp?hl=en&ictx=2&sa=X&ved=0ahUKEwiT4M7zy9GHAxX1rokEHaheIWEQPQgJ
+2024-07-31 11:28:21,140 - root - INFO - Checking if URL is not google domain: https://www.google.com/intl/en/about/products
+2024-07-31 11:28:21,140 - root - INFO - Checking if URL is not google domain: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fsca_esv%3D553650bb8dd64e30%26sca_upv%3D1%26q%3DAavia%2BAavia%26tbm%3Dnws%26source%3Dlnms%26fbs%3DAEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2joZDvir2QxhZkTA8rK1etu4WKmYu-jQ4K-snHbI9S6gJme8LE0Xpw2sE6_dGlmjzB-b0vp-0bIl8pvDaPn37KkqnnRGlB21IPH7TjIjUVfe7p-yjEYFXyfgh8hTkuDCrsHs8yGJztVFuZ1OaU6fRK-_Bk41vA%26sa%3DX%26ved%3D2ahUKEwj5gYnyy9GHAxWZrokEHQ6wJ3MQ0pQJegQIExAB%26biw%3D1280%26bih%3D720%26dpr%3D1&ec=futura_gmv_dt_so_72586115_e
+2024-07-31 11:28:21,141 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&sca_upv=1&biw=1280&bih=720&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2joZDvir2QxhZkTA8rK1etu4WKmYu-jQ4K-snHbI9S6gJme8LE0Xpw2sE6_dGlmjzB-b0vp-0bIl8pvDaPn37KkqnnRGlB21IPH7TjIjUVfe7p-yjEYFXyfgh8hTkuDCrsHs8yGJztVFuZ1OaU6fRK-_Bk41vA&sa=X&ved=2ahUKEwiT4M7zy9GHAxX1rokEHaheIWEQ0pQJegQIBhAC
+2024-07-31 11:28:21,141 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sa=X&sca_esv=553650bb8dd64e30&sca_upv=1&biw=1280&bih=720&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2joZDvir2QxhZkTA8rK1etu4WKmYu-jQ4K-snHbI9S6gJme8LE0Xpw2sE6_dGlmjzB-b0vp-0bIl8pvDaPn37KkqnnRGlB21IPH7TjIjUVfe7p-yjEYFXyfgh8hTkuDCrsHs8yGJztVFuZ1OaU6fRK-_Bk41vA&ved=2ahUKEwiT4M7zy9GHAxX1rokEHaheIWEQtKgLegQIBhAE
+2024-07-31 11:28:21,141 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&sca_upv=1&biw=1280&bih=720&tbm=vid&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2joZDvir2QxhZkTA8rK1etu4WKmYu-jQ4K-snHbI9S6gJme8LE0Xpw2sE6_dGlmjzB-b0vp-0bIl8pvDaPn37KkqnnRGlB21IPH7TjIjUVfe7p-yjEYFXyfgh8hTkuDCrsHs8yGJztVFuZ1OaU6fRK-_Bk41vA&sa=X&ved=2ahUKEwiT4M7zy9GHAxX1rokEHaheIWEQ0pQJegQIBhAG
+2024-07-31 11:28:21,141 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&sca_upv=1&biw=1280&bih=720&tbm=shop&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2joZDvir2QxhZkTA8rK1etu4WKmYu-jQ4K-snHbI9S6gJme8LE0Xpw2sE6_dGlmjzB-b0vp-0bIl8pvDaPn37KkqnnRGlB21IPH7TjIjUVfe7p-yjEYFXyfgh8hTkuDCrsHs8yGJztVFuZ1OaU6fRK-_Bk41vA&ved=1t:200715&ictx=111
+2024-07-31 11:28:21,141 - root - INFO - Checking if URL is not google domain: 
+2024-07-31 11:28:21,141 - root - INFO - URL is not google domain: 
+2024-07-31 11:28:21,141 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sa=X&sca_esv=553650bb8dd64e30&sca_upv=1&biw=1280&bih=720&udm=18&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2joZDvir2QxhZkTA8rK1etu4WKmYu-jQ4K-snHbI9S6gJme8LE0Xpw2sE6_dGlmjzB-b0vp-0bIl8pvDaPn37KkqnnRGlB21IPH7TjIjUVfe7p-yjEYFXyfgh8hTkuDCrsHs8yGJztVFuZ1OaU6fRK-_Bk41vA&ved=2ahUKEwiT4M7zy9GHAxX1rokEHaheIWEQs6gLegQIBhAM
+2024-07-31 11:28:21,141 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sa=X&sca_esv=553650bb8dd64e30&sca_upv=1&biw=1280&bih=720&udm=14&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2joZDvir2QxhZkTA8rK1etu4WKmYu-jQ4K-snHbI9S6gJme8LE0Xpw2sE6_dGlmjzB-b0vp-0bIl8pvDaPn37KkqnnRGlB21IPH7TjIjUVfe7p-yjEYFXyfgh8hTkuDCrsHs8yGJztVFuZ1OaU6fRK-_Bk41vA&ved=2ahUKEwiT4M7zy9GHAxX1rokEHaheIWEQs6gLegQIBhAO
+2024-07-31 11:28:21,142 - root - INFO - Checking if URL is not google domain: https://maps.google.com/maps?sca_esv=553650bb8dd64e30&sca_upv=1&q=Aavia+Aavia&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2joZDvir2QxhZkTA8rK1etu4WKmYu-jQ4K-snHbI9S6gJme8LE0Xpw2sE6_dGlmjzB-b0vp-0bIl8pvDaPn37KkqnnRGlB21IPH7TjIjUVfe7p-yjEYFXyfgh8hTkuDCrsHs8yGJztVFuZ1OaU6fRK-_Bk41vA&biw=1280&bih=720&dpr=1&um=1&ie=UTF-8&ved=1t:200715&ictx=111
+2024-07-31 11:28:21,142 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&sca_upv=1&biw=1280&bih=720&tbm=bks&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2joZDvir2QxhZkTA8rK1etu4WKmYu-jQ4K-snHbI9S6gJme8LE0Xpw2sE6_dGlmjzB-b0vp-0bIl8pvDaPn37KkqnnRGlB21IPH7TjIjUVfe7p-yjEYFXyfgh8hTkuDCrsHs8yGJztVFuZ1OaU6fRK-_Bk41vA&sa=X&ved=2ahUKEwiT4M7zy9GHAxX1rokEHaheIWEQ0pQJKAF6BAgGEBM
+2024-07-31 11:28:21,142 - root - INFO - Checking if URL is not google domain: https://www.google.com/travel/flights?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&sca_upv=1&biw=1280&bih=720&tbm=flm&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2joZDvir2QxhZkTA8rK1etu4WKmYu-jQ4K-snHbI9S6gJme8LE0Xpw2sE6_dGlmjzB-b0vp-0bIl8pvDaPn37KkqnnRGlB21IPH7TjIjUVfe7p-yjEYFXyfgh8hTkuDCrsHs8yGJztVFuZ1OaU6fRK-_Bk41vA&ved=1t:200715&ictx=111
+2024-07-31 11:28:21,142 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&sca_upv=1&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:h&sa=X&ved=2ahUKEwiT4M7zy9GHAxX1rokEHaheIWEQpwV6BAgBEAc
+2024-07-31 11:28:21,142 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&sca_upv=1&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:d&sa=X&ved=2ahUKEwiT4M7zy9GHAxX1rokEHaheIWEQpwV6BAgBEAg
+2024-07-31 11:28:21,142 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&sca_upv=1&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:w&sa=X&ved=2ahUKEwiT4M7zy9GHAxX1rokEHaheIWEQpwV6BAgBEAk
+2024-07-31 11:28:21,142 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&sca_upv=1&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:m&sa=X&ved=2ahUKEwiT4M7zy9GHAxX1rokEHaheIWEQpwV6BAgBEAo
+2024-07-31 11:28:21,142 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&sca_upv=1&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:y&sa=X&ved=2ahUKEwiT4M7zy9GHAxX1rokEHaheIWEQpwV6BAgBEAs
+2024-07-31 11:28:21,142 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&sca_upv=1&biw=1280&bih=720&tbm=nws&source=lnt&tbs=ar:1&sa=X&ved=2ahUKEwiT4M7zy9GHAxX1rokEHaheIWEQpwV6BAgBEAw
+2024-07-31 11:28:21,142 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&sca_upv=1&biw=1280&bih=720&tbm=nws&source=lnt&tbs=sbd:1&sa=X&ved=2ahUKEwiT4M7zy9GHAxX1rokEHaheIWEQpwV6BAgBEBQ
+2024-07-31 11:28:21,143 - root - INFO - Checking if URL is not google domain: http://news.google.com/news/advanced_news_search?sca_esv=553650bb8dd64e30&sca_upv=1&q=Aavia+Aavia&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2joZDvir2QxhZkTA8rK1etu4WKmYu-jQ4K-snHbI9S6gJme8LE0Xpw2sE6_dGlmjzB-b0vp-0bIl8pvDaPn37KkqnnRGlB21IPH7TjIjUVfe7p-yjEYFXyfgh8hTkuDCrsHs8yGJztVFuZ1OaU6fRK-_Bk41vA&biw=1280&bih=720&dpr=1
+2024-07-31 11:28:21,143 - root - INFO - Checking if URL is not google domain: https://www.google.com/history/optout?hl=en
+2024-07-31 11:28:21,143 - root - INFO - Checking if URL is not google domain: https://www.google.com/safesearch?prev=https://www.google.com/search?sca_esv%3D553650bb8dd64e30%26sca_upv%3D1%26q%3DAavia%2BAavia%26tbm%3Dnws%26source%3Dlnms%26fbs%3DAEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2joZDvir2QxhZkTA8rK1etu4WKmYu-jQ4K-snHbI9S6gJme8LE0Xpw2sE6_dGlmjzB-b0vp-0bIl8pvDaPn37KkqnnRGlB21IPH7TjIjUVfe7p-yjEYFXyfgh8hTkuDCrsHs8yGJztVFuZ1OaU6fRK-_Bk41vA%26sa%3DX%26ved%3D2ahUKEwj5gYnyy9GHAxWZrokEHQ6wJ3MQ0pQJegQIExAB%26biw%3D1280%26bih%3D720%26dpr%3D1&sa=X&ved=2ahUKEwiT4M7zy9GHAxX1rokEHaheIWEQ8JsIegQIBRAG
+2024-07-31 11:28:21,143 - root - INFO - Checking if URL is not google domain: https://www.google.com/preferences?lang=1&hl=en&prev=https://www.google.com/search?q%3DAavia%2BAavia%26sa%3DX%26sca_esv%3D553650bb8dd64e30%26sca_upv%3D1%26biw%3D1280%26bih%3D720%26tbm%3Dnws#languages
+2024-07-31 11:28:21,143 - root - INFO - Checking if URL is not google domain: https://www.google.com/setprefs?hl=en&prev=https://www.google.com/search?sca_esv%3D553650bb8dd64e30%26sca_upv%3D1%26q%3DAavia%2BAavia%26tbm%3Dnws%26source%3Dlnms%26fbs%3DAEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2joZDvir2QxhZkTA8rK1etu4WKmYu-jQ4K-snHbI9S6gJme8LE0Xpw2sE6_dGlmjzB-b0vp-0bIl8pvDaPn37KkqnnRGlB21IPH7TjIjUVfe7p-yjEYFXyfgh8hTkuDCrsHs8yGJztVFuZ1OaU6fRK-_Bk41vA%26sa%3DX%26ved%3D2ahUKEwj5gYnyy9GHAxWZrokEHQ6wJ3MQ0pQJegQIExAB%26biw%3D1280%26bih%3D720%26dpr%3D1%26pccc%3D1&sig=0__-9Yu_cp8B7kae-HWPR5gApPP2g%3D&cs=2&sa=X&ved=2ahUKEwiT4M7zy9GHAxX1rokEHaheIWEQqsEHegQIBRAI&ictx=1
+2024-07-31 11:28:21,143 - root - INFO - Checking if URL is not google domain: https://www.google.com/preferences?hl=en&prev=https://www.google.com/search?q%3DAavia%2BAavia%26sa%3DX%26sca_esv%3D553650bb8dd64e30%26sca_upv%3D1%26biw%3D1280%26bih%3D720%26tbm%3Dnws
+2024-07-31 11:28:21,143 - root - INFO - Checking if URL is not google domain: https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-07-31 11:28:21,143 - root - INFO - URL is not google domain: https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-07-31 11:28:21,143 - root - INFO - Checking if URL is not google domain: https://support.google.com/websearch/?p=dsrp_search_hc&hl=en
+2024-07-31 11:28:21,143 - root - INFO - Checking if URL is not google domain: https://policies.google.com/privacy?hl=en&fg=1
+2024-07-31 11:28:21,143 - root - INFO - Checking if URL is not google domain: https://policies.google.com/terms?hl=en&fg=1
+2024-07-31 11:28:21,144 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?sca_esv=553650bb8dd64e30&sca_upv=1&biw=1280&bih=720&tbm=nws&q=Ovia+Ovia&spell=1&sa=X&ved=2ahUKEwiT4M7zy9GHAxX1rokEHaheIWEQBSgAegQIBxAB
+2024-07-31 11:28:21,144 - root - INFO - Checking if URL is not google domain: https://www.hercampus.com/wellness/aavia-period-tracking-app-taught-me-post-roe-v-wade/
+2024-07-31 11:28:21,144 - root - INFO - URL is not google domain: https://www.hercampus.com/wellness/aavia-period-tracking-app-taught-me-post-roe-v-wade/
+2024-07-31 11:28:21,144 - root - INFO - Checking if URL is not google domain: https://www.prnewswire.com/news-releases/get-well-named-to-avia-marketplaces-2024-top-smart-rooms-companies-302172276.html
+2024-07-31 11:28:21,144 - root - INFO - URL is not google domain: https://www.prnewswire.com/news-releases/get-well-named-to-avia-marketplaces-2024-top-smart-rooms-companies-302172276.html
+2024-07-31 11:28:21,144 - root - INFO - Checking if URL is not google domain: https://www.cnn.com/cnn-underscored/health-fitness/hoka-clifton-9-vs-avia-run-swift-sneakers
+2024-07-31 11:28:21,144 - root - INFO - URL is not google domain: https://www.cnn.com/cnn-underscored/health-fitness/hoka-clifton-9-vs-avia-run-swift-sneakers
+2024-07-31 11:28:21,144 - root - INFO - Checking if URL is not google domain: https://www.newsfilecorp.com/release/204357/Avia-Homes-Announces-Striking-Partnership-with-Di-Carlo-Property-Group
+2024-07-31 11:28:21,144 - root - INFO - URL is not google domain: https://www.newsfilecorp.com/release/204357/Avia-Homes-Announces-Striking-Partnership-with-Di-Carlo-Property-Group
+2024-07-31 11:28:21,144 - root - INFO - Checking if URL is not google domain: https://newsroom.aviator.aero/avia-solutions-group-concluded-acquisition-of-skytrans-airlines-expanding-to-12-aocs-worldwide/
+2024-07-31 11:28:21,144 - root - INFO - URL is not google domain: https://newsroom.aviator.aero/avia-solutions-group-concluded-acquisition-of-skytrans-airlines-expanding-to-12-aocs-worldwide/
+2024-07-31 11:28:21,144 - root - INFO - Checking if URL is not google domain: https://www.aerotime.aero/articles/avia-solutions-group-issues-300m-worth-of-new-bonds
+2024-07-31 11:28:21,145 - root - INFO - URL is not google domain: https://www.aerotime.aero/articles/avia-solutions-group-issues-300m-worth-of-new-bonds
+2024-07-31 11:28:21,145 - root - INFO - Checking if URL is not google domain: https://www.businesswire.com/news/home/20240222636721/en/Syllable-Named-to-AVIA-Marketplace%E2%80%99s-2024-Top-Digital-Front-Door-Companies
+2024-07-31 11:28:21,145 - root - INFO - URL is not google domain: https://www.businesswire.com/news/home/20240222636721/en/Syllable-Named-to-AVIA-Marketplace%E2%80%99s-2024-Top-Digital-Front-Door-Companies
+2024-07-31 11:28:21,145 - root - INFO - Checking if URL is not google domain: https://www.legacy.com/us/obituaries/name/avia-riley-obituary?id=54446360
+2024-07-31 11:28:21,145 - root - INFO - URL is not google domain: https://www.legacy.com/us/obituaries/name/avia-riley-obituary?id=54446360
+2024-07-31 11:28:21,145 - root - INFO - Checking if URL is not google domain: https://www.baltictimes.com/avia_solutions_group_issues__300m_worth_of_new_bonds/
+2024-07-31 11:28:21,145 - root - INFO - URL is not google domain: https://www.baltictimes.com/avia_solutions_group_issues__300m_worth_of_new_bonds/
+2024-07-31 11:28:21,145 - root - INFO - Checking if URL is not google domain: https://e-tangata.co.nz/reflections/tusiata-avia-a-strange-dance-with-friends/
+2024-07-31 11:28:21,145 - root - INFO - URL is not google domain: https://e-tangata.co.nz/reflections/tusiata-avia-a-strange-dance-with-friends/
+2024-07-31 11:28:21,145 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&sca_upv=1&biw=1280&bih=720&tbm=nws&ei=E1iqZtOKL_XdptQPqL2FiQY&start=10&sa=N&ved=2ahUKEwiT4M7zy9GHAxX1rokEHaheIWEQ8tMDegQIBBAE
+2024-07-31 11:28:21,145 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&sca_upv=1&biw=1280&bih=720&tbm=nws&ei=E1iqZtOKL_XdptQPqL2FiQY&start=20&sa=N&ved=2ahUKEwiT4M7zy9GHAxX1rokEHaheIWEQ8tMDegQIBBAG
+2024-07-31 11:28:21,146 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&sca_upv=1&biw=1280&bih=720&tbm=nws&ei=E1iqZtOKL_XdptQPqL2FiQY&start=30&sa=N&ved=2ahUKEwiT4M7zy9GHAxX1rokEHaheIWEQ8tMDegQIBBAI
+2024-07-31 11:28:21,146 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&sca_upv=1&biw=1280&bih=720&tbm=nws&ei=E1iqZtOKL_XdptQPqL2FiQY&start=40&sa=N&ved=2ahUKEwiT4M7zy9GHAxX1rokEHaheIWEQ8tMDegQIBBAK
+2024-07-31 11:28:21,146 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&sca_upv=1&biw=1280&bih=720&tbm=nws&ei=E1iqZtOKL_XdptQPqL2FiQY&start=50&sa=N&ved=2ahUKEwiT4M7zy9GHAxX1rokEHaheIWEQ8tMDegQIBBAM
+2024-07-31 11:28:21,146 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&sca_upv=1&biw=1280&bih=720&tbm=nws&ei=E1iqZtOKL_XdptQPqL2FiQY&start=10&sa=N&ved=2ahUKEwiT4M7zy9GHAxX1rokEHaheIWEQ8NMDegQIBBAO
+2024-07-31 11:28:21,146 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?sca_esv=553650bb8dd64e30&sca_upv=1&q=Aavia+Aavia&tbm=nws&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2joZDvir2QxhZkTA8rK1etu4WKmYu-jQ4K-snHbI9S6gJme8LE0Xpw2sE6_dGlmjzB-b0vp-0bIl8pvDaPn37KkqnnRGlB21IPH7TjIjUVfe7p-yjEYFXyfgh8hTkuDCrsHs8yGJztVFuZ1OaU6fRK-_Bk41vA&sa=X&ved=2ahUKEwj5gYnyy9GHAxWZrokEHQ6wJ3MQ0pQJegQIExAB&biw=1280&bih=720&dpr=1#
+2024-07-31 11:28:21,146 - root - INFO - Final List of URLs Created
+2024-07-31 11:28:21,249 - root - INFO - Browser Closed and returning final_list
+2024-07-31 11:28:21,250 - root - INFO - Google Extraction Completed
+2024-07-31 11:28:21,263 - GenericCleaner - INFO - Starting Cleaning
+2024-07-31 11:28:21,264 - GenericCleaner - INFO - Starting cleaning process
+2024-07-31 11:28:21,265 - GenericCleaner - INFO - Initial number of rows: 14
+2024-07-31 11:28:21,269 - GenericCleaner - INFO - Number of rows with invalid URLs: 3
+2024-07-31 11:28:21,271 - GenericCleaner - INFO - URLs starting with '/': 0
+2024-07-31 11:28:21,271 - GenericCleaner - INFO - URLs starting with '//': 0
+2024-07-31 11:28:21,271 - GenericCleaner - INFO - Saved 'AfterConvertingInvalidURLs.csv'
+2024-07-31 11:28:21,272 - GenericCleaner - INFO - Number of duplicate rows removed: 0
+2024-07-31 11:28:21,273 - GenericCleaner - INFO - Cleaning process completed
+2024-07-31 11:28:21,273 - GenericCleaner - INFO - Cleaning Completed
+2024-07-31 11:28:21,273 - root - INFO - Creating JSON Object for articles
+2024-07-31 11:28:21,273 - root - INFO - JSON Article Object Created
+2024-07-31 11:28:21,274 - WebsiteDataExtractor - INFO - Starting Extracting Main Content of Article
+2024-07-31 11:28:21,274 - WebsiteDataExtractor - INFO - processing index 0-> https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-07-31 11:28:21,274 - WebsiteDataExtractor - INFO - Processing URL: https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-07-31 11:28:21,277 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): newsinitiative.withgoogle.com:443
+2024-07-31 11:28:21,437 - urllib3.connectionpool - DEBUG - https://newsinitiative.withgoogle.com:443 "GET /hownewsworks/?fg=1 HTTP/11" 200 6755
+2024-07-31 11:28:21,438 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-07-31 11:28:21,438 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-07-31 11:28:22,439 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-07-31 11:28:22,440 - WebsiteDataExtractor - INFO - Extracting main text
+2024-07-31 11:28:22,443 - trafilatura.main_extractor - DEBUG - Recovering wild text elements
+2024-07-31 11:28:22,445 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-07-31 11:28:22,445 - WebsiteDataExtractor - INFO - Getting title
+2024-07-31 11:28:22,452 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-07-31 11:28:22,452 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-07-31 11:28:22,468 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-07-31 11:28:22,468 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-07-31 11:28:22,470 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-07-31 11:28:22,470 - WebsiteDataExtractor - INFO - processing index 1-> https://www.hercampus.com/wellness/aavia-period-tracking-app-taught-me-post-roe-v-wade/
+2024-07-31 11:28:22,471 - WebsiteDataExtractor - INFO - Processing URL: https://www.hercampus.com/wellness/aavia-period-tracking-app-taught-me-post-roe-v-wade/
+2024-07-31 11:28:22,471 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.hercampus.com:443
+2024-07-31 11:28:22,674 - urllib3.connectionpool - DEBUG - https://www.hercampus.com:443 "GET /wellness/aavia-period-tracking-app-taught-me-post-roe-v-wade/ HTTP/11" 200 None
+2024-07-31 11:28:22,699 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.hercampus.com/wellness/aavia-period-tracking-app-taught-me-post-roe-v-wade/
+2024-07-31 11:28:22,699 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-07-31 11:28:23,700 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-07-31 11:28:23,702 - WebsiteDataExtractor - INFO - Extracting main text
+2024-07-31 11:28:23,721 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-07-31 11:28:23,721 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+
+
+2024-07-31 11:28:23,721 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+
+
+2024-07-31 11:28:23,721 - trafilatura.main_extractor - DEBUG - .//*[(self::article or self::div or self::main or self::section)][
+    @class="post" or @class="entry" or
+    contains(@class, "post-text") or contains(@class, "post_text") or
+    contains(@class, "post-body") or contains(@class, "post-entry") or contains(@class, "postentry") or
+    contains(@class, "post-content") or contains(@class, "post_content") or
+    contains(@class, "postcontent") or contains(@class, "postContent") or contains(@class, "post_inner_wrapper") or
+    contains(@class, "article-text") or contains(@class, "articletext") or contains(@class, "articleText")
+    or contains(@id, "entry-content") or
+    contains(@class, "entry-content") or contains(@id, "article-content") or
+    contains(@class, "article-content") or contains(@id, "article__content") or
+    contains(@class, "article__content") or contains(@id, "article-body") or
+    contains(@class, "article-body") or contains(@id, "article__body") or
+    contains(@class, "article__body") or @itemprop="articleBody" or
+    contains(translate(@id, "B", "b"), "articlebody") or contains(translate(@class, "B", "b"), "articleBody")
+    or @id="articleContent" or contains(@class, "ArticleContent") or
+    contains(@class, "page-content") or contains(@class, "text-content") or
+    contains(@id, "body-text") or contains(@class, "body-text") or
+    contains(@class, "article__container") or contains(@id, "art-content") or contains(@class, "art-content")][1]
+2024-07-31 11:28:23,724 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-07-31 11:28:23,724 - WebsiteDataExtractor - INFO - Getting title
+2024-07-31 11:28:23,800 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-07-31 11:28:23,801 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-07-31 11:28:23,809 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-07-31 11:28:23,811 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-07-31 11:28:23,811 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-07-31 11:28:23,812 - WebsiteDataExtractor - INFO - processing index 2-> https://www.prnewswire.com/news-releases/get-well-named-to-avia-marketplaces-2024-top-smart-rooms-companies-302172276.html
+2024-07-31 11:28:23,813 - WebsiteDataExtractor - INFO - Processing URL: https://www.prnewswire.com/news-releases/get-well-named-to-avia-marketplaces-2024-top-smart-rooms-companies-302172276.html
+2024-07-31 11:28:23,814 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.prnewswire.com:443
+2024-07-31 11:28:23,929 - urllib3.connectionpool - DEBUG - https://www.prnewswire.com:443 "GET /news-releases/get-well-named-to-avia-marketplaces-2024-top-smart-rooms-companies-302172276.html HTTP/11" 200 None
+2024-07-31 11:28:23,940 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.prnewswire.com/news-releases/get-well-named-to-avia-marketplaces-2024-top-smart-rooms-companies-302172276.html
+2024-07-31 11:28:23,940 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-07-31 11:28:24,941 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-07-31 11:28:24,942 - WebsiteDataExtractor - INFO - Extracting main text
+2024-07-31 11:28:24,954 - trafilatura.htmlprocessing - DEBUG - list link text/total: 19/110 – short elems/total: 0/1
+2024-07-31 11:28:24,954 - trafilatura.htmlprocessing - DEBUG - list link text/total: 19/42 – short elems/total: 0/1
+2024-07-31 11:28:24,954 - trafilatura.htmlprocessing - DEBUG - list link text/total: 19/42 – short elems/total: 0/1
+2024-07-31 11:28:24,955 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-07-31 11:28:24,955 - trafilatura.main_extractor - DEBUG - discarding element: header 
+
+2024-07-31 11:28:24,955 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+
+2024-07-31 11:28:24,955 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+2024-07-31 11:28:24,955 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+2024-07-31 11:28:24,955 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+ 
+
+
+ 
+
+
+ 
+
+2024-07-31 11:28:24,955 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+2024-07-31 11:28:24,955 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+2024-07-31 11:28:24,955 - trafilatura.main_extractor - DEBUG - discarding element: section 
+
+2024-07-31 11:28:24,955 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+2024-07-31 11:28:24,955 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+2024-07-31 11:28:24,955 - trafilatura.main_extractor - DEBUG - extra p within p: p About Get Well 
+
+2024-07-31 11:28:24,955 - trafilatura.main_extractor - DEBUG - extra p within p: p Get Well Press Contact 
+
+2024-07-31 11:28:24,955 - trafilatura.main_extractor - DEBUG - extra p within p: p About AVIA 
+
+2024-07-31 11:28:24,955 - trafilatura.main_extractor - DEBUG - extra p within p: p AVIA Press Contact 
+
+2024-07-31 11:28:24,955 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+2024-07-31 11:28:24,955 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+2024-07-31 11:28:24,955 - trafilatura.main_extractor - DEBUG - (.//article)[1]
+2024-07-31 11:28:24,957 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-07-31 11:28:24,957 - WebsiteDataExtractor - INFO - Getting title
+2024-07-31 11:28:25,055 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-07-31 11:28:25,055 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-07-31 11:28:25,060 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-07-31 11:28:25,060 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-07-31 11:28:25,061 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-07-31 11:28:25,063 - WebsiteDataExtractor - INFO - processing index 3-> https://www.cnn.com/cnn-underscored/health-fitness/hoka-clifton-9-vs-avia-run-swift-sneakers
+2024-07-31 11:28:25,063 - WebsiteDataExtractor - INFO - Processing URL: https://www.cnn.com/cnn-underscored/health-fitness/hoka-clifton-9-vs-avia-run-swift-sneakers
+2024-07-31 11:28:25,064 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.cnn.com:443
+2024-07-31 11:28:25,201 - urllib3.connectionpool - DEBUG - https://www.cnn.com:443 "GET /cnn-underscored/health-fitness/hoka-clifton-9-vs-avia-run-swift-sneakers HTTP/11" 200 534729
+2024-07-31 11:28:25,250 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.cnn.com/cnn-underscored/health-fitness/hoka-clifton-9-vs-avia-run-swift-sneakers
+2024-07-31 11:28:25,250 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-07-31 11:28:26,251 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-07-31 11:28:26,264 - WebsiteDataExtractor - INFO - Extracting main text
+2024-07-31 11:28:26,339 - trafilatura.htmlprocessing - DEBUG - list link text/total: 22/22 – short elems/total: 0/1
+2024-07-31 11:28:26,340 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/227 – short elems/total: 0/1
+2024-07-31 11:28:26,340 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/14 – short elems/total: 0/1
+2024-07-31 11:28:26,340 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-07-31 11:28:26,340 - trafilatura.main_extractor - DEBUG - discarding element: div 
+                    
+
+2024-07-31 11:28:26,341 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-07-31 11:28:26,341 - trafilatura.main_extractor - DEBUG - discarding element: div 
+            
+2024-07-31 11:28:26,341 - trafilatura.main_extractor - DEBUG - discarding element: div 
+                
+
+
+2024-07-31 11:28:26,341 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+        
+        
+2024-07-31 11:28:26,341 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:26,341 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+        
+        
+2024-07-31 11:28:26,341 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:26,341 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+    
+
+2024-07-31 11:28:26,341 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+    
+2024-07-31 11:28:26,341 - trafilatura.main_extractor - DEBUG - discarding element: div 
+       
+    
+2024-07-31 11:28:26,341 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-07-31 11:28:26,341 - trafilatura.main_extractor - DEBUG - discarding element: div 
+            
+        
+2024-07-31 11:28:26,341 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+    
+2024-07-31 11:28:26,341 - trafilatura.main_extractor - DEBUG - discarding element: div 
+       
+    
+2024-07-31 11:28:26,341 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-07-31 11:28:26,341 - trafilatura.main_extractor - DEBUG - discarding element: div 
+            
+        
+2024-07-31 11:28:26,341 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+    
+2024-07-31 11:28:26,341 - trafilatura.main_extractor - DEBUG - discarding element: div 
+       
+    
+2024-07-31 11:28:26,341 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+    
+2024-07-31 11:28:26,341 - trafilatura.main_extractor - DEBUG - discarding element: div 
+       
+    
+2024-07-31 11:28:26,341 - trafilatura.main_extractor - DEBUG - discarding element: div 
+                  
+                
+2024-07-31 11:28:26,341 - trafilatura.main_extractor - DEBUG - .//*[(self::article or self::div or self::main or self::section)][
+    @class="post" or @class="entry" or
+    contains(@class, "post-text") or contains(@class, "post_text") or
+    contains(@class, "post-body") or contains(@class, "post-entry") or contains(@class, "postentry") or
+    contains(@class, "post-content") or contains(@class, "post_content") or
+    contains(@class, "postcontent") or contains(@class, "postContent") or contains(@class, "post_inner_wrapper") or
+    contains(@class, "article-text") or contains(@class, "articletext") or contains(@class, "articleText")
+    or contains(@id, "entry-content") or
+    contains(@class, "entry-content") or contains(@id, "article-content") or
+    contains(@class, "article-content") or contains(@id, "article__content") or
+    contains(@class, "article__content") or contains(@id, "article-body") or
+    contains(@class, "article-body") or contains(@id, "article__body") or
+    contains(@class, "article__body") or @itemprop="articleBody" or
+    contains(translate(@id, "B", "b"), "articlebody") or contains(translate(@class, "B", "b"), "articleBody")
+    or @id="articleContent" or contains(@class, "ArticleContent") or
+    contains(@class, "page-content") or contains(@class, "text-content") or
+    contains(@id, "body-text") or contains(@class, "body-text") or
+    contains(@class, "article__container") or contains(@id, "art-content") or contains(@class, "art-content")][1]
+2024-07-31 11:28:26,346 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-07-31 11:28:26,346 - WebsiteDataExtractor - INFO - Getting title
+2024-07-31 11:28:26,444 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-07-31 11:28:26,444 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-07-31 11:28:26,505 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-07-31 11:28:26,505 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-07-31 11:28:26,506 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-07-31 11:28:26,509 - WebsiteDataExtractor - INFO - processing index 4-> https://www.newsfilecorp.com/release/204357/Avia-Homes-Announces-Striking-Partnership-with-Di-Carlo-Property-Group
+2024-07-31 11:28:26,510 - WebsiteDataExtractor - INFO - Processing URL: https://www.newsfilecorp.com/release/204357/Avia-Homes-Announces-Striking-Partnership-with-Di-Carlo-Property-Group
+2024-07-31 11:28:26,511 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.newsfilecorp.com:443
+2024-07-31 11:28:26,745 - urllib3.connectionpool - DEBUG - https://www.newsfilecorp.com:443 "GET /release/204357/Avia-Homes-Announces-Striking-Partnership-with-Di-Carlo-Property-Group HTTP/11" 200 None
+2024-07-31 11:28:26,746 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.newsfilecorp.com/release/204357/Avia-Homes-Announces-Striking-Partnership-with-Di-Carlo-Property-Group
+2024-07-31 11:28:26,746 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-07-31 11:28:27,747 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-07-31 11:28:27,748 - WebsiteDataExtractor - INFO - Extracting main text
+2024-07-31 11:28:27,751 - trafilatura.htmlprocessing - DEBUG - list link text/total: 61/213 – short elems/total: 0/1
+2024-07-31 11:28:27,752 - trafilatura.htmlprocessing - DEBUG - list link text/total: 61/200 – short elems/total: 0/1
+2024-07-31 11:28:27,752 - trafilatura.htmlprocessing - DEBUG - list link text/total: 61/61 – short elems/total: 0/1
+2024-07-31 11:28:27,752 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-07-31 11:28:27,752 - trafilatura.main_extractor - DEBUG - discarding element: div 
+                May 28, 2024            
+2024-07-31 11:28:27,752 - trafilatura.main_extractor - DEBUG - discarding element: div 
+                
+                
+2024-07-31 11:28:27,752 - trafilatura.main_extractor - DEBUG - discarding element: div 
+                    Are you wondering how the success of a press release can impact your business? You're trying different marketing strategies like social...                
+2024-07-31 11:28:27,753 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-07-31 11:28:27,753 - trafilatura.main_extractor - DEBUG - discarding element: header 
+
+				
+2024-07-31 11:28:27,753 - trafilatura.main_extractor - DEBUG - extra p within p: p To view an enhanced version of this graphic, please visit: None
+2024-07-31 11:28:27,753 - trafilatura.main_extractor - DEBUG - extra p within p: p Website URL: https://aviahomes.com.au/  None
+2024-07-31 11:28:27,753 - trafilatura.main_extractor - DEBUG - (.//article)[1]
+2024-07-31 11:28:27,754 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-07-31 11:28:27,755 - WebsiteDataExtractor - INFO - Getting title
+2024-07-31 11:28:27,770 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-07-31 11:28:27,770 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-07-31 11:28:27,777 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-07-31 11:28:27,777 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-07-31 11:28:27,778 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-07-31 11:28:27,779 - WebsiteDataExtractor - INFO - processing index 5-> https://newsroom.aviator.aero/avia-solutions-group-concluded-acquisition-of-skytrans-airlines-expanding-to-12-aocs-worldwide/
+2024-07-31 11:28:27,779 - WebsiteDataExtractor - INFO - Processing URL: https://newsroom.aviator.aero/avia-solutions-group-concluded-acquisition-of-skytrans-airlines-expanding-to-12-aocs-worldwide/
+2024-07-31 11:28:27,781 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): newsroom.aviator.aero:443
+2024-07-31 11:28:27,834 - urllib3.connectionpool - DEBUG - https://newsroom.aviator.aero:443 "GET /avia-solutions-group-concluded-acquisition-of-skytrans-airlines-expanding-to-12-aocs-worldwide/ HTTP/11" 200 11293
+2024-07-31 11:28:27,835 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://newsroom.aviator.aero/avia-solutions-group-concluded-acquisition-of-skytrans-airlines-expanding-to-12-aocs-worldwide/
+2024-07-31 11:28:27,835 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-07-31 11:28:28,837 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-07-31 11:28:28,837 - WebsiteDataExtractor - INFO - Extracting main text
+2024-07-31 11:28:28,840 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-07-31 11:28:28,841 - trafilatura.main_extractor - DEBUG - .//*[(self::article or self::div or self::main or self::section)][
+    @class="post" or @class="entry" or
+    contains(@class, "post-text") or contains(@class, "post_text") or
+    contains(@class, "post-body") or contains(@class, "post-entry") or contains(@class, "postentry") or
+    contains(@class, "post-content") or contains(@class, "post_content") or
+    contains(@class, "postcontent") or contains(@class, "postContent") or contains(@class, "post_inner_wrapper") or
+    contains(@class, "article-text") or contains(@class, "articletext") or contains(@class, "articleText")
+    or contains(@id, "entry-content") or
+    contains(@class, "entry-content") or contains(@id, "article-content") or
+    contains(@class, "article-content") or contains(@id, "article__content") or
+    contains(@class, "article__content") or contains(@id, "article-body") or
+    contains(@class, "article-body") or contains(@id, "article__body") or
+    contains(@class, "article__body") or @itemprop="articleBody" or
+    contains(translate(@id, "B", "b"), "articlebody") or contains(translate(@class, "B", "b"), "articleBody")
+    or @id="articleContent" or contains(@class, "ArticleContent") or
+    contains(@class, "page-content") or contains(@class, "text-content") or
+    contains(@id, "body-text") or contains(@class, "body-text") or
+    contains(@class, "article__container") or contains(@id, "art-content") or contains(@class, "art-content")][1]
+2024-07-31 11:28:28,841 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-07-31 11:28:28,841 - WebsiteDataExtractor - INFO - Getting title
+2024-07-31 11:28:28,847 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-07-31 11:28:28,847 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-07-31 11:28:28,848 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-07-31 11:28:28,849 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-07-31 11:28:28,850 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-07-31 11:28:28,850 - WebsiteDataExtractor - INFO - processing index 6-> https://www.aerotime.aero/articles/avia-solutions-group-issues-300m-worth-of-new-bonds
+2024-07-31 11:28:28,850 - WebsiteDataExtractor - INFO - Processing URL: https://www.aerotime.aero/articles/avia-solutions-group-issues-300m-worth-of-new-bonds
+2024-07-31 11:28:28,851 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.aerotime.aero:443
+2024-07-31 11:28:28,955 - urllib3.connectionpool - DEBUG - https://www.aerotime.aero:443 "GET /articles/avia-solutions-group-issues-300m-worth-of-new-bonds HTTP/11" 200 31438
+2024-07-31 11:28:28,960 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.aerotime.aero/articles/avia-solutions-group-issues-300m-worth-of-new-bonds
+2024-07-31 11:28:28,960 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-07-31 11:28:29,962 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-07-31 11:28:29,962 - WebsiteDataExtractor - INFO - Extracting main text
+2024-07-31 11:28:29,969 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-07-31 11:28:29,970 - trafilatura.main_extractor - DEBUG - .//*[(self::article or self::div or self::main or self::section)][
+    @class="post" or @class="entry" or
+    contains(@class, "post-text") or contains(@class, "post_text") or
+    contains(@class, "post-body") or contains(@class, "post-entry") or contains(@class, "postentry") or
+    contains(@class, "post-content") or contains(@class, "post_content") or
+    contains(@class, "postcontent") or contains(@class, "postContent") or contains(@class, "post_inner_wrapper") or
+    contains(@class, "article-text") or contains(@class, "articletext") or contains(@class, "articleText")
+    or contains(@id, "entry-content") or
+    contains(@class, "entry-content") or contains(@id, "article-content") or
+    contains(@class, "article-content") or contains(@id, "article__content") or
+    contains(@class, "article__content") or contains(@id, "article-body") or
+    contains(@class, "article-body") or contains(@id, "article__body") or
+    contains(@class, "article__body") or @itemprop="articleBody" or
+    contains(translate(@id, "B", "b"), "articlebody") or contains(translate(@class, "B", "b"), "articleBody")
+    or @id="articleContent" or contains(@class, "ArticleContent") or
+    contains(@class, "page-content") or contains(@class, "text-content") or
+    contains(@id, "body-text") or contains(@class, "body-text") or
+    contains(@class, "article__container") or contains(@id, "art-content") or contains(@class, "art-content")][1]
+2024-07-31 11:28:29,970 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-07-31 11:28:29,971 - WebsiteDataExtractor - INFO - Getting title
+2024-07-31 11:28:29,990 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-07-31 11:28:29,990 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-07-31 11:28:29,993 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-07-31 11:28:29,994 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-07-31 11:28:29,995 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-07-31 11:28:29,995 - WebsiteDataExtractor - INFO - processing index 7-> https://www.businesswire.com/news/home/20240222636721/en/Syllable-Named-to-AVIA-Marketplace%E2%80%99s-2024-Top-Digital-Front-Door-Companies
+2024-07-31 11:28:29,996 - WebsiteDataExtractor - INFO - Processing URL: https://www.businesswire.com/news/home/20240222636721/en/Syllable-Named-to-AVIA-Marketplace%E2%80%99s-2024-Top-Digital-Front-Door-Companies
+2024-07-31 11:28:29,997 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.businesswire.com:443
+2024-07-31 11:28:30,116 - urllib3.connectionpool - DEBUG - https://www.businesswire.com:443 "GET /news/home/20240222636721/en/Syllable-Named-to-AVIA-Marketplace%E2%80%99s-2024-Top-Digital-Front-Door-Companies HTTP/11" 403 552
+2024-07-31 11:28:30,117 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.businesswire.com/news/home/20240222636721/en/Syllable-Named-to-AVIA-Marketplace%E2%80%99s-2024-Top-Digital-Front-Door-Companies
+2024-07-31 11:28:30,118 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-07-31 11:28:31,119 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-07-31 11:28:31,119 - WebsiteDataExtractor - INFO - Extracting main text
+2024-07-31 11:28:31,121 - trafilatura.main_extractor - DEBUG - Recovering wild text elements
+2024-07-31 11:28:31,121 - trafilatura.core - DEBUG - non-clean extracted length: 103 (extraction)
+2024-07-31 11:28:31,122 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-07-31 11:28:31,122 - WebsiteDataExtractor - INFO - Getting title
+2024-07-31 11:28:31,122 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-07-31 11:28:31,122 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-07-31 11:28:31,123 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-07-31 11:28:31,124 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-07-31 11:28:31,125 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-07-31 11:28:31,125 - WebsiteDataExtractor - INFO - processing index 8-> https://www.legacy.com/us/obituaries/name/avia-riley-obituary?id=54446360
+2024-07-31 11:28:31,125 - WebsiteDataExtractor - INFO - Processing URL: https://www.legacy.com/us/obituaries/name/avia-riley-obituary?id=54446360
+2024-07-31 11:28:31,126 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.legacy.com:443
+2024-07-31 11:28:31,271 - urllib3.connectionpool - DEBUG - https://www.legacy.com:443 "GET /us/obituaries/name/avia-riley-obituary?id=54446360 HTTP/11" 200 None
+2024-07-31 11:28:31,299 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.legacy.com/us/obituaries/name/avia-riley-obituary?id=54446360
+2024-07-31 11:28:31,299 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-07-31 11:28:32,301 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-07-31 11:28:32,301 - WebsiteDataExtractor - INFO - Extracting main text
+2024-07-31 11:28:32,319 - trafilatura.main_extractor - DEBUG - Recovering wild text elements
+2024-07-31 11:28:32,341 - trafilatura.htmlprocessing - DEBUG - list link text/total: 30/72 – short elems/total: 2/4
+2024-07-31 11:28:32,341 - trafilatura.htmlprocessing - DEBUG - list link text/total: 15/16 – short elems/total: 1/2
+2024-07-31 11:28:32,341 - trafilatura.htmlprocessing - DEBUG - list link text/total: 15/16 – short elems/total: 1/2
+2024-07-31 11:28:32,341 - trafilatura.htmlprocessing - DEBUG - list link text/total: 5/6 – short elems/total: 1/1
+2024-07-31 11:28:32,341 - trafilatura.htmlprocessing - DEBUG - list link text/total: 10/10 – short elems/total: 0/1
+2024-07-31 11:28:32,341 - trafilatura.htmlprocessing - DEBUG - list link text/total: 15/16 – short elems/total: 1/2
+2024-07-31 11:28:32,341 - trafilatura.htmlprocessing - DEBUG - list link text/total: 15/16 – short elems/total: 1/2
+2024-07-31 11:28:32,341 - trafilatura.htmlprocessing - DEBUG - list link text/total: 5/6 – short elems/total: 1/1
+2024-07-31 11:28:32,341 - trafilatura.htmlprocessing - DEBUG - list link text/total: 10/10 – short elems/total: 0/1
+2024-07-31 11:28:32,342 - trafilatura.htmlprocessing - DEBUG - list link text/total: 34/87 – short elems/total: 0/1
+2024-07-31 11:28:32,342 - trafilatura.htmlprocessing - DEBUG - list link text/total: 34/87 – short elems/total: 0/1
+2024-07-31 11:28:32,342 - trafilatura.htmlprocessing - DEBUG - list link text/total: 34/87 – short elems/total: 0/1
+2024-07-31 11:28:32,342 - trafilatura.htmlprocessing - DEBUG - list link text/total: 34/75 – short elems/total: 0/1
+2024-07-31 11:28:32,342 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/58 – short elems/total: 0/1
+2024-07-31 11:28:32,342 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/58 – short elems/total: 0/1
+2024-07-31 11:28:32,342 - trafilatura.htmlprocessing - DEBUG - list link text/total: 10/255 – short elems/total: 0/1
+2024-07-31 11:28:32,342 - trafilatura.htmlprocessing - DEBUG - list link text/total: 34/104 – short elems/total: 0/1
+2024-07-31 11:28:32,343 - trafilatura.htmlprocessing - DEBUG - list link text/total: 94/138 – short elems/total: 0/5
+2024-07-31 11:28:32,343 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/234 – short elems/total: 1/1
+2024-07-31 11:28:32,343 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/234 – short elems/total: 1/1
+2024-07-31 11:28:32,343 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/234 – short elems/total: 1/1
+2024-07-31 11:28:32,343 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/234 – short elems/total: 1/1
+2024-07-31 11:28:32,343 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/86 – short elems/total: 1/1
+2024-07-31 11:28:32,343 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/86 – short elems/total: 1/1
+2024-07-31 11:28:32,343 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/86 – short elems/total: 1/1
+2024-07-31 11:28:32,343 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/86 – short elems/total: 1/1
+2024-07-31 11:28:32,343 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/86 – short elems/total: 1/1
+2024-07-31 11:28:32,343 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/147 – short elems/total: 1/1
+2024-07-31 11:28:32,343 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/147 – short elems/total: 1/1
+2024-07-31 11:28:32,343 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/147 – short elems/total: 1/1
+2024-07-31 11:28:32,343 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/147 – short elems/total: 1/1
+2024-07-31 11:28:32,343 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/154 – short elems/total: 1/1
+2024-07-31 11:28:32,344 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/154 – short elems/total: 1/1
+2024-07-31 11:28:32,344 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/154 – short elems/total: 1/1
+2024-07-31 11:28:32,344 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/154 – short elems/total: 1/1
+2024-07-31 11:28:32,344 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/154 – short elems/total: 1/1
+2024-07-31 11:28:32,344 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/94 – short elems/total: 1/1
+2024-07-31 11:28:32,344 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/94 – short elems/total: 1/1
+2024-07-31 11:28:32,344 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/94 – short elems/total: 1/1
+2024-07-31 11:28:32,344 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/94 – short elems/total: 1/1
+2024-07-31 11:28:32,344 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/94 – short elems/total: 1/1
+2024-07-31 11:28:32,344 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/149 – short elems/total: 1/1
+2024-07-31 11:28:32,344 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/149 – short elems/total: 1/1
+2024-07-31 11:28:32,344 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/149 – short elems/total: 1/1
+2024-07-31 11:28:32,344 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/149 – short elems/total: 1/1
+2024-07-31 11:28:32,344 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/177 – short elems/total: 1/1
+2024-07-31 11:28:32,344 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/177 – short elems/total: 1/1
+2024-07-31 11:28:32,344 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/177 – short elems/total: 1/1
+2024-07-31 11:28:32,344 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/177 – short elems/total: 1/1
+2024-07-31 11:28:32,344 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/116 – short elems/total: 1/1
+2024-07-31 11:28:32,344 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/116 – short elems/total: 1/1
+2024-07-31 11:28:32,344 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/116 – short elems/total: 1/1
+2024-07-31 11:28:32,344 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/116 – short elems/total: 1/1
+2024-07-31 11:28:32,344 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/116 – short elems/total: 1/1
+2024-07-31 11:28:32,345 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/119 – short elems/total: 1/1
+2024-07-31 11:28:32,345 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/119 – short elems/total: 1/1
+2024-07-31 11:28:32,345 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/119 – short elems/total: 1/1
+2024-07-31 11:28:32,345 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/119 – short elems/total: 1/1
+2024-07-31 11:28:32,345 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/94 – short elems/total: 1/1
+2024-07-31 11:28:32,345 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/94 – short elems/total: 1/1
+2024-07-31 11:28:32,345 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/94 – short elems/total: 1/1
+2024-07-31 11:28:32,345 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/94 – short elems/total: 1/1
+2024-07-31 11:28:32,345 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/94 – short elems/total: 1/1
+2024-07-31 11:28:32,345 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/133 – short elems/total: 1/1
+2024-07-31 11:28:32,345 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/133 – short elems/total: 1/1
+2024-07-31 11:28:32,345 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/133 – short elems/total: 1/1
+2024-07-31 11:28:32,345 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/133 – short elems/total: 1/1
+2024-07-31 11:28:32,345 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/115 – short elems/total: 1/1
+2024-07-31 11:28:32,345 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/115 – short elems/total: 1/1
+2024-07-31 11:28:32,345 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/115 – short elems/total: 1/1
+2024-07-31 11:28:32,345 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/115 – short elems/total: 1/1
+2024-07-31 11:28:32,345 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/115 – short elems/total: 1/1
+2024-07-31 11:28:32,345 - trafilatura.htmlprocessing - DEBUG - list link text/total: 248/273 – short elems/total: 0/4
+2024-07-31 11:28:32,346 - trafilatura.htmlprocessing - DEBUG - list link text/total: 47/47 – short elems/total: 0/1
+2024-07-31 11:28:32,346 - trafilatura.htmlprocessing - DEBUG - list link text/total: 60/60 – short elems/total: 0/1
+2024-07-31 11:28:32,346 - trafilatura.htmlprocessing - DEBUG - list link text/total: 68/68 – short elems/total: 0/1
+2024-07-31 11:28:32,346 - trafilatura.htmlprocessing - DEBUG - list link text/total: 73/73 – short elems/total: 0/1
+2024-07-31 11:28:32,346 - trafilatura.htmlprocessing - DEBUG - list link text/total: 221/252 – short elems/total: 0/5
+2024-07-31 11:28:32,346 - trafilatura.htmlprocessing - DEBUG - list link text/total: 221/252 – short elems/total: 0/5
+2024-07-31 11:28:32,346 - trafilatura.htmlprocessing - DEBUG - list link text/total: 23/54 – short elems/total: 0/1
+2024-07-31 11:28:32,346 - trafilatura.htmlprocessing - DEBUG - list link text/total: 198/198 – short elems/total: 0/4
+2024-07-31 11:28:32,346 - trafilatura.htmlprocessing - DEBUG - list link text/total: 59/59 – short elems/total: 0/1
+2024-07-31 11:28:32,346 - trafilatura.htmlprocessing - DEBUG - list link text/total: 47/47 – short elems/total: 0/1
+2024-07-31 11:28:32,346 - trafilatura.htmlprocessing - DEBUG - list link text/total: 42/42 – short elems/total: 0/1
+2024-07-31 11:28:32,346 - trafilatura.htmlprocessing - DEBUG - list link text/total: 50/50 – short elems/total: 0/1
+2024-07-31 11:28:32,347 - trafilatura.htmlprocessing - DEBUG - list link text/total: 88/88 – short elems/total: 0/5
+2024-07-31 11:28:32,347 - trafilatura.htmlprocessing - DEBUG - list link text/total: 88/88 – short elems/total: 0/5
+2024-07-31 11:28:32,347 - trafilatura.htmlprocessing - DEBUG - list link text/total: 94/94 – short elems/total: 0/5
+2024-07-31 11:28:32,348 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/58 – short elems/total: 0/1
+2024-07-31 11:28:32,350 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-07-31 11:28:32,350 - WebsiteDataExtractor - INFO - Getting title
+2024-07-31 11:28:32,377 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-07-31 11:28:32,377 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-07-31 11:28:32,384 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-07-31 11:28:32,385 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-07-31 11:28:32,386 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-07-31 11:28:32,386 - WebsiteDataExtractor - INFO - processing index 9-> https://www.baltictimes.com/avia_solutions_group_issues__300m_worth_of_new_bonds/
+2024-07-31 11:28:32,387 - WebsiteDataExtractor - INFO - Processing URL: https://www.baltictimes.com/avia_solutions_group_issues__300m_worth_of_new_bonds/
+2024-07-31 11:28:32,388 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.baltictimes.com:443
+2024-07-31 11:28:32,772 - urllib3.connectionpool - DEBUG - https://www.baltictimes.com:443 "GET /avia_solutions_group_issues__300m_worth_of_new_bonds/ HTTP/11" 200 None
+2024-07-31 11:28:32,773 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.baltictimes.com/avia_solutions_group_issues__300m_worth_of_new_bonds/
+2024-07-31 11:28:32,773 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-07-31 11:28:33,774 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-07-31 11:28:33,775 - WebsiteDataExtractor - INFO - Extracting main text
+2024-07-31 11:28:33,782 - trafilatura.main_extractor - DEBUG - Recovering wild text elements
+2024-07-31 11:28:33,788 - trafilatura.htmlprocessing - DEBUG - list link text/total: 169/188 – short elems/total: 0/3
+2024-07-31 11:28:33,788 - trafilatura.htmlprocessing - DEBUG - list link text/total: 169/171 – short elems/total: 0/3
+2024-07-31 11:28:33,789 - trafilatura.htmlprocessing - DEBUG - list link text/total: 54/54 – short elems/total: 0/1
+2024-07-31 11:28:33,789 - trafilatura.htmlprocessing - DEBUG - list link text/total: 54/54 – short elems/total: 0/1
+2024-07-31 11:28:33,789 - trafilatura.htmlprocessing - DEBUG - list link text/total: 66/66 – short elems/total: 0/1
+2024-07-31 11:28:33,789 - trafilatura.htmlprocessing - DEBUG - list link text/total: 66/66 – short elems/total: 0/1
+2024-07-31 11:28:33,789 - trafilatura.htmlprocessing - DEBUG - list link text/total: 49/49 – short elems/total: 0/1
+2024-07-31 11:28:33,789 - trafilatura.htmlprocessing - DEBUG - list link text/total: 49/49 – short elems/total: 0/1
+2024-07-31 11:28:33,789 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/39 – short elems/total: 0/1
+2024-07-31 11:28:33,789 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/39 – short elems/total: 0/1
+2024-07-31 11:28:33,789 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/39 – short elems/total: 0/1
+2024-07-31 11:28:33,789 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/39 – short elems/total: 0/1
+2024-07-31 11:28:33,789 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/39 – short elems/total: 0/1
+2024-07-31 11:28:33,789 - trafilatura.main_extractor - DEBUG - extra p within p: p  2024 © The Baltic Times /Cookies Policy  
+2024-07-31 11:28:33,790 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-07-31 11:28:33,790 - WebsiteDataExtractor - INFO - Getting title
+2024-07-31 11:28:33,800 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-07-31 11:28:33,800 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-07-31 11:28:33,805 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-07-31 11:28:33,806 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-07-31 11:28:33,807 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-07-31 11:28:33,808 - WebsiteDataExtractor - INFO - processing index 10-> https://e-tangata.co.nz/reflections/tusiata-avia-a-strange-dance-with-friends/
+2024-07-31 11:28:33,808 - WebsiteDataExtractor - INFO - Processing URL: https://e-tangata.co.nz/reflections/tusiata-avia-a-strange-dance-with-friends/
+2024-07-31 11:28:33,809 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): e-tangata.co.nz:443
+2024-07-31 11:28:35,015 - urllib3.connectionpool - DEBUG - https://e-tangata.co.nz:443 "GET /reflections/tusiata-avia-a-strange-dance-with-friends/ HTTP/11" 200 None
+2024-07-31 11:28:35,050 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://e-tangata.co.nz/reflections/tusiata-avia-a-strange-dance-with-friends/
+2024-07-31 11:28:35,050 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-07-31 11:28:36,051 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-07-31 11:28:36,051 - WebsiteDataExtractor - INFO - Extracting main text
+2024-07-31 11:28:36,058 - trafilatura.htmlprocessing - DEBUG - list link text/total: 17/17 – short elems/total: 0/1
+2024-07-31 11:28:36,058 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-07-31 11:28:36,058 - trafilatura.main_extractor - DEBUG - discarding element: div 
+								
+2024-07-31 11:28:36,058 - trafilatura.main_extractor - DEBUG - .//*[(self::article or self::div or self::main or self::section)][
+    @class="post" or @class="entry" or
+    contains(@class, "post-text") or contains(@class, "post_text") or
+    contains(@class, "post-body") or contains(@class, "post-entry") or contains(@class, "postentry") or
+    contains(@class, "post-content") or contains(@class, "post_content") or
+    contains(@class, "postcontent") or contains(@class, "postContent") or contains(@class, "post_inner_wrapper") or
+    contains(@class, "article-text") or contains(@class, "articletext") or contains(@class, "articleText")
+    or contains(@id, "entry-content") or
+    contains(@class, "entry-content") or contains(@id, "article-content") or
+    contains(@class, "article-content") or contains(@id, "article__content") or
+    contains(@class, "article__content") or contains(@id, "article-body") or
+    contains(@class, "article-body") or contains(@id, "article__body") or
+    contains(@class, "article__body") or @itemprop="articleBody" or
+    contains(translate(@id, "B", "b"), "articlebody") or contains(translate(@class, "B", "b"), "articleBody")
+    or @id="articleContent" or contains(@class, "ArticleContent") or
+    contains(@class, "page-content") or contains(@class, "text-content") or
+    contains(@id, "body-text") or contains(@class, "body-text") or
+    contains(@class, "article__container") or contains(@id, "art-content") or contains(@class, "art-content")][1]
+2024-07-31 11:28:36,060 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-07-31 11:28:36,060 - WebsiteDataExtractor - INFO - Getting title
+2024-07-31 11:28:36,075 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-07-31 11:28:36,075 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-07-31 11:28:36,077 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-07-31 11:28:36,078 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-07-31 11:28:36,079 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-07-31 11:28:36,080 - WebsiteDataExtractor - INFO - Completed Extracting Main Content of Article
+2024-07-31 11:28:36,080 - root - INFO - Adding articles to the JSON
+2024-07-31 11:28:36,081 - root - INFO - Adding articles to the JSON
+2024-07-31 11:28:36,081 - root - INFO - Adding articles to the JSON
+2024-07-31 11:28:36,081 - root - INFO - Adding articles to the JSON
+2024-07-31 11:28:36,081 - root - INFO - Adding articles to the JSON
+2024-07-31 11:28:36,081 - root - INFO - Adding articles to the JSON
+2024-07-31 11:28:36,082 - root - INFO - Adding articles to the JSON
+2024-07-31 11:28:36,082 - root - INFO - Adding articles to the JSON
+2024-07-31 11:28:36,082 - root - INFO - Adding articles to the JSON
+2024-07-31 11:28:36,082 - root - INFO - Adding articles to the JSON
+2024-07-31 11:28:36,082 - root - INFO - Adding articles to the JSON
+2024-07-31 11:28:36,082 - root - INFO - Adding JSON article Object to POI_articles_JSON
+2024-07-31 11:28:36,083 - root - INFO - Processing index 1
+2024-07-31 11:28:36,083 - root - INFO - First Name: Rajia, Last Name: Abdelaziz, Organization: invisaWear
+2024-07-31 11:28:36,083 - root - INFO - EnteringGoogle Extraction
+2024-07-31 11:28:36,083 - asyncio - DEBUG - Using selector: EpollSelector
+2024-07-31 11:28:36,296 - root - INFO - Starting Google Extraction
+2024-07-31 11:28:36,296 - root - INFO - Inside Run Function
+2024-07-31 11:28:36,400 - root - INFO - Browser Launched
+2024-07-31 11:28:36,407 - root - INFO - New Context Created
+2024-07-31 11:28:36,831 - root - INFO - New Page Created
+2024-07-31 11:28:37,965 - root - INFO - Navigated to Google
+2024-07-31 11:28:37,966 - root - INFO - Trying to get search box
+2024-07-31 11:28:37,966 - root - INFO - Search box found
+2024-07-31 11:28:40,884 - root - INFO - Search results loaded
+2024-07-31 11:28:40,917 - root - INFO - Trying to get News tab
+2024-07-31 11:28:40,917 - root - INFO - News tab found
+2024-07-31 11:28:42,801 - root - INFO - News results loaded
+2024-07-31 11:28:42,824 - root - INFO - Extracted all 'a' tags
+2024-07-31 11:28:42,825 - root - INFO - Checking if URL is not google domain: 
+2024-07-31 11:28:42,825 - root - INFO - URL is not google domain: 
+2024-07-31 11:28:42,825 - root - INFO - Checking if URL is not google domain: https://support.google.com/websearch/answer/181196?hl=en
+2024-07-31 11:28:42,825 - root - INFO - Checking if URL is not google domain: 
+2024-07-31 11:28:42,825 - root - INFO - URL is not google domain: 
+2024-07-31 11:28:42,825 - root - INFO - Checking if URL is not google domain: https://www.google.com/webhp?hl=en&ictx=2&sa=X&ved=0ahUKEwi84YL-y9GHAxWMC3kGHepHGb0QPQgJ
+2024-07-31 11:28:42,825 - root - INFO - Checking if URL is not google domain: https://www.google.com/intl/en/about/products
+2024-07-31 11:28:42,826 - root - INFO - Checking if URL is not google domain: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fsca_esv%3D553650bb8dd64e30%26q%3DRajia%2BAbdelaziz%2BinvisaWear%26tbm%3Dnws%26source%3Dlnms%26fbs%3DAEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ%26sa%3DX%26ved%3D2ahUKEwip6ND8y9GHAxUirokEHfPDLzUQ0pQJegQICRAB%26biw%3D1280%26bih%3D720%26dpr%3D1&ec=futura_gmv_dt_so_72586115_e
+2024-07-31 11:28:42,826 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Rajia+Abdelaziz+invisaWear&sca_esv=553650bb8dd64e30&biw=1280&bih=720&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ&sa=X&ved=2ahUKEwi84YL-y9GHAxWMC3kGHepHGb0Q0pQJegQIBhAC
+2024-07-31 11:28:42,826 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Rajia+Abdelaziz+invisaWear&sa=X&sca_esv=553650bb8dd64e30&biw=1280&bih=720&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ&ved=2ahUKEwi84YL-y9GHAxWMC3kGHepHGb0QtKgLegQIBhAE
+2024-07-31 11:28:42,826 - root - INFO - Checking if URL is not google domain: 
+2024-07-31 11:28:42,826 - root - INFO - URL is not google domain: 
+2024-07-31 11:28:42,826 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Rajia+Abdelaziz+invisaWear&sa=X&sca_esv=553650bb8dd64e30&biw=1280&bih=720&udm=28&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ&ved=2ahUKEwi84YL-y9GHAxWMC3kGHepHGb0QtKgLegQIBhAI
+2024-07-31 11:28:42,826 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Rajia+Abdelaziz+invisaWear&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=vid&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ&sa=X&ved=2ahUKEwi84YL-y9GHAxWMC3kGHepHGb0Q0pQJegQIBhAK
+2024-07-31 11:28:42,826 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Rajia+Abdelaziz+invisaWear&sa=X&sca_esv=553650bb8dd64e30&biw=1280&bih=720&udm=18&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ&ved=2ahUKEwi84YL-y9GHAxWMC3kGHepHGb0Qs6gLegQIBhAM
+2024-07-31 11:28:42,826 - root - INFO - Checking if URL is not google domain: https://maps.google.com/maps?sca_esv=553650bb8dd64e30&q=Rajia+Abdelaziz+invisaWear&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ&biw=1280&bih=720&dpr=1&um=1&ie=UTF-8&ved=1t:200715&ictx=111
+2024-07-31 11:28:42,827 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Rajia+Abdelaziz+invisaWear&sa=X&sca_esv=553650bb8dd64e30&biw=1280&bih=720&udm=14&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ&ved=2ahUKEwi84YL-y9GHAxWMC3kGHepHGb0Q0pQJKAB6BAgGEBI
+2024-07-31 11:28:42,827 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Rajia+Abdelaziz+invisaWear&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=bks&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ&sa=X&ved=2ahUKEwi84YL-y9GHAxWMC3kGHepHGb0Q0pQJKAF6BAgGEBM
+2024-07-31 11:28:42,827 - root - INFO - Checking if URL is not google domain: https://www.google.com/travel/flights?q=Rajia+Abdelaziz+invisaWear&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=flm&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ&ved=1t:200715&ictx=111
+2024-07-31 11:28:42,827 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Rajia+Abdelaziz+invisaWear&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:h&sa=X&ved=2ahUKEwi84YL-y9GHAxWMC3kGHepHGb0QpwV6BAgEEAc
+2024-07-31 11:28:42,827 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Rajia+Abdelaziz+invisaWear&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:d&sa=X&ved=2ahUKEwi84YL-y9GHAxWMC3kGHepHGb0QpwV6BAgEEAg
+2024-07-31 11:28:42,827 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Rajia+Abdelaziz+invisaWear&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:w&sa=X&ved=2ahUKEwi84YL-y9GHAxWMC3kGHepHGb0QpwV6BAgEEAk
+2024-07-31 11:28:42,827 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Rajia+Abdelaziz+invisaWear&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:m&sa=X&ved=2ahUKEwi84YL-y9GHAxWMC3kGHepHGb0QpwV6BAgEEAo
+2024-07-31 11:28:42,827 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Rajia+Abdelaziz+invisaWear&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:y&sa=X&ved=2ahUKEwi84YL-y9GHAxWMC3kGHepHGb0QpwV6BAgEEAs
+2024-07-31 11:28:42,827 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Rajia+Abdelaziz+invisaWear&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=nws&source=lnt&tbs=ar:1&sa=X&ved=2ahUKEwi84YL-y9GHAxWMC3kGHepHGb0QpwV6BAgEEAw
+2024-07-31 11:28:42,827 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Rajia+Abdelaziz+invisaWear&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=nws&source=lnt&tbs=sbd:1&sa=X&ved=2ahUKEwi84YL-y9GHAxWMC3kGHepHGb0QpwV6BAgEEBQ
+2024-07-31 11:28:42,827 - root - INFO - Checking if URL is not google domain: http://news.google.com/news/advanced_news_search?sca_esv=553650bb8dd64e30&q=Rajia+Abdelaziz+invisaWear&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ&biw=1280&bih=720&dpr=1
+2024-07-31 11:28:42,828 - root - INFO - Checking if URL is not google domain: https://www.google.com/history/optout?hl=en
+2024-07-31 11:28:42,828 - root - INFO - Checking if URL is not google domain: https://www.google.com/safesearch?prev=https://www.google.com/search?sca_esv%3D553650bb8dd64e30%26q%3DRajia%2BAbdelaziz%2BinvisaWear%26tbm%3Dnws%26source%3Dlnms%26fbs%3DAEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ%26sa%3DX%26ved%3D2ahUKEwip6ND8y9GHAxUirokEHfPDLzUQ0pQJegQICRAB%26biw%3D1280%26bih%3D720%26dpr%3D1&sa=X&ved=2ahUKEwi84YL-y9GHAxWMC3kGHepHGb0Q8JsIegQIBRAG
+2024-07-31 11:28:42,828 - root - INFO - Checking if URL is not google domain: https://www.google.com/preferences?lang=1&hl=en&prev=https://www.google.com/search?q%3DRajia%2BAbdelaziz%2BinvisaWear%26sa%3DX%26sca_esv%3D553650bb8dd64e30%26biw%3D1280%26bih%3D720%26tbm%3Dnws#languages
+2024-07-31 11:28:42,828 - root - INFO - Checking if URL is not google domain: https://www.google.com/setprefs?hl=en&prev=https://www.google.com/search?sca_esv%3D553650bb8dd64e30%26q%3DRajia%2BAbdelaziz%2BinvisaWear%26tbm%3Dnws%26source%3Dlnms%26fbs%3DAEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ%26sa%3DX%26ved%3D2ahUKEwip6ND8y9GHAxUirokEHfPDLzUQ0pQJegQICRAB%26biw%3D1280%26bih%3D720%26dpr%3D1%26pccc%3D1&sig=0_D1BheOfS1nTzQIY1ED8vF0l70aQ%3D&cs=2&sa=X&ved=2ahUKEwi84YL-y9GHAxWMC3kGHepHGb0QqsEHegQIBRAI&ictx=1
+2024-07-31 11:28:42,828 - root - INFO - Checking if URL is not google domain: https://www.google.com/preferences?hl=en&prev=https://www.google.com/search?q%3DRajia%2BAbdelaziz%2BinvisaWear%26sa%3DX%26sca_esv%3D553650bb8dd64e30%26biw%3D1280%26bih%3D720%26tbm%3Dnws
+2024-07-31 11:28:42,828 - root - INFO - Checking if URL is not google domain: https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-07-31 11:28:42,828 - root - INFO - URL is not google domain: https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-07-31 11:28:42,828 - root - INFO - Checking if URL is not google domain: https://support.google.com/websearch/?p=dsrp_search_hc&hl=en
+2024-07-31 11:28:42,828 - root - INFO - Checking if URL is not google domain: https://policies.google.com/privacy?hl=en&fg=1
+2024-07-31 11:28:42,828 - root - INFO - Checking if URL is not google domain: https://policies.google.com/terms?hl=en&fg=1
+2024-07-31 11:28:42,829 - root - INFO - Checking if URL is not google domain: https://www.bostonglobe.com/tech-power-players/year/2023/person/rajia-abdelaziz-invisawear/
+2024-07-31 11:28:42,829 - root - INFO - URL is not google domain: https://www.bostonglobe.com/tech-power-players/year/2023/person/rajia-abdelaziz-invisawear/
+2024-07-31 11:28:42,829 - root - INFO - Checking if URL is not google domain: https://www.forbes.com/video/6341125910112/this-jewelry-entrepreneur-is-hiding-safety-tech-in-necklaces/
+2024-07-31 11:28:42,829 - root - INFO - URL is not google domain: https://www.forbes.com/video/6341125910112/this-jewelry-entrepreneur-is-hiding-safety-tech-in-necklaces/
+2024-07-31 11:28:42,829 - root - INFO - Checking if URL is not google domain: https://www.uml.edu/magazine/fall-2019/rajia-abdelaziz.aspx
+2024-07-31 11:28:42,829 - root - INFO - URL is not google domain: https://www.uml.edu/magazine/fall-2019/rajia-abdelaziz.aspx
+2024-07-31 11:28:42,829 - root - INFO - Checking if URL is not google domain: https://blog.adafruit.com/2023/01/11/wearable-security-rajia-abdelazizs-invisawear-wearablewednesday/
+2024-07-31 11:28:42,829 - root - INFO - URL is not google domain: https://blog.adafruit.com/2023/01/11/wearable-security-rajia-abdelazizs-invisawear-wearablewednesday/
+2024-07-31 11:28:42,829 - root - INFO - Checking if URL is not google domain: https://www.bustle.com/style/invisawear-smart-safety-accessories
+2024-07-31 11:28:42,829 - root - INFO - URL is not google domain: https://www.bustle.com/style/invisawear-smart-safety-accessories
+2024-07-31 11:28:42,829 - root - INFO - Checking if URL is not google domain: https://www.forbes.com/sites/katematthams/2022/11/25/how-one-young-entrepreneur-is-using-jewelry-to-keep-women-safe/
+2024-07-31 11:28:42,829 - root - INFO - URL is not google domain: https://www.forbes.com/sites/katematthams/2022/11/25/how-one-young-entrepreneur-is-using-jewelry-to-keep-women-safe/
+2024-07-31 11:28:42,829 - root - INFO - Checking if URL is not google domain: https://abc7.com/invisawear-jenelle-valdina-rajia-abdelaziz-ray-hamilton/5164536/
+2024-07-31 11:28:42,830 - root - INFO - URL is not google domain: https://abc7.com/invisawear-jenelle-valdina-rajia-abdelaziz-ray-hamilton/5164536/
+2024-07-31 11:28:42,830 - root - INFO - Checking if URL is not google domain: https://www.uml.edu/news/news-articles/2019/exhale-invisiwear.aspx
+2024-07-31 11:28:42,830 - root - INFO - URL is not google domain: https://www.uml.edu/news/news-articles/2019/exhale-invisiwear.aspx
+2024-07-31 11:28:42,830 - root - INFO - Checking if URL is not google domain: https://www.lowellsun.com/2020/12/12/lowell-based-invisawear-partners-with-adt-for-enhanced-security-offerings/
+2024-07-31 11:28:42,830 - root - INFO - URL is not google domain: https://www.lowellsun.com/2020/12/12/lowell-based-invisawear-partners-with-adt-for-enhanced-security-offerings/
+2024-07-31 11:28:42,830 - root - INFO - Checking if URL is not google domain: https://coolmomtech.com/2019/02/invisawear-smart-jewelry-safety-alert/
+2024-07-31 11:28:42,830 - root - INFO - URL is not google domain: https://coolmomtech.com/2019/02/invisawear-smart-jewelry-safety-alert/
+2024-07-31 11:28:42,830 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Rajia+Abdelaziz+invisaWear&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=nws&ei=KViqZvyoJIyX5OMP6o_l6As&start=10&sa=N&ved=2ahUKEwi84YL-y9GHAxWMC3kGHepHGb0Q8tMDegQIARAE
+2024-07-31 11:28:42,830 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Rajia+Abdelaziz+invisaWear&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=nws&ei=KViqZvyoJIyX5OMP6o_l6As&start=20&sa=N&ved=2ahUKEwi84YL-y9GHAxWMC3kGHepHGb0Q8tMDegQIARAG
+2024-07-31 11:28:42,830 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Rajia+Abdelaziz+invisaWear&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=nws&ei=KViqZvyoJIyX5OMP6o_l6As&start=10&sa=N&ved=2ahUKEwi84YL-y9GHAxWMC3kGHepHGb0Q8NMDegQIARAI
+2024-07-31 11:28:42,830 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?sca_esv=553650bb8dd64e30&q=Rajia+Abdelaziz+invisaWear&tbm=nws&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ&sa=X&ved=2ahUKEwip6ND8y9GHAxUirokEHfPDLzUQ0pQJegQICRAB&biw=1280&bih=720&dpr=1#
+2024-07-31 11:28:42,830 - root - INFO - Final List of URLs Created
+2024-07-31 11:28:42,946 - root - INFO - Browser Closed and returning final_list
+2024-07-31 11:28:42,946 - root - INFO - Google Extraction Completed
+2024-07-31 11:28:42,960 - GenericCleaner - INFO - Starting Cleaning
+2024-07-31 11:28:42,960 - GenericCleaner - INFO - Starting cleaning process
+2024-07-31 11:28:42,961 - GenericCleaner - INFO - Initial number of rows: 14
+2024-07-31 11:28:42,965 - GenericCleaner - INFO - Number of rows with invalid URLs: 3
+2024-07-31 11:28:42,966 - GenericCleaner - INFO - URLs starting with '/': 0
+2024-07-31 11:28:42,967 - GenericCleaner - INFO - URLs starting with '//': 0
+2024-07-31 11:28:42,967 - GenericCleaner - INFO - Saved 'AfterConvertingInvalidURLs.csv'
+2024-07-31 11:28:42,968 - GenericCleaner - INFO - Number of duplicate rows removed: 0
+2024-07-31 11:28:42,968 - GenericCleaner - INFO - Cleaning process completed
+2024-07-31 11:28:42,968 - GenericCleaner - INFO - Cleaning Completed
+2024-07-31 11:28:42,968 - root - INFO - Creating JSON Object for articles
+2024-07-31 11:28:42,968 - root - INFO - JSON Article Object Created
+2024-07-31 11:28:42,969 - WebsiteDataExtractor - INFO - Starting Extracting Main Content of Article
+2024-07-31 11:28:42,969 - WebsiteDataExtractor - INFO - processing index 0-> https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-07-31 11:28:42,970 - WebsiteDataExtractor - INFO - Processing URL: https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-07-31 11:28:42,971 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): newsinitiative.withgoogle.com:443
+2024-07-31 11:28:43,075 - urllib3.connectionpool - DEBUG - https://newsinitiative.withgoogle.com:443 "GET /hownewsworks/?fg=1 HTTP/11" 200 6755
+2024-07-31 11:28:43,076 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-07-31 11:28:43,076 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-07-31 11:28:44,077 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-07-31 11:28:44,077 - WebsiteDataExtractor - INFO - Extracting main text
+2024-07-31 11:28:44,080 - trafilatura.main_extractor - DEBUG - Recovering wild text elements
+2024-07-31 11:28:44,082 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-07-31 11:28:44,082 - WebsiteDataExtractor - INFO - Getting title
+2024-07-31 11:28:44,088 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-07-31 11:28:44,088 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-07-31 11:28:44,102 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-07-31 11:28:44,103 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-07-31 11:28:44,104 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-07-31 11:28:44,105 - WebsiteDataExtractor - INFO - processing index 1-> https://www.bostonglobe.com/tech-power-players/year/2023/person/rajia-abdelaziz-invisawear/
+2024-07-31 11:28:44,105 - WebsiteDataExtractor - INFO - Processing URL: https://www.bostonglobe.com/tech-power-players/year/2023/person/rajia-abdelaziz-invisawear/
+2024-07-31 11:28:44,106 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.bostonglobe.com:443
+2024-07-31 11:28:44,302 - urllib3.connectionpool - DEBUG - https://www.bostonglobe.com:443 "GET /tech-power-players/year/2023/person/rajia-abdelaziz-invisawear/ HTTP/11" 200 25242
+2024-07-31 11:28:44,306 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.bostonglobe.com/tech-power-players/year/2023/person/rajia-abdelaziz-invisawear/
+2024-07-31 11:28:44,306 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-07-31 11:28:45,308 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-07-31 11:28:45,309 - WebsiteDataExtractor - INFO - Extracting main text
+2024-07-31 11:28:45,323 - trafilatura.htmlprocessing - DEBUG - list link text/total: 66/82 – short elems/total: 0/1
+2024-07-31 11:28:45,323 - trafilatura.htmlprocessing - DEBUG - list link text/total: 21/85 – short elems/total: 0/1
+2024-07-31 11:28:45,323 - trafilatura.htmlprocessing - DEBUG - list link text/total: 21/85 – short elems/total: 0/1
+2024-07-31 11:28:45,323 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/59 – short elems/total: 0/1
+2024-07-31 11:28:45,323 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/59 – short elems/total: 0/1
+2024-07-31 11:28:45,323 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/43 – short elems/total: 0/1
+2024-07-31 11:28:45,323 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/43 – short elems/total: 0/1
+2024-07-31 11:28:45,323 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/43 – short elems/total: 0/1
+2024-07-31 11:28:45,323 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/41 – short elems/total: 0/1
+2024-07-31 11:28:45,323 - trafilatura.htmlprocessing - DEBUG - list link text/total: 21/85 – short elems/total: 0/1
+2024-07-31 11:28:45,323 - trafilatura.htmlprocessing - DEBUG - list link text/total: 21/85 – short elems/total: 0/1
+2024-07-31 11:28:45,323 - trafilatura.htmlprocessing - DEBUG - list link text/total: 21/85 – short elems/total: 0/1
+2024-07-31 11:28:45,323 - trafilatura.htmlprocessing - DEBUG - list link text/total: 21/85 – short elems/total: 0/1
+2024-07-31 11:28:45,323 - trafilatura.htmlprocessing - DEBUG - list link text/total: 21/85 – short elems/total: 0/1
+2024-07-31 11:28:45,323 - trafilatura.htmlprocessing - DEBUG - list link text/total: 21/85 – short elems/total: 0/1
+2024-07-31 11:28:45,323 - trafilatura.htmlprocessing - DEBUG - list link text/total: 21/85 – short elems/total: 0/1
+2024-07-31 11:28:45,323 - trafilatura.htmlprocessing - DEBUG - list link text/total: 21/85 – short elems/total: 0/1
+2024-07-31 11:28:45,324 - trafilatura.htmlprocessing - DEBUG - list link text/total: 66/82 – short elems/total: 0/1
+2024-07-31 11:28:45,324 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/59 – short elems/total: 0/1
+2024-07-31 11:28:45,324 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/59 – short elems/total: 0/1
+2024-07-31 11:28:45,324 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/43 – short elems/total: 0/1
+2024-07-31 11:28:45,324 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/43 – short elems/total: 0/1
+2024-07-31 11:28:45,324 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/43 – short elems/total: 0/1
+2024-07-31 11:28:45,324 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/41 – short elems/total: 0/1
+2024-07-31 11:28:45,324 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,325 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:45,326 - trafilatura.main_extractor - DEBUG - (.//*[(self::article or self::div or self::main or self::section)][
+    contains(@id, "content-main") or contains(@class, "content-main") or contains(@class, "content_main") or
+    contains(@id, "content-body") or contains(@class, "content-body") or contains(@id, "contentBody")
+    or contains(@class, "content__body") or contains(translate(@id, "CM","cm"), "main-content") or contains(translate(@class, "CM","cm"), "main-content")
+    or contains(translate(@class, "CP","cp"), "page-content") or
+    @id="content" or @class="content"])[1]
+2024-07-31 11:28:45,328 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-07-31 11:28:45,328 - WebsiteDataExtractor - INFO - Getting title
+2024-07-31 11:28:45,340 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-07-31 11:28:45,340 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-07-31 11:28:45,362 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-07-31 11:28:45,363 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-07-31 11:28:45,364 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-07-31 11:28:45,365 - WebsiteDataExtractor - INFO - processing index 2-> https://www.forbes.com/video/6341125910112/this-jewelry-entrepreneur-is-hiding-safety-tech-in-necklaces/
+2024-07-31 11:28:45,365 - WebsiteDataExtractor - INFO - Processing URL: https://www.forbes.com/video/6341125910112/this-jewelry-entrepreneur-is-hiding-safety-tech-in-necklaces/
+2024-07-31 11:28:45,366 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.forbes.com:443
+2024-07-31 11:28:45,415 - urllib3.connectionpool - DEBUG - https://www.forbes.com:443 "GET /video/6341125910112/this-jewelry-entrepreneur-is-hiding-safety-tech-in-necklaces/ HTTP/11" 200 41484
+2024-07-31 11:28:45,417 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.forbes.com/video/6341125910112/this-jewelry-entrepreneur-is-hiding-safety-tech-in-necklaces/
+2024-07-31 11:28:45,418 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-07-31 11:28:46,419 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-07-31 11:28:46,419 - WebsiteDataExtractor - INFO - Extracting main text
+2024-07-31 11:28:46,431 - trafilatura.htmlprocessing - DEBUG - list link text/total: 87/87 – short elems/total: 0/1
+2024-07-31 11:28:46,431 - trafilatura.htmlprocessing - DEBUG - list link text/total: 87/87 – short elems/total: 0/1
+2024-07-31 11:28:46,431 - trafilatura.htmlprocessing - DEBUG - list link text/total: 91/91 – short elems/total: 0/1
+2024-07-31 11:28:46,431 - trafilatura.htmlprocessing - DEBUG - list link text/total: 91/91 – short elems/total: 0/1
+2024-07-31 11:28:46,431 - trafilatura.htmlprocessing - DEBUG - list link text/total: 82/82 – short elems/total: 0/1
+2024-07-31 11:28:46,431 - trafilatura.htmlprocessing - DEBUG - list link text/total: 82/82 – short elems/total: 0/1
+2024-07-31 11:28:46,431 - trafilatura.htmlprocessing - DEBUG - list link text/total: 105/105 – short elems/total: 0/1
+2024-07-31 11:28:46,431 - trafilatura.htmlprocessing - DEBUG - list link text/total: 79/79 – short elems/total: 0/1
+2024-07-31 11:28:46,431 - trafilatura.htmlprocessing - DEBUG - list link text/total: 79/79 – short elems/total: 0/1
+2024-07-31 11:28:46,431 - trafilatura.htmlprocessing - DEBUG - list link text/total: 77/77 – short elems/total: 0/1
+2024-07-31 11:28:46,431 - trafilatura.htmlprocessing - DEBUG - list link text/total: 77/77 – short elems/total: 0/1
+2024-07-31 11:28:46,431 - trafilatura.htmlprocessing - DEBUG - list link text/total: 70/70 – short elems/total: 0/1
+2024-07-31 11:28:46,431 - trafilatura.htmlprocessing - DEBUG - list link text/total: 70/70 – short elems/total: 0/1
+2024-07-31 11:28:46,431 - trafilatura.htmlprocessing - DEBUG - list link text/total: 64/64 – short elems/total: 0/1
+2024-07-31 11:28:46,432 - trafilatura.htmlprocessing - DEBUG - list link text/total: 64/64 – short elems/total: 0/1
+2024-07-31 11:28:46,432 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'div', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-07-31 11:28:46,432 - trafilatura.main_extractor - DEBUG - (.//*[(self::article or self::div or self::section)][starts-with(@class, "main") or starts-with(@id, "main") or starts-with(@role, "main")])[1]|(.//main)[1]
+2024-07-31 11:28:46,432 - trafilatura.main_extractor - DEBUG - Recovering wild text elements
+2024-07-31 11:28:46,438 - trafilatura.htmlprocessing - DEBUG - list link text/total: 24/24 – short elems/total: 0/1
+2024-07-31 11:28:46,438 - trafilatura.htmlprocessing - DEBUG - list link text/total: 24/24 – short elems/total: 0/1
+2024-07-31 11:28:46,438 - trafilatura.htmlprocessing - DEBUG - list link text/total: 24/24 – short elems/total: 0/1
+2024-07-31 11:28:46,438 - trafilatura.htmlprocessing - DEBUG - list link text/total: 87/87 – short elems/total: 0/1
+2024-07-31 11:28:46,438 - trafilatura.htmlprocessing - DEBUG - list link text/total: 87/87 – short elems/total: 0/1
+2024-07-31 11:28:46,438 - trafilatura.htmlprocessing - DEBUG - list link text/total: 91/91 – short elems/total: 0/1
+2024-07-31 11:28:46,438 - trafilatura.htmlprocessing - DEBUG - list link text/total: 91/91 – short elems/total: 0/1
+2024-07-31 11:28:46,438 - trafilatura.htmlprocessing - DEBUG - list link text/total: 82/82 – short elems/total: 0/1
+2024-07-31 11:28:46,438 - trafilatura.htmlprocessing - DEBUG - list link text/total: 82/82 – short elems/total: 0/1
+2024-07-31 11:28:46,438 - trafilatura.htmlprocessing - DEBUG - list link text/total: 105/105 – short elems/total: 0/1
+2024-07-31 11:28:46,438 - trafilatura.htmlprocessing - DEBUG - list link text/total: 79/79 – short elems/total: 0/1
+2024-07-31 11:28:46,438 - trafilatura.htmlprocessing - DEBUG - list link text/total: 79/79 – short elems/total: 0/1
+2024-07-31 11:28:46,438 - trafilatura.htmlprocessing - DEBUG - list link text/total: 77/77 – short elems/total: 0/1
+2024-07-31 11:28:46,438 - trafilatura.htmlprocessing - DEBUG - list link text/total: 77/77 – short elems/total: 0/1
+2024-07-31 11:28:46,438 - trafilatura.htmlprocessing - DEBUG - list link text/total: 70/70 – short elems/total: 0/1
+2024-07-31 11:28:46,438 - trafilatura.htmlprocessing - DEBUG - list link text/total: 70/70 – short elems/total: 0/1
+2024-07-31 11:28:46,438 - trafilatura.htmlprocessing - DEBUG - list link text/total: 64/64 – short elems/total: 0/1
+2024-07-31 11:28:46,439 - trafilatura.htmlprocessing - DEBUG - list link text/total: 64/64 – short elems/total: 0/1
+2024-07-31 11:28:46,439 - trafilatura.core - DEBUG - non-clean extracted length: 243 (extraction)
+2024-07-31 11:28:46,440 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-07-31 11:28:46,440 - WebsiteDataExtractor - INFO - Getting title
+2024-07-31 11:28:46,448 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-07-31 11:28:46,448 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-07-31 11:28:46,455 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-07-31 11:28:46,456 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-07-31 11:28:46,459 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-07-31 11:28:46,460 - WebsiteDataExtractor - INFO - processing index 3-> https://www.uml.edu/magazine/fall-2019/rajia-abdelaziz.aspx
+2024-07-31 11:28:46,461 - WebsiteDataExtractor - INFO - Processing URL: https://www.uml.edu/magazine/fall-2019/rajia-abdelaziz.aspx
+2024-07-31 11:28:46,462 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.uml.edu:443
+2024-07-31 11:28:47,010 - urllib3.connectionpool - DEBUG - https://www.uml.edu:443 "GET /magazine/fall-2019/rajia-abdelaziz.aspx HTTP/11" 200 5723
+2024-07-31 11:28:47,011 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.uml.edu/magazine/fall-2019/rajia-abdelaziz.aspx
+2024-07-31 11:28:47,011 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-07-31 11:28:48,012 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-07-31 11:28:48,013 - WebsiteDataExtractor - INFO - Extracting main text
+2024-07-31 11:28:48,017 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/38 – short elems/total: 0/1
+2024-07-31 11:28:48,017 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-07-31 11:28:48,017 - trafilatura.main_extractor - DEBUG - discarding element: div 
+            
+2024-07-31 11:28:48,017 - trafilatura.main_extractor - DEBUG - discarding element: div 
+                
+2024-07-31 11:28:48,017 - trafilatura.main_extractor - DEBUG - discarding element: div 
+            
+2024-07-31 11:28:48,017 - trafilatura.main_extractor - DEBUG - discarding element: div 
+                            
+2024-07-31 11:28:48,017 - trafilatura.main_extractor - DEBUG - discarding element: div 
+                                
+                            
+2024-07-31 11:28:48,017 - trafilatura.main_extractor - DEBUG - discarding element: div 
+                    
+2024-07-31 11:28:48,017 - trafilatura.main_extractor - DEBUG - discarding element: div 
+                        
+2024-07-31 11:28:48,017 - trafilatura.main_extractor - DEBUG - extra p within p: p 
+                            09/06/2019
+
+                                     
+
+
+2024-07-31 11:28:48,017 - trafilatura.main_extractor - DEBUG - (.//article)[1]
+2024-07-31 11:28:48,018 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-07-31 11:28:48,018 - WebsiteDataExtractor - INFO - Getting title
+2024-07-31 11:28:48,025 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-07-31 11:28:48,025 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-07-31 11:28:48,033 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-07-31 11:28:48,033 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-07-31 11:28:48,034 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-07-31 11:28:48,035 - WebsiteDataExtractor - INFO - processing index 4-> https://blog.adafruit.com/2023/01/11/wearable-security-rajia-abdelazizs-invisawear-wearablewednesday/
+2024-07-31 11:28:48,035 - WebsiteDataExtractor - INFO - Processing URL: https://blog.adafruit.com/2023/01/11/wearable-security-rajia-abdelazizs-invisawear-wearablewednesday/
+2024-07-31 11:28:48,036 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): blog.adafruit.com:443
+2024-07-31 11:28:48,538 - urllib3.connectionpool - DEBUG - https://blog.adafruit.com:443 "GET /2023/01/11/wearable-security-rajia-abdelazizs-invisawear-wearablewednesday/ HTTP/11" 200 None
+2024-07-31 11:28:48,540 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://blog.adafruit.com/2023/01/11/wearable-security-rajia-abdelazizs-invisawear-wearablewednesday/
+2024-07-31 11:28:48,540 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-07-31 11:28:49,541 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-07-31 11:28:49,541 - WebsiteDataExtractor - INFO - Extracting main text
+2024-07-31 11:28:49,546 - trafilatura.htmlprocessing - DEBUG - list link text/total: 19/19 – short elems/total: 0/1
+2024-07-31 11:28:49,546 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-07-31 11:28:49,547 - trafilatura.main_extractor - DEBUG - .//*[(self::article or self::div or self::main or self::section)][
+    @class="post" or @class="entry" or
+    contains(@class, "post-text") or contains(@class, "post_text") or
+    contains(@class, "post-body") or contains(@class, "post-entry") or contains(@class, "postentry") or
+    contains(@class, "post-content") or contains(@class, "post_content") or
+    contains(@class, "postcontent") or contains(@class, "postContent") or contains(@class, "post_inner_wrapper") or
+    contains(@class, "article-text") or contains(@class, "articletext") or contains(@class, "articleText")
+    or contains(@id, "entry-content") or
+    contains(@class, "entry-content") or contains(@id, "article-content") or
+    contains(@class, "article-content") or contains(@id, "article__content") or
+    contains(@class, "article__content") or contains(@id, "article-body") or
+    contains(@class, "article-body") or contains(@id, "article__body") or
+    contains(@class, "article__body") or @itemprop="articleBody" or
+    contains(translate(@id, "B", "b"), "articlebody") or contains(translate(@class, "B", "b"), "articleBody")
+    or @id="articleContent" or contains(@class, "ArticleContent") or
+    contains(@class, "page-content") or contains(@class, "text-content") or
+    contains(@id, "body-text") or contains(@class, "body-text") or
+    contains(@class, "article__container") or contains(@id, "art-content") or contains(@class, "art-content")][1]
+2024-07-31 11:28:49,547 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-07-31 11:28:49,548 - WebsiteDataExtractor - INFO - Getting title
+2024-07-31 11:28:49,563 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-07-31 11:28:49,563 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-07-31 11:28:49,565 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-07-31 11:28:49,566 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-07-31 11:28:49,567 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-07-31 11:28:49,568 - WebsiteDataExtractor - INFO - processing index 5-> https://www.bustle.com/style/invisawear-smart-safety-accessories
+2024-07-31 11:28:49,568 - WebsiteDataExtractor - INFO - Processing URL: https://www.bustle.com/style/invisawear-smart-safety-accessories
+2024-07-31 11:28:49,569 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.bustle.com:443
+2024-07-31 11:28:49,656 - urllib3.connectionpool - DEBUG - https://www.bustle.com:443 "GET /style/invisawear-smart-safety-accessories HTTP/11" 200 None
+2024-07-31 11:28:49,663 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.bustle.com/style/invisawear-smart-safety-accessories
+2024-07-31 11:28:49,663 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-07-31 11:28:50,665 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-07-31 11:28:50,666 - WebsiteDataExtractor - INFO - Extracting main text
+2024-07-31 11:28:50,675 - trafilatura.htmlprocessing - DEBUG - list link text/total: 12/168 – short elems/total: 0/1
+2024-07-31 11:28:50,675 - trafilatura.htmlprocessing - DEBUG - list link text/total: 12/168 – short elems/total: 0/1
+2024-07-31 11:28:50,675 - trafilatura.htmlprocessing - DEBUG - list link text/total: 12/168 – short elems/total: 0/1
+2024-07-31 11:28:50,675 - trafilatura.htmlprocessing - DEBUG - list link text/total: 12/45 – short elems/total: 0/1
+2024-07-31 11:28:50,675 - trafilatura.htmlprocessing - DEBUG - list link text/total: 12/15 – short elems/total: 0/1
+2024-07-31 11:28:50,676 - trafilatura.htmlprocessing - DEBUG - list link text/total: 194/194 – short elems/total: 0/5
+2024-07-31 11:28:50,676 - trafilatura.htmlprocessing - DEBUG - list link text/total: 194/194 – short elems/total: 0/5
+2024-07-31 11:28:50,676 - trafilatura.htmlprocessing - DEBUG - list link text/total: 28/28 – short elems/total: 0/1
+2024-07-31 11:28:50,676 - trafilatura.htmlprocessing - DEBUG - list link text/total: 28/28 – short elems/total: 0/1
+2024-07-31 11:28:50,676 - trafilatura.htmlprocessing - DEBUG - list link text/total: 28/28 – short elems/total: 0/1
+2024-07-31 11:28:50,676 - trafilatura.htmlprocessing - DEBUG - list link text/total: 28/28 – short elems/total: 0/1
+2024-07-31 11:28:50,676 - trafilatura.htmlprocessing - DEBUG - list link text/total: 25/25 – short elems/total: 0/1
+2024-07-31 11:28:50,676 - trafilatura.htmlprocessing - DEBUG - list link text/total: 25/25 – short elems/total: 0/1
+2024-07-31 11:28:50,676 - trafilatura.htmlprocessing - DEBUG - list link text/total: 25/25 – short elems/total: 0/1
+2024-07-31 11:28:50,676 - trafilatura.htmlprocessing - DEBUG - list link text/total: 25/25 – short elems/total: 0/1
+2024-07-31 11:28:50,676 - trafilatura.htmlprocessing - DEBUG - list link text/total: 32/32 – short elems/total: 0/1
+2024-07-31 11:28:50,676 - trafilatura.htmlprocessing - DEBUG - list link text/total: 32/32 – short elems/total: 0/1
+2024-07-31 11:28:50,676 - trafilatura.htmlprocessing - DEBUG - list link text/total: 32/32 – short elems/total: 0/1
+2024-07-31 11:28:50,676 - trafilatura.htmlprocessing - DEBUG - list link text/total: 32/32 – short elems/total: 0/1
+2024-07-31 11:28:50,676 - trafilatura.htmlprocessing - DEBUG - list link text/total: 37/37 – short elems/total: 0/1
+2024-07-31 11:28:50,676 - trafilatura.htmlprocessing - DEBUG - list link text/total: 37/37 – short elems/total: 0/1
+2024-07-31 11:28:50,676 - trafilatura.htmlprocessing - DEBUG - list link text/total: 37/37 – short elems/total: 0/1
+2024-07-31 11:28:50,677 - trafilatura.htmlprocessing - DEBUG - list link text/total: 37/37 – short elems/total: 0/1
+2024-07-31 11:28:50,677 - trafilatura.htmlprocessing - DEBUG - list link text/total: 72/72 – short elems/total: 0/1
+2024-07-31 11:28:50,677 - trafilatura.htmlprocessing - DEBUG - list link text/total: 72/72 – short elems/total: 0/1
+2024-07-31 11:28:50,677 - trafilatura.htmlprocessing - DEBUG - list link text/total: 72/72 – short elems/total: 0/1
+2024-07-31 11:28:50,677 - trafilatura.htmlprocessing - DEBUG - list link text/total: 72/72 – short elems/total: 0/1
+2024-07-31 11:28:50,677 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-07-31 11:28:50,677 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:50,677 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:50,677 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:50,677 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:50,677 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:50,677 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:50,677 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:50,677 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:50,677 - trafilatura.main_extractor - DEBUG - discarding element: div by Mekita Rivas
+2024-07-31 11:28:50,677 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:50,677 - trafilatura.main_extractor - DEBUG - discarding element: div Updated: 
+2024-07-31 11:28:50,678 - trafilatura.main_extractor - DEBUG - discarding element: div Originally Published: 
+2024-07-31 11:28:50,678 - trafilatura.main_extractor - DEBUG - discarding element: div Invisawear
+2024-07-31 11:28:50,678 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:50,678 - trafilatura.main_extractor - DEBUG - discarding element: div We may receive a portion of sales if you purchase a product through a link in this article.
+2024-07-31 11:28:50,678 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:50,678 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:50,678 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:50,678 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:50,678 - trafilatura.main_extractor - DEBUG - (.//article)[1]
+2024-07-31 11:28:50,679 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-07-31 11:28:50,679 - WebsiteDataExtractor - INFO - Getting title
+2024-07-31 11:28:50,692 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-07-31 11:28:50,692 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-07-31 11:28:50,695 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-07-31 11:28:50,695 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-07-31 11:28:50,696 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-07-31 11:28:50,697 - WebsiteDataExtractor - INFO - processing index 6-> https://www.forbes.com/sites/katematthams/2022/11/25/how-one-young-entrepreneur-is-using-jewelry-to-keep-women-safe/
+2024-07-31 11:28:50,697 - WebsiteDataExtractor - INFO - Processing URL: https://www.forbes.com/sites/katematthams/2022/11/25/how-one-young-entrepreneur-is-using-jewelry-to-keep-women-safe/
+2024-07-31 11:28:50,698 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.forbes.com:443
+2024-07-31 11:28:50,742 - urllib3.connectionpool - DEBUG - https://www.forbes.com:443 "GET /sites/katematthams/2022/11/25/how-one-young-entrepreneur-is-using-jewelry-to-keep-women-safe/ HTTP/11" 200 93058
+2024-07-31 11:28:50,753 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.forbes.com/sites/katematthams/2022/11/25/how-one-young-entrepreneur-is-using-jewelry-to-keep-women-safe/
+2024-07-31 11:28:50,753 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-07-31 11:28:51,754 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-07-31 11:28:51,755 - WebsiteDataExtractor - INFO - Extracting main text
+2024-07-31 11:28:51,766 - trafilatura.htmlprocessing - DEBUG - list link text/total: 50/50 – short elems/total: 0/3
+2024-07-31 11:28:51,766 - trafilatura.htmlprocessing - DEBUG - list link text/total: 71/94 – short elems/total: 2/4
+2024-07-31 11:28:51,766 - trafilatura.htmlprocessing - DEBUG - list link text/total: 71/94 – short elems/total: 2/4
+2024-07-31 11:28:51,766 - trafilatura.htmlprocessing - DEBUG - list link text/total: 71/71 – short elems/total: 2/4
+2024-07-31 11:28:51,766 - trafilatura.htmlprocessing - DEBUG - list link text/total: 33/33 – short elems/total: 1/2
+2024-07-31 11:28:51,766 - trafilatura.htmlprocessing - DEBUG - list link text/total: 33/33 – short elems/total: 1/2
+2024-07-31 11:28:51,766 - trafilatura.htmlprocessing - DEBUG - list link text/total: 38/38 – short elems/total: 1/2
+2024-07-31 11:28:51,767 - trafilatura.htmlprocessing - DEBUG - list link text/total: 38/38 – short elems/total: 1/2
+2024-07-31 11:28:51,767 - trafilatura.htmlprocessing - DEBUG - list link text/total: 22/55 – short elems/total: 3/3
+2024-07-31 11:28:51,767 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-07-31 11:28:51,767 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+2024-07-31 11:28:51,767 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:51,767 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:51,767 - trafilatura.main_extractor - DEBUG - discarding element: div MORE FROMFORBES ADVISOR
+2024-07-31 11:28:51,767 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 11:28:51,767 - trafilatura.main_extractor - DEBUG - .//*[(self::article or self::div or self::main or self::section)][
+    @class="post" or @class="entry" or
+    contains(@class, "post-text") or contains(@class, "post_text") or
+    contains(@class, "post-body") or contains(@class, "post-entry") or contains(@class, "postentry") or
+    contains(@class, "post-content") or contains(@class, "post_content") or
+    contains(@class, "postcontent") or contains(@class, "postContent") or contains(@class, "post_inner_wrapper") or
+    contains(@class, "article-text") or contains(@class, "articletext") or contains(@class, "articleText")
+    or contains(@id, "entry-content") or
+    contains(@class, "entry-content") or contains(@id, "article-content") or
+    contains(@class, "article-content") or contains(@id, "article__content") or
+    contains(@class, "article__content") or contains(@id, "article-body") or
+    contains(@class, "article-body") or contains(@id, "article__body") or
+    contains(@class, "article__body") or @itemprop="articleBody" or
+    contains(translate(@id, "B", "b"), "articlebody") or contains(translate(@class, "B", "b"), "articleBody")
+    or @id="articleContent" or contains(@class, "ArticleContent") or
+    contains(@class, "page-content") or contains(@class, "text-content") or
+    contains(@id, "body-text") or contains(@class, "body-text") or
+    contains(@class, "article__container") or contains(@id, "art-content") or contains(@class, "art-content")][1]
+2024-07-31 11:28:51,768 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-07-31 11:28:51,769 - WebsiteDataExtractor - INFO - Getting title
+2024-07-31 11:28:51,780 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-07-31 11:28:51,780 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-07-31 11:28:51,785 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-07-31 11:28:51,786 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-07-31 11:28:51,787 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-07-31 11:28:51,788 - WebsiteDataExtractor - INFO - processing index 7-> https://abc7.com/invisawear-jenelle-valdina-rajia-abdelaziz-ray-hamilton/5164536/
+2024-07-31 11:28:51,788 - WebsiteDataExtractor - INFO - Processing URL: https://abc7.com/invisawear-jenelle-valdina-rajia-abdelaziz-ray-hamilton/5164536/
+2024-07-31 11:28:51,789 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): abc7.com:443

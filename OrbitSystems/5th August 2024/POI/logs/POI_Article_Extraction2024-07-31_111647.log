@@ -1,0 +1,106 @@
+2024-07-31 11:16:47,693 - root - INFO - Iterating Over the Forbes List
+2024-07-31 11:16:47,694 - root - INFO - Processing index 0
+2024-07-31 11:16:47,696 - root - INFO - First Name: , Last Name: Aavia, Organization: Aavia
+2024-07-31 11:16:47,696 - root - INFO - EnteringGoogle Extraction
+2024-07-31 11:16:47,696 - asyncio - DEBUG - Using selector: EpollSelector
+2024-07-31 11:16:48,197 - root - INFO - Starting Google Extraction
+2024-07-31 11:16:48,197 - root - INFO - Inside Run Function
+2024-07-31 11:16:48,654 - root - INFO - Browser Launched
+2024-07-31 11:16:48,665 - root - INFO - New Context Created
+2024-07-31 11:16:49,562 - root - INFO - New Page Created
+2024-07-31 11:16:50,807 - root - INFO - Navigated to Google
+2024-07-31 11:16:50,807 - root - INFO - Trying to get search box
+2024-07-31 11:16:50,807 - root - INFO - Search box found
+2024-07-31 11:16:53,436 - root - INFO - Search results loaded
+2024-07-31 11:16:53,481 - root - INFO - Trying to get News tab
+2024-07-31 11:16:53,481 - root - INFO - News tab found
+2024-07-31 11:16:55,525 - root - INFO - News results loaded
+2024-07-31 11:16:55,549 - root - INFO - Extracted all 'a' tags
+2024-07-31 11:16:55,550 - root - INFO - Checking if URL is not google domain: 
+2024-07-31 11:16:55,551 - root - INFO - URL is not google domain: 
+2024-07-31 11:16:55,551 - root - INFO - Checking if URL is not google domain: https://support.google.com/websearch/answer/181196?hl=en
+2024-07-31 11:16:55,552 - root - INFO - Checking if URL is not google domain: 
+2024-07-31 11:16:55,552 - root - INFO - URL is not google domain: 
+2024-07-31 11:16:55,552 - root - INFO - Checking if URL is not google domain: https://www.google.com/webhp?hl=en&ictx=2&sa=X&ved=0ahUKEwjPktisydGHAxUJrYkEHfIfCYUQPQgJ
+2024-07-31 11:16:55,552 - root - INFO - Checking if URL is not google domain: https://www.google.com/intl/en/about/products
+2024-07-31 11:16:55,552 - root - INFO - Checking if URL is not google domain: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fsca_esv%3D553650bb8dd64e30%26q%3DAavia%2BAavia%26tbm%3Dnws%26source%3Dlnms%26fbs%3DAEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw%26sa%3DX%26ved%3D2ahUKEwigmrarydGHAxVSrYkEHZGcBmgQ0pQJegQIDBAB%26biw%3D1280%26bih%3D720%26dpr%3D1&ec=futura_gmv_dt_so_72586115_e
+2024-07-31 11:16:55,552 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&biw=1280&bih=720&source=lnms&fbs=AEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw&sa=X&ved=2ahUKEwjPktisydGHAxUJrYkEHfIfCYUQ0pQJegQIBhAC
+2024-07-31 11:16:55,552 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sa=X&sca_esv=553650bb8dd64e30&biw=1280&bih=720&udm=2&fbs=AEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw&ved=2ahUKEwjPktisydGHAxUJrYkEHfIfCYUQtKgLegQIBhAE
+2024-07-31 11:16:55,553 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=vid&source=lnms&fbs=AEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw&sa=X&ved=2ahUKEwjPktisydGHAxUJrYkEHfIfCYUQ0pQJegQIBhAG
+2024-07-31 11:16:55,553 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sa=X&sca_esv=553650bb8dd64e30&biw=1280&bih=720&udm=28&fbs=AEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw&ved=2ahUKEwjPktisydGHAxUJrYkEHfIfCYUQtKgLegQIBhAI
+2024-07-31 11:16:55,554 - root - INFO - Checking if URL is not google domain: 
+2024-07-31 11:16:55,554 - root - INFO - URL is not google domain: 
+2024-07-31 11:16:55,554 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sa=X&sca_esv=553650bb8dd64e30&biw=1280&bih=720&udm=18&fbs=AEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw&ved=2ahUKEwjPktisydGHAxUJrYkEHfIfCYUQs6gLegQIBhAM
+2024-07-31 11:16:55,554 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sa=X&sca_esv=553650bb8dd64e30&biw=1280&bih=720&udm=14&fbs=AEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw&ved=2ahUKEwjPktisydGHAxUJrYkEHfIfCYUQs6gLegQIBhAO
+2024-07-31 11:16:55,554 - root - INFO - Checking if URL is not google domain: https://maps.google.com/maps?sca_esv=553650bb8dd64e30&q=Aavia+Aavia&fbs=AEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw&biw=1280&bih=720&dpr=1&um=1&ie=UTF-8&ved=1t:200715&ictx=111
+2024-07-31 11:16:55,554 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=bks&source=lnms&fbs=AEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw&sa=X&ved=2ahUKEwjPktisydGHAxUJrYkEHfIfCYUQ0pQJKAF6BAgGEBM
+2024-07-31 11:16:55,555 - root - INFO - Checking if URL is not google domain: https://www.google.com/travel/flights?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=flm&source=lnms&fbs=AEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw&ved=1t:200715&ictx=111
+2024-07-31 11:16:55,555 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:h&sa=X&ved=2ahUKEwjPktisydGHAxUJrYkEHfIfCYUQpwV6BAgBEAc
+2024-07-31 11:16:55,555 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:d&sa=X&ved=2ahUKEwjPktisydGHAxUJrYkEHfIfCYUQpwV6BAgBEAg
+2024-07-31 11:16:55,555 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:w&sa=X&ved=2ahUKEwjPktisydGHAxUJrYkEHfIfCYUQpwV6BAgBEAk
+2024-07-31 11:16:55,555 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:m&sa=X&ved=2ahUKEwjPktisydGHAxUJrYkEHfIfCYUQpwV6BAgBEAo
+2024-07-31 11:16:55,555 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:y&sa=X&ved=2ahUKEwjPktisydGHAxUJrYkEHfIfCYUQpwV6BAgBEAs
+2024-07-31 11:16:55,556 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=nws&source=lnt&tbs=ar:1&sa=X&ved=2ahUKEwjPktisydGHAxUJrYkEHfIfCYUQpwV6BAgBEAw
+2024-07-31 11:16:55,556 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=nws&source=lnt&tbs=sbd:1&sa=X&ved=2ahUKEwjPktisydGHAxUJrYkEHfIfCYUQpwV6BAgBEBQ
+2024-07-31 11:16:55,556 - root - INFO - Checking if URL is not google domain: http://news.google.com/news/advanced_news_search?sca_esv=553650bb8dd64e30&q=Aavia+Aavia&fbs=AEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw&biw=1280&bih=720&dpr=1
+2024-07-31 11:16:55,556 - root - INFO - Checking if URL is not google domain: https://www.google.com/history/optout?hl=en
+2024-07-31 11:16:55,556 - root - INFO - Checking if URL is not google domain: https://www.google.com/safesearch?prev=https://www.google.com/search?sca_esv%3D553650bb8dd64e30%26q%3DAavia%2BAavia%26tbm%3Dnws%26source%3Dlnms%26fbs%3DAEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw%26sa%3DX%26ved%3D2ahUKEwigmrarydGHAxVSrYkEHZGcBmgQ0pQJegQIDBAB%26biw%3D1280%26bih%3D720%26dpr%3D1&sa=X&ved=2ahUKEwjPktisydGHAxUJrYkEHfIfCYUQ8JsIegQIBRAG
+2024-07-31 11:16:55,557 - root - INFO - Checking if URL is not google domain: https://www.google.com/preferences?lang=1&hl=en&prev=https://www.google.com/search?q%3DAavia%2BAavia%26sa%3DX%26sca_esv%3D553650bb8dd64e30%26biw%3D1280%26bih%3D720%26tbm%3Dnws#languages
+2024-07-31 11:16:55,557 - root - INFO - Checking if URL is not google domain: https://www.google.com/setprefs?hl=en&prev=https://www.google.com/search?sca_esv%3D553650bb8dd64e30%26q%3DAavia%2BAavia%26tbm%3Dnws%26source%3Dlnms%26fbs%3DAEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw%26sa%3DX%26ved%3D2ahUKEwigmrarydGHAxVSrYkEHZGcBmgQ0pQJegQIDBAB%26biw%3D1280%26bih%3D720%26dpr%3D1%26pccc%3D1&sig=0_7DPujMbyJxt99N5QVTgdb9P9R3s%3D&cs=2&sa=X&ved=2ahUKEwjPktisydGHAxUJrYkEHfIfCYUQqsEHegQIBRAI&ictx=1
+2024-07-31 11:16:55,558 - root - INFO - Checking if URL is not google domain: https://www.google.com/preferences?hl=en&prev=https://www.google.com/search?q%3DAavia%2BAavia%26sa%3DX%26sca_esv%3D553650bb8dd64e30%26biw%3D1280%26bih%3D720%26tbm%3Dnws
+2024-07-31 11:16:55,558 - root - INFO - Checking if URL is not google domain: https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-07-31 11:16:55,558 - root - INFO - URL is not google domain: https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-07-31 11:16:55,558 - root - INFO - Checking if URL is not google domain: https://support.google.com/websearch/?p=dsrp_search_hc&hl=en
+2024-07-31 11:16:55,559 - root - INFO - Checking if URL is not google domain: https://policies.google.com/privacy?hl=en&fg=1
+2024-07-31 11:16:55,559 - root - INFO - Checking if URL is not google domain: https://policies.google.com/terms?hl=en&fg=1
+2024-07-31 11:16:55,559 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=nws&q=Ovia+Ovia&spell=1&sa=X&ved=2ahUKEwjPktisydGHAxUJrYkEHfIfCYUQBSgAegQIBxAB
+2024-07-31 11:16:55,559 - root - INFO - Checking if URL is not google domain: https://www.hercampus.com/wellness/aavia-period-tracking-app-taught-me-post-roe-v-wade/
+2024-07-31 11:16:55,560 - root - INFO - URL is not google domain: https://www.hercampus.com/wellness/aavia-period-tracking-app-taught-me-post-roe-v-wade/
+2024-07-31 11:16:55,560 - root - INFO - Checking if URL is not google domain: https://www.cnn.com/cnn-underscored/health-fitness/hoka-clifton-9-vs-avia-run-swift-sneakers
+2024-07-31 11:16:55,560 - root - INFO - URL is not google domain: https://www.cnn.com/cnn-underscored/health-fitness/hoka-clifton-9-vs-avia-run-swift-sneakers
+2024-07-31 11:16:55,560 - root - INFO - Checking if URL is not google domain: https://finance.yahoo.com/news/avia-homes-announces-striking-partnership-011800429.html
+2024-07-31 11:16:55,560 - root - INFO - URL is not google domain: https://finance.yahoo.com/news/avia-homes-announces-striking-partnership-011800429.html
+2024-07-31 11:16:55,561 - root - INFO - Checking if URL is not google domain: https://newsroom.aviator.aero/avia-solutions-group-concluded-acquisition-of-skytrans-airlines-expanding-to-12-aocs-worldwide/
+2024-07-31 11:16:55,561 - root - INFO - URL is not google domain: https://newsroom.aviator.aero/avia-solutions-group-concluded-acquisition-of-skytrans-airlines-expanding-to-12-aocs-worldwide/
+2024-07-31 11:16:55,561 - root - INFO - Checking if URL is not google domain: https://www.aerotime.aero/articles/avia-solutions-group-issues-300m-worth-of-new-bonds
+2024-07-31 11:16:55,561 - root - INFO - URL is not google domain: https://www.aerotime.aero/articles/avia-solutions-group-issues-300m-worth-of-new-bonds
+2024-07-31 11:16:55,562 - root - INFO - Checking if URL is not google domain: https://www.businesswire.com/news/home/20240222636721/en/Syllable-Named-to-AVIA-Marketplace%E2%80%99s-2024-Top-Digital-Front-Door-Companies
+2024-07-31 11:16:55,562 - root - INFO - URL is not google domain: https://www.businesswire.com/news/home/20240222636721/en/Syllable-Named-to-AVIA-Marketplace%E2%80%99s-2024-Top-Digital-Front-Door-Companies
+2024-07-31 11:16:55,562 - root - INFO - Checking if URL is not google domain: https://www.legacy.com/us/obituaries/name/avia-riley-obituary?id=54446360
+2024-07-31 11:16:55,563 - root - INFO - URL is not google domain: https://www.legacy.com/us/obituaries/name/avia-riley-obituary?id=54446360
+2024-07-31 11:16:55,563 - root - INFO - Checking if URL is not google domain: https://www.ch-aviation.com/news/137736-avia-solutions-group-closes-purchase-of-australias-skytrans
+2024-07-31 11:16:55,563 - root - INFO - URL is not google domain: https://www.ch-aviation.com/news/137736-avia-solutions-group-closes-purchase-of-australias-skytrans
+2024-07-31 11:16:55,563 - root - INFO - Checking if URL is not google domain: https://www.baltictimes.com/avia_solutions_group_issues__300m_worth_of_new_bonds/
+2024-07-31 11:16:55,564 - root - INFO - URL is not google domain: https://www.baltictimes.com/avia_solutions_group_issues__300m_worth_of_new_bonds/
+2024-07-31 11:16:55,564 - root - INFO - Checking if URL is not google domain: https://e-tangata.co.nz/reflections/tusiata-avia-a-strange-dance-with-friends/
+2024-07-31 11:16:55,565 - root - INFO - URL is not google domain: https://e-tangata.co.nz/reflections/tusiata-avia-a-strange-dance-with-friends/
+2024-07-31 11:16:55,565 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=nws&ei=ZlWqZs_HCYnaptQP8r-kqAg&start=10&sa=N&ved=2ahUKEwjPktisydGHAxUJrYkEHfIfCYUQ8tMDegQIAxAE
+2024-07-31 11:16:55,565 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=nws&ei=ZlWqZs_HCYnaptQP8r-kqAg&start=20&sa=N&ved=2ahUKEwjPktisydGHAxUJrYkEHfIfCYUQ8tMDegQIAxAG
+2024-07-31 11:16:55,565 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=nws&ei=ZlWqZs_HCYnaptQP8r-kqAg&start=30&sa=N&ved=2ahUKEwjPktisydGHAxUJrYkEHfIfCYUQ8tMDegQIAxAI
+2024-07-31 11:16:55,565 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=nws&ei=ZlWqZs_HCYnaptQP8r-kqAg&start=40&sa=N&ved=2ahUKEwjPktisydGHAxUJrYkEHfIfCYUQ8tMDegQIAxAK
+2024-07-31 11:16:55,566 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=nws&ei=ZlWqZs_HCYnaptQP8r-kqAg&start=50&sa=N&ved=2ahUKEwjPktisydGHAxUJrYkEHfIfCYUQ8tMDegQIAxAM
+2024-07-31 11:16:55,566 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=nws&ei=ZlWqZs_HCYnaptQP8r-kqAg&start=60&sa=N&ved=2ahUKEwjPktisydGHAxUJrYkEHfIfCYUQ8tMDegQIAxAO
+2024-07-31 11:16:55,566 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=553650bb8dd64e30&biw=1280&bih=720&tbm=nws&ei=ZlWqZs_HCYnaptQP8r-kqAg&start=10&sa=N&ved=2ahUKEwjPktisydGHAxUJrYkEHfIfCYUQ8NMDegQIAxAQ
+2024-07-31 11:16:55,567 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?sca_esv=553650bb8dd64e30&q=Aavia+Aavia&tbm=nws&source=lnms&fbs=AEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw&sa=X&ved=2ahUKEwigmrarydGHAxVSrYkEHZGcBmgQ0pQJegQIDBAB&biw=1280&bih=720&dpr=1#
+2024-07-31 11:16:55,567 - root - INFO - Final List of URLs Created
+2024-07-31 11:16:55,685 - root - INFO - Browser Closed and returning final_list
+2024-07-31 11:16:55,685 - root - INFO - Google Extraction Completed
+2024-07-31 11:16:55,701 - GenericCleaner - INFO - Starting Cleaning
+2024-07-31 11:16:55,701 - GenericCleaner - INFO - Starting cleaning process
+2024-07-31 11:16:55,704 - GenericCleaner - INFO - Initial number of rows: 14
+2024-07-31 11:16:55,708 - GenericCleaner - INFO - Number of rows with invalid URLs: 3
+2024-07-31 11:16:55,711 - GenericCleaner - INFO - URLs starting with '/': 0
+2024-07-31 11:16:55,711 - GenericCleaner - INFO - URLs starting with '//': 0
+2024-07-31 11:16:55,711 - GenericCleaner - INFO - Saved 'AfterConvertingInvalidURLs.csv'
+2024-07-31 11:16:55,716 - GenericCleaner - INFO - Number of duplicate rows removed: 0
+2024-07-31 11:16:55,716 - GenericCleaner - INFO - Cleaning process completed
+2024-07-31 11:16:55,716 - GenericCleaner - INFO - Cleaning Completed
+2024-07-31 11:16:55,717 - root - INFO - Creating JSON Object for articles
+2024-07-31 11:16:55,717 - root - INFO - JSON Article Object Created
+2024-07-31 11:16:55,719 - WebsiteDataExtractor - INFO - Starting Extracting Main Content of Article
+2024-07-31 11:16:55,719 - WebsiteDataExtractor - INFO - processing index 0-> https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-07-31 11:16:55,719 - WebsiteDataExtractor - INFO - Processing URL: https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-07-31 11:16:55,723 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): newsinitiative.withgoogle.com:443
+2024-07-31 11:16:55,880 - urllib3.connectionpool - DEBUG - https://newsinitiative.withgoogle.com:443 "GET /hownewsworks/?fg=1 HTTP/11" 200 6755
+2024-07-31 11:16:55,882 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-07-31 11:16:55,882 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
