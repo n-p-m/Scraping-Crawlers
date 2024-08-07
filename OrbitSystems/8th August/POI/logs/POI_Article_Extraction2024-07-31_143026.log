@@ -1,0 +1,303 @@
+2024-07-31 14:30:26,085 - root - INFO - Iterating Over the Forbes List
+2024-07-31 14:30:26,085 - root - INFO - Processing index 0
+2024-07-31 14:30:26,086 - root - INFO - First Name: , Last Name: Aavia, Organization: Aavia
+2024-07-31 14:30:26,086 - root - INFO - EnteringGoogle Extraction
+2024-07-31 14:30:26,086 - asyncio - DEBUG - Using selector: EpollSelector
+2024-07-31 14:30:26,335 - root - INFO - Starting Google Extraction
+2024-07-31 14:30:26,335 - root - INFO - Inside Run Function
+2024-07-31 14:30:26,473 - root - INFO - Browser Launched
+2024-07-31 14:30:26,484 - root - INFO - New Context Created
+2024-07-31 14:30:26,912 - root - INFO - New Page Created
+2024-07-31 14:30:28,138 - root - INFO - Navigated to Google
+2024-07-31 14:30:28,139 - root - INFO - Trying to get search box
+2024-07-31 14:30:28,139 - root - INFO - Search box found
+2024-07-31 14:30:30,983 - root - INFO - Search results loaded
+2024-07-31 14:30:31,027 - root - INFO - Trying to get News tab
+2024-07-31 14:30:31,027 - root - INFO - News tab found
+2024-07-31 14:30:32,995 - root - INFO - News results loaded
+2024-07-31 14:30:33,019 - root - INFO - Extracted all 'a' tags
+2024-07-31 14:30:33,019 - root - INFO - Checking if URL is not google domain: 
+2024-07-31 14:30:33,019 - root - INFO - URL is not google domain: 
+2024-07-31 14:30:33,020 - root - INFO - Checking if URL is not google domain: https://support.google.com/websearch/answer/181196?hl=en
+2024-07-31 14:30:33,020 - root - INFO - Checking if URL is not google domain: 
+2024-07-31 14:30:33,020 - root - INFO - URL is not google domain: 
+2024-07-31 14:30:33,020 - root - INFO - Checking if URL is not google domain: https://www.google.com/webhp?hl=en&ictx=2&sa=X&ved=0ahUKEwipkqrQ9NGHAxUJCnkGHdFrGPoQPQgJ
+2024-07-31 14:30:33,020 - root - INFO - Checking if URL is not google domain: https://www.google.com/intl/en/about/products
+2024-07-31 14:30:33,020 - root - INFO - Checking if URL is not google domain: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fsca_esv%3Dbaeeb5fc63242882%26sca_upv%3D1%26q%3DAavia%2BAavia%26tbm%3Dnws%26source%3Dlnms%26fbs%3DAEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw%26sa%3DX%26ved%3D2ahUKEwjA1fvO9NGHAxVBvokEHd6JElcQ0pQJegQIChAB%26biw%3D1280%26bih%3D720%26dpr%3D1&ec=futura_gmv_dt_so_72586115_e
+2024-07-31 14:30:33,020 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=baeeb5fc63242882&sca_upv=1&biw=1280&bih=720&source=lnms&fbs=AEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw&sa=X&ved=2ahUKEwipkqrQ9NGHAxUJCnkGHdFrGPoQ0pQJegQIBhAC
+2024-07-31 14:30:33,020 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sa=X&sca_esv=baeeb5fc63242882&sca_upv=1&biw=1280&bih=720&udm=2&fbs=AEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw&ved=2ahUKEwipkqrQ9NGHAxUJCnkGHdFrGPoQtKgLegQIBhAE
+2024-07-31 14:30:33,020 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=baeeb5fc63242882&sca_upv=1&biw=1280&bih=720&tbm=vid&source=lnms&fbs=AEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw&sa=X&ved=2ahUKEwipkqrQ9NGHAxUJCnkGHdFrGPoQ0pQJegQIBhAG
+2024-07-31 14:30:33,020 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sa=X&sca_esv=baeeb5fc63242882&sca_upv=1&biw=1280&bih=720&udm=28&fbs=AEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw&ved=2ahUKEwipkqrQ9NGHAxUJCnkGHdFrGPoQtKgLegQIBhAI
+2024-07-31 14:30:33,021 - root - INFO - Checking if URL is not google domain: 
+2024-07-31 14:30:33,021 - root - INFO - URL is not google domain: 
+2024-07-31 14:30:33,021 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sa=X&sca_esv=baeeb5fc63242882&sca_upv=1&biw=1280&bih=720&udm=18&fbs=AEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw&ved=2ahUKEwipkqrQ9NGHAxUJCnkGHdFrGPoQs6gLegQIBhAM
+2024-07-31 14:30:33,021 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sa=X&sca_esv=baeeb5fc63242882&sca_upv=1&biw=1280&bih=720&udm=14&fbs=AEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw&ved=2ahUKEwipkqrQ9NGHAxUJCnkGHdFrGPoQs6gLegQIBhAO
+2024-07-31 14:30:33,021 - root - INFO - Checking if URL is not google domain: https://maps.google.com/maps?sca_esv=baeeb5fc63242882&sca_upv=1&q=Aavia+Aavia&fbs=AEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw&biw=1280&bih=720&dpr=1&um=1&ie=UTF-8&ved=1t:200715&ictx=111
+2024-07-31 14:30:33,021 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=baeeb5fc63242882&sca_upv=1&biw=1280&bih=720&tbm=bks&source=lnms&fbs=AEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw&sa=X&ved=2ahUKEwipkqrQ9NGHAxUJCnkGHdFrGPoQ0pQJKAF6BAgGEBM
+2024-07-31 14:30:33,021 - root - INFO - Checking if URL is not google domain: https://www.google.com/travel/flights?q=Aavia+Aavia&sca_esv=baeeb5fc63242882&sca_upv=1&biw=1280&bih=720&tbm=flm&source=lnms&fbs=AEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw&ved=1t:200715&ictx=111
+2024-07-31 14:30:33,021 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=baeeb5fc63242882&sca_upv=1&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:h&sa=X&ved=2ahUKEwipkqrQ9NGHAxUJCnkGHdFrGPoQpwV6BAgCEAc
+2024-07-31 14:30:33,021 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=baeeb5fc63242882&sca_upv=1&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:d&sa=X&ved=2ahUKEwipkqrQ9NGHAxUJCnkGHdFrGPoQpwV6BAgCEAg
+2024-07-31 14:30:33,021 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=baeeb5fc63242882&sca_upv=1&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:w&sa=X&ved=2ahUKEwipkqrQ9NGHAxUJCnkGHdFrGPoQpwV6BAgCEAk
+2024-07-31 14:30:33,022 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=baeeb5fc63242882&sca_upv=1&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:m&sa=X&ved=2ahUKEwipkqrQ9NGHAxUJCnkGHdFrGPoQpwV6BAgCEAo
+2024-07-31 14:30:33,022 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=baeeb5fc63242882&sca_upv=1&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:y&sa=X&ved=2ahUKEwipkqrQ9NGHAxUJCnkGHdFrGPoQpwV6BAgCEAs
+2024-07-31 14:30:33,022 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=baeeb5fc63242882&sca_upv=1&biw=1280&bih=720&tbm=nws&source=lnt&tbs=ar:1&sa=X&ved=2ahUKEwipkqrQ9NGHAxUJCnkGHdFrGPoQpwV6BAgCEAw
+2024-07-31 14:30:33,022 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=baeeb5fc63242882&sca_upv=1&biw=1280&bih=720&tbm=nws&source=lnt&tbs=sbd:1&sa=X&ved=2ahUKEwipkqrQ9NGHAxUJCnkGHdFrGPoQpwV6BAgCEBQ
+2024-07-31 14:30:33,022 - root - INFO - Checking if URL is not google domain: http://news.google.com/news/advanced_news_search?sca_esv=baeeb5fc63242882&sca_upv=1&q=Aavia+Aavia&fbs=AEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw&biw=1280&bih=720&dpr=1
+2024-07-31 14:30:33,022 - root - INFO - Checking if URL is not google domain: https://www.google.com/history/optout?hl=en
+2024-07-31 14:30:33,022 - root - INFO - Checking if URL is not google domain: https://www.google.com/safesearch?prev=https://www.google.com/search?sca_esv%3Dbaeeb5fc63242882%26sca_upv%3D1%26q%3DAavia%2BAavia%26tbm%3Dnws%26source%3Dlnms%26fbs%3DAEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw%26sa%3DX%26ved%3D2ahUKEwjA1fvO9NGHAxVBvokEHd6JElcQ0pQJegQIChAB%26biw%3D1280%26bih%3D720%26dpr%3D1&sa=X&ved=2ahUKEwipkqrQ9NGHAxUJCnkGHdFrGPoQ8JsIegQIBRAG
+2024-07-31 14:30:33,022 - root - INFO - Checking if URL is not google domain: https://www.google.com/preferences?lang=1&hl=en&prev=https://www.google.com/search?q%3DAavia%2BAavia%26sa%3DX%26sca_esv%3Dbaeeb5fc63242882%26sca_upv%3D1%26biw%3D1280%26bih%3D720%26tbm%3Dnws#languages
+2024-07-31 14:30:33,022 - root - INFO - Checking if URL is not google domain: https://www.google.com/setprefs?hl=en&prev=https://www.google.com/search?sca_esv%3Dbaeeb5fc63242882%26sca_upv%3D1%26q%3DAavia%2BAavia%26tbm%3Dnws%26source%3Dlnms%26fbs%3DAEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw%26sa%3DX%26ved%3D2ahUKEwjA1fvO9NGHAxVBvokEHd6JElcQ0pQJegQIChAB%26biw%3D1280%26bih%3D720%26dpr%3D1%26pccc%3D1&sig=0_luTX1zdkiBxn3hCeTEZkTJwdGgg%3D&cs=2&sa=X&ved=2ahUKEwipkqrQ9NGHAxUJCnkGHdFrGPoQqsEHegQIBRAI&ictx=1
+2024-07-31 14:30:33,022 - root - INFO - Checking if URL is not google domain: https://www.google.com/preferences?hl=en&prev=https://www.google.com/search?q%3DAavia%2BAavia%26sa%3DX%26sca_esv%3Dbaeeb5fc63242882%26sca_upv%3D1%26biw%3D1280%26bih%3D720%26tbm%3Dnws
+2024-07-31 14:30:33,023 - root - INFO - Checking if URL is not google domain: https://support.google.com/websearch/?p=dsrp_search_hc&hl=en
+2024-07-31 14:30:33,023 - root - INFO - Checking if URL is not google domain: https://policies.google.com/privacy?hl=en&fg=1
+2024-07-31 14:30:33,023 - root - INFO - Checking if URL is not google domain: https://policies.google.com/terms?hl=en&fg=1
+2024-07-31 14:30:33,023 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?sca_esv=baeeb5fc63242882&sca_upv=1&biw=1280&bih=720&tbm=nws&q=Ovia+Ovia&spell=1&sa=X&ved=2ahUKEwipkqrQ9NGHAxUJCnkGHdFrGPoQBSgAegQIBxAB
+2024-07-31 14:30:33,023 - root - INFO - Checking if URL is not google domain: https://www.hercampus.com/wellness/aavia-period-tracking-app-taught-me-post-roe-v-wade/
+2024-07-31 14:30:33,023 - root - INFO - URL is not google domain: https://www.hercampus.com/wellness/aavia-period-tracking-app-taught-me-post-roe-v-wade/
+2024-07-31 14:30:33,023 - root - INFO - Checking if URL is not google domain: https://www.cnn.com/cnn-underscored/health-fitness/hoka-clifton-9-vs-avia-run-swift-sneakers
+2024-07-31 14:30:33,023 - root - INFO - URL is not google domain: https://www.cnn.com/cnn-underscored/health-fitness/hoka-clifton-9-vs-avia-run-swift-sneakers
+2024-07-31 14:30:33,024 - root - INFO - Checking if URL is not google domain: https://www.prnewswire.com/news-releases/avia-scores-big-in-2024-nyx-game-awards-season-one-302144210.html
+2024-07-31 14:30:33,024 - root - INFO - URL is not google domain: https://www.prnewswire.com/news-releases/avia-scores-big-in-2024-nyx-game-awards-season-one-302144210.html
+2024-07-31 14:30:33,024 - root - INFO - Checking if URL is not google domain: https://finance.yahoo.com/news/avia-homes-announces-striking-partnership-011800429.html
+2024-07-31 14:30:33,024 - root - INFO - URL is not google domain: https://finance.yahoo.com/news/avia-homes-announces-striking-partnership-011800429.html
+2024-07-31 14:30:33,024 - root - INFO - Checking if URL is not google domain: https://newsroom.aviator.aero/avia-solutions-group-concluded-acquisition-of-skytrans-airlines-expanding-to-12-aocs-worldwide/
+2024-07-31 14:30:33,024 - root - INFO - URL is not google domain: https://newsroom.aviator.aero/avia-solutions-group-concluded-acquisition-of-skytrans-airlines-expanding-to-12-aocs-worldwide/
+2024-07-31 14:30:33,024 - root - INFO - Checking if URL is not google domain: https://www.aerotime.aero/articles/avia-solutions-group-issues-300m-worth-of-new-bonds
+2024-07-31 14:30:33,024 - root - INFO - URL is not google domain: https://www.aerotime.aero/articles/avia-solutions-group-issues-300m-worth-of-new-bonds
+2024-07-31 14:30:33,024 - root - INFO - Checking if URL is not google domain: https://www.businesswire.com/news/home/20240222636721/en/Syllable-Named-to-AVIA-Marketplace%E2%80%99s-2024-Top-Digital-Front-Door-Companies
+2024-07-31 14:30:33,025 - root - INFO - URL is not google domain: https://www.businesswire.com/news/home/20240222636721/en/Syllable-Named-to-AVIA-Marketplace%E2%80%99s-2024-Top-Digital-Front-Door-Companies
+2024-07-31 14:30:33,025 - root - INFO - Checking if URL is not google domain: https://www.legacy.com/us/obituaries/name/avia-riley-obituary?id=54446360
+2024-07-31 14:30:33,025 - root - INFO - URL is not google domain: https://www.legacy.com/us/obituaries/name/avia-riley-obituary?id=54446360
+2024-07-31 14:30:33,025 - root - INFO - Checking if URL is not google domain: https://www.ch-aviation.com/news/137736-avia-solutions-group-closes-purchase-of-australias-skytrans
+2024-07-31 14:30:33,025 - root - INFO - URL is not google domain: https://www.ch-aviation.com/news/137736-avia-solutions-group-closes-purchase-of-australias-skytrans
+2024-07-31 14:30:33,025 - root - INFO - Checking if URL is not google domain: https://www.baltictimes.com/avia_solutions_group_issues__300m_worth_of_new_bonds/
+2024-07-31 14:30:33,025 - root - INFO - URL is not google domain: https://www.baltictimes.com/avia_solutions_group_issues__300m_worth_of_new_bonds/
+2024-07-31 14:30:33,025 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=baeeb5fc63242882&sca_upv=1&biw=1280&bih=720&tbm=nws&ei=x4KqZumSJomU5OMP0dfh0A8&start=10&sa=N&ved=2ahUKEwipkqrQ9NGHAxUJCnkGHdFrGPoQ8tMDegQIARAE
+2024-07-31 14:30:33,025 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=baeeb5fc63242882&sca_upv=1&biw=1280&bih=720&tbm=nws&ei=x4KqZumSJomU5OMP0dfh0A8&start=20&sa=N&ved=2ahUKEwipkqrQ9NGHAxUJCnkGHdFrGPoQ8tMDegQIARAG
+2024-07-31 14:30:33,026 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=baeeb5fc63242882&sca_upv=1&biw=1280&bih=720&tbm=nws&ei=x4KqZumSJomU5OMP0dfh0A8&start=30&sa=N&ved=2ahUKEwipkqrQ9NGHAxUJCnkGHdFrGPoQ8tMDegQIARAI
+2024-07-31 14:30:33,026 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=baeeb5fc63242882&sca_upv=1&biw=1280&bih=720&tbm=nws&ei=x4KqZumSJomU5OMP0dfh0A8&start=40&sa=N&ved=2ahUKEwipkqrQ9NGHAxUJCnkGHdFrGPoQ8tMDegQIARAK
+2024-07-31 14:30:33,026 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=baeeb5fc63242882&sca_upv=1&biw=1280&bih=720&tbm=nws&ei=x4KqZumSJomU5OMP0dfh0A8&start=50&sa=N&ved=2ahUKEwipkqrQ9NGHAxUJCnkGHdFrGPoQ8tMDegQIARAM
+2024-07-31 14:30:33,026 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=baeeb5fc63242882&sca_upv=1&biw=1280&bih=720&tbm=nws&ei=x4KqZumSJomU5OMP0dfh0A8&start=60&sa=N&ved=2ahUKEwipkqrQ9NGHAxUJCnkGHdFrGPoQ8tMDegQIARAO
+2024-07-31 14:30:33,026 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Aavia+Aavia&sca_esv=baeeb5fc63242882&sca_upv=1&biw=1280&bih=720&tbm=nws&ei=x4KqZumSJomU5OMP0dfh0A8&start=10&sa=N&ved=2ahUKEwipkqrQ9NGHAxUJCnkGHdFrGPoQ8NMDegQIARAQ
+2024-07-31 14:30:33,027 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?sca_esv=baeeb5fc63242882&sca_upv=1&q=Aavia+Aavia&tbm=nws&source=lnms&fbs=AEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw&sa=X&ved=2ahUKEwjA1fvO9NGHAxVBvokEHd6JElcQ0pQJegQIChAB&biw=1280&bih=720&dpr=1#
+2024-07-31 14:30:33,027 - root - INFO - Checking if URL is not google domain: https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1
+2024-07-31 14:30:33,027 - root - INFO - Checking if URL is not google domain: https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-07-31 14:30:33,027 - root - INFO - URL is not google domain: https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-07-31 14:30:33,027 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?sca_esv=baeeb5fc63242882&sca_upv=1&q=Aavia+Aavia&tbm=nws&source=lnms&fbs=AEQNm0A-5VTqs5rweptgTqb6m-Eb3TvVcv4l7eCyod9RtZW9874wvsYjTfpwMQKGHqKPG-IB7j9flyfH28tJSLVuVdcT1tesPpIhTR_8sOQ3FQrQWiVTfWhoIplDgGh5JzUv9F4u3riMB636EHR41DrkNY_uSRk347tLZsVeJqqyuWPTyXrtg-EYkFQYZqw6rWM1khGHS26HrYFGhj2QeE1uCS-2MrLbBw&sa=X&ved=2ahUKEwjA1fvO9NGHAxVBvokEHd6JElcQ0pQJegQIChAB&biw=1280&bih=720&dpr=1#
+2024-07-31 14:30:33,027 - root - INFO - Checking if URL is not google domain: https://policies.google.com/privacy?hl=en&fg=1
+2024-07-31 14:30:33,027 - root - INFO - Checking if URL is not google domain: https://policies.google.com/terms?hl=en&fg=1
+2024-07-31 14:30:33,027 - root - INFO - Final List of URLs Created
+2024-07-31 14:30:33,149 - root - INFO - Browser Closed and returning final_list
+2024-07-31 14:30:33,149 - root - INFO - Google Extraction Completed
+2024-07-31 14:30:33,166 - GenericCleaner - INFO - Starting Cleaning
+2024-07-31 14:30:33,166 - GenericCleaner - INFO - Starting cleaning process
+2024-07-31 14:30:33,168 - GenericCleaner - INFO - Initial number of rows: 14
+2024-07-31 14:30:33,171 - GenericCleaner - INFO - Number of rows with invalid URLs: 3
+2024-07-31 14:30:33,173 - GenericCleaner - INFO - URLs starting with '/': 0
+2024-07-31 14:30:33,173 - GenericCleaner - INFO - URLs starting with '//': 0
+2024-07-31 14:30:33,173 - GenericCleaner - INFO - Saved 'AfterConvertingInvalidURLs.csv'
+2024-07-31 14:30:33,174 - GenericCleaner - INFO - Number of duplicate rows removed: 0
+2024-07-31 14:30:33,174 - GenericCleaner - INFO - Cleaning process completed
+2024-07-31 14:30:33,175 - GenericCleaner - INFO - Cleaning Completed
+2024-07-31 14:30:33,175 - root - INFO - Creating JSON Object for articles
+2024-07-31 14:30:33,175 - root - INFO - JSON Article Object Created
+2024-07-31 14:30:33,176 - WebsiteDataExtractor - INFO - Starting Extracting Main Content of Article
+2024-07-31 14:30:33,176 - WebsiteDataExtractor - INFO - processing index 0-> https://www.hercampus.com/wellness/aavia-period-tracking-app-taught-me-post-roe-v-wade/
+2024-07-31 14:30:33,176 - WebsiteDataExtractor - INFO - Processing URL: https://www.hercampus.com/wellness/aavia-period-tracking-app-taught-me-post-roe-v-wade/
+2024-07-31 14:30:33,178 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.hercampus.com:443
+2024-07-31 14:30:33,626 - urllib3.connectionpool - DEBUG - https://www.hercampus.com:443 "GET /wellness/aavia-period-tracking-app-taught-me-post-roe-v-wade/ HTTP/11" 200 None
+2024-07-31 14:30:33,699 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.hercampus.com/wellness/aavia-period-tracking-app-taught-me-post-roe-v-wade/
+2024-07-31 14:30:33,699 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-07-31 14:30:34,701 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-07-31 14:30:34,703 - WebsiteDataExtractor - INFO - Extracting main text
+2024-07-31 14:30:34,722 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-07-31 14:30:34,722 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+
+
+2024-07-31 14:30:34,722 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+
+
+2024-07-31 14:30:34,722 - trafilatura.main_extractor - DEBUG - .//*[(self::article or self::div or self::main or self::section)][
+    @class="post" or @class="entry" or
+    contains(@class, "post-text") or contains(@class, "post_text") or
+    contains(@class, "post-body") or contains(@class, "post-entry") or contains(@class, "postentry") or
+    contains(@class, "post-content") or contains(@class, "post_content") or
+    contains(@class, "postcontent") or contains(@class, "postContent") or contains(@class, "post_inner_wrapper") or
+    contains(@class, "article-text") or contains(@class, "articletext") or contains(@class, "articleText")
+    or contains(@id, "entry-content") or
+    contains(@class, "entry-content") or contains(@id, "article-content") or
+    contains(@class, "article-content") or contains(@id, "article__content") or
+    contains(@class, "article__content") or contains(@id, "article-body") or
+    contains(@class, "article-body") or contains(@id, "article__body") or
+    contains(@class, "article__body") or @itemprop="articleBody" or
+    contains(translate(@id, "B", "b"), "articlebody") or contains(translate(@class, "B", "b"), "articleBody")
+    or @id="articleContent" or contains(@class, "ArticleContent") or
+    contains(@class, "page-content") or contains(@class, "text-content") or
+    contains(@id, "body-text") or contains(@class, "body-text") or
+    contains(@class, "article__container") or contains(@id, "art-content") or contains(@class, "art-content")][1]
+2024-07-31 14:30:34,724 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-07-31 14:30:34,724 - WebsiteDataExtractor - INFO - Getting title
+2024-07-31 14:30:34,801 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-07-31 14:30:34,801 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-07-31 14:30:34,810 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-07-31 14:30:34,812 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-07-31 14:30:34,813 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-07-31 14:30:34,814 - WebsiteDataExtractor - INFO - processing index 1-> https://www.cnn.com/cnn-underscored/health-fitness/hoka-clifton-9-vs-avia-run-swift-sneakers
+2024-07-31 14:30:34,814 - WebsiteDataExtractor - INFO - Processing URL: https://www.cnn.com/cnn-underscored/health-fitness/hoka-clifton-9-vs-avia-run-swift-sneakers
+2024-07-31 14:30:34,815 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.cnn.com:443
+2024-07-31 14:30:34,954 - urllib3.connectionpool - DEBUG - https://www.cnn.com:443 "GET /cnn-underscored/health-fitness/hoka-clifton-9-vs-avia-run-swift-sneakers HTTP/11" 200 534814
+2024-07-31 14:30:35,000 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.cnn.com/cnn-underscored/health-fitness/hoka-clifton-9-vs-avia-run-swift-sneakers
+2024-07-31 14:30:35,000 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-07-31 14:30:36,002 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-07-31 14:30:36,013 - WebsiteDataExtractor - INFO - Extracting main text
+2024-07-31 14:30:36,089 - trafilatura.htmlprocessing - DEBUG - list link text/total: 22/22 – short elems/total: 0/1
+2024-07-31 14:30:36,090 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/227 – short elems/total: 0/1
+2024-07-31 14:30:36,090 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/14 – short elems/total: 0/1
+2024-07-31 14:30:36,090 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-07-31 14:30:36,090 - trafilatura.main_extractor - DEBUG - discarding element: div 
+                    
+
+2024-07-31 14:30:36,090 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-07-31 14:30:36,090 - trafilatura.main_extractor - DEBUG - discarding element: div 
+            
+2024-07-31 14:30:36,090 - trafilatura.main_extractor - DEBUG - discarding element: div 
+                
+
+
+2024-07-31 14:30:36,091 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+        
+        
+2024-07-31 14:30:36,091 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 14:30:36,091 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+        
+        
+2024-07-31 14:30:36,091 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-07-31 14:30:36,091 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+    
+
+2024-07-31 14:30:36,091 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+    
+2024-07-31 14:30:36,091 - trafilatura.main_extractor - DEBUG - discarding element: div 
+       
+    
+2024-07-31 14:30:36,091 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-07-31 14:30:36,091 - trafilatura.main_extractor - DEBUG - discarding element: div 
+            
+        
+2024-07-31 14:30:36,091 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+    
+2024-07-31 14:30:36,091 - trafilatura.main_extractor - DEBUG - discarding element: div 
+       
+    
+2024-07-31 14:30:36,091 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-07-31 14:30:36,091 - trafilatura.main_extractor - DEBUG - discarding element: div 
+            
+        
+2024-07-31 14:30:36,091 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+    
+2024-07-31 14:30:36,091 - trafilatura.main_extractor - DEBUG - discarding element: div 
+       
+    
+2024-07-31 14:30:36,091 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+    
+2024-07-31 14:30:36,091 - trafilatura.main_extractor - DEBUG - discarding element: div 
+       
+    
+2024-07-31 14:30:36,091 - trafilatura.main_extractor - DEBUG - discarding element: div 
+                  
+                
+2024-07-31 14:30:36,091 - trafilatura.main_extractor - DEBUG - .//*[(self::article or self::div or self::main or self::section)][
+    @class="post" or @class="entry" or
+    contains(@class, "post-text") or contains(@class, "post_text") or
+    contains(@class, "post-body") or contains(@class, "post-entry") or contains(@class, "postentry") or
+    contains(@class, "post-content") or contains(@class, "post_content") or
+    contains(@class, "postcontent") or contains(@class, "postContent") or contains(@class, "post_inner_wrapper") or
+    contains(@class, "article-text") or contains(@class, "articletext") or contains(@class, "articleText")
+    or contains(@id, "entry-content") or
+    contains(@class, "entry-content") or contains(@id, "article-content") or
+    contains(@class, "article-content") or contains(@id, "article__content") or
+    contains(@class, "article__content") or contains(@id, "article-body") or
+    contains(@class, "article-body") or contains(@id, "article__body") or
+    contains(@class, "article__body") or @itemprop="articleBody" or
+    contains(translate(@id, "B", "b"), "articlebody") or contains(translate(@class, "B", "b"), "articleBody")
+    or @id="articleContent" or contains(@class, "ArticleContent") or
+    contains(@class, "page-content") or contains(@class, "text-content") or
+    contains(@id, "body-text") or contains(@class, "body-text") or
+    contains(@class, "article__container") or contains(@id, "art-content") or contains(@class, "art-content")][1]
+2024-07-31 14:30:36,096 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-07-31 14:30:36,096 - WebsiteDataExtractor - INFO - Getting title
+2024-07-31 14:30:36,233 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-07-31 14:30:36,233 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-07-31 14:30:36,291 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-07-31 14:30:36,292 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-07-31 14:30:36,293 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-07-31 14:30:36,296 - WebsiteDataExtractor - INFO - processing index 2-> https://www.prnewswire.com/news-releases/avia-scores-big-in-2024-nyx-game-awards-season-one-302144210.html
+2024-07-31 14:30:36,296 - WebsiteDataExtractor - INFO - Processing URL: https://www.prnewswire.com/news-releases/avia-scores-big-in-2024-nyx-game-awards-season-one-302144210.html
+2024-07-31 14:30:36,297 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.prnewswire.com:443
+2024-07-31 14:30:36,447 - urllib3.connectionpool - DEBUG - https://www.prnewswire.com:443 "GET /news-releases/avia-scores-big-in-2024-nyx-game-awards-season-one-302144210.html HTTP/11" 200 None
+2024-07-31 14:30:36,456 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.prnewswire.com/news-releases/avia-scores-big-in-2024-nyx-game-awards-season-one-302144210.html
+2024-07-31 14:30:36,456 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-07-31 14:30:37,457 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-07-31 14:30:37,458 - WebsiteDataExtractor - INFO - Extracting main text
+2024-07-31 14:30:37,471 - trafilatura.htmlprocessing - DEBUG - list link text/total: 4/79 – short elems/total: 1/1
+2024-07-31 14:30:37,471 - trafilatura.htmlprocessing - DEBUG - list link text/total: 4/27 – short elems/total: 1/1
+2024-07-31 14:30:37,471 - trafilatura.htmlprocessing - DEBUG - list link text/total: 4/27 – short elems/total: 1/1
+2024-07-31 14:30:37,471 - trafilatura.htmlprocessing - DEBUG - list link text/total: 16/16 – short elems/total: 0/1
+2024-07-31 14:30:37,472 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-07-31 14:30:37,472 - trafilatura.main_extractor - DEBUG - discarding element: header 
+
+2024-07-31 14:30:37,472 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+
+
+
+
+2024-07-31 14:30:37,472 - trafilatura.main_extractor - DEBUG - discarding element: section 
+
+2024-07-31 14:30:37,472 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+2024-07-31 14:30:37,472 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+2024-07-31 14:30:37,472 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+2024-07-31 14:30:37,472 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+2024-07-31 14:30:37,472 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+2024-07-31 14:30:37,472 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+
+2024-07-31 14:30:37,472 - trafilatura.main_extractor - DEBUG - extra p within p: p About Avia None
+2024-07-31 14:30:37,472 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+2024-07-31 14:30:37,472 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+2024-07-31 14:30:37,472 - trafilatura.main_extractor - DEBUG - (.//article)[1]
+2024-07-31 14:30:37,474 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-07-31 14:30:37,474 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-07-31 14:30:37,474 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-07-31 14:30:37,474 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-07-31 14:30:37,475 - WebsiteDataExtractor - INFO - Getting title
+2024-07-31 14:30:37,524 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-07-31 14:30:37,524 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-07-31 14:30:37,529 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-07-31 14:30:37,530 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-07-31 14:30:37,531 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-07-31 14:30:37,531 - WebsiteDataExtractor - INFO - processing index 3-> https://finance.yahoo.com/news/avia-homes-announces-striking-partnership-011800429.html
+2024-07-31 14:30:37,531 - WebsiteDataExtractor - INFO - Processing URL: https://finance.yahoo.com/news/avia-homes-announces-striking-partnership-011800429.html
+2024-07-31 14:30:37,532 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2024-07-31 14:30:37,954 - urllib3.connectionpool - DEBUG - https://finance.yahoo.com:443 "GET /news/avia-homes-announces-striking-partnership-011800429.html HTTP/11" 200 None
+2024-07-31 14:30:39,019 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://finance.yahoo.com/news/avia-homes-announces-striking-partnership-011800429.html
+2024-07-31 14:30:39,020 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load

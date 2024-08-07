@@ -1,0 +1,1976 @@
+2024-08-01 15:02:48,591 - root - INFO - Iterating Over the Forbes List
+2024-08-01 15:02:48,592 - root - INFO - Processing index 0
+2024-08-01 15:02:48,595 - root - INFO - First name: Elly, Last name: De La Cruz, Organization: Cincinnati Reds
+2024-08-01 15:02:48,596 - root - INFO - EnteringGoogle Extraction
+2024-08-01 15:02:48,596 - asyncio - DEBUG - Using selector: EpollSelector
+2024-08-01 15:02:49,200 - root - INFO - Starting Google Extraction
+2024-08-01 15:02:49,200 - root - INFO - Inside Run Function
+2024-08-01 15:02:49,893 - root - INFO - Browser Launched
+2024-08-01 15:02:49,909 - root - INFO - New Context Created
+2024-08-01 15:02:50,892 - root - INFO - New Page Created
+2024-08-01 15:02:52,232 - root - INFO - Navigated to Google
+2024-08-01 15:02:52,232 - root - INFO - Trying to get search box
+2024-08-01 15:02:52,232 - root - INFO - Search box found
+2024-08-01 15:02:56,582 - root - INFO - Search results loaded
+2024-08-01 15:02:56,628 - root - INFO - Trying to get News tab
+2024-08-01 15:02:56,629 - root - INFO - News tab found
+2024-08-01 15:02:58,751 - root - INFO - News results loaded
+2024-08-01 15:02:58,777 - root - INFO - Extracted all 'a' tags
+2024-08-01 15:02:58,777 - root - INFO - Checking if URL is not google domain: 
+2024-08-01 15:02:58,777 - root - INFO - URL is not google domain: 
+2024-08-01 15:02:58,778 - root - INFO - Checking if URL is not google domain: https://support.google.com/websearch/answer/181196?hl=en
+2024-08-01 15:02:58,778 - root - INFO - Checking if URL is not google domain: 
+2024-08-01 15:02:58,778 - root - INFO - URL is not google domain: 
+2024-08-01 15:02:58,778 - root - INFO - Checking if URL is not google domain: https://www.google.com/webhp?hl=en&ictx=2&sa=X&ved=0ahUKEwiru-_evdSHAxWUm4kEHa-cBp4QPQgJ
+2024-08-01 15:02:58,778 - root - INFO - Checking if URL is not google domain: https://www.google.com/intl/en/about/products
+2024-08-01 15:02:58,778 - root - INFO - Checking if URL is not google domain: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fsca_esv%3De4dd71f640266e19%26q%3DElly%2BDe%2BLa%2BCruz%2BCincinnati%2BReds%26tbm%3Dnws%26source%3Dlnms%26fbs%3DAEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ%26sa%3DX%26ved%3D2ahUKEwjq0OPcvdSHAxXUvokEHSA5Aw4Q0pQJegQIDRAB%26biw%3D1280%26bih%3D720%26dpr%3D1&ec=futura_gmv_dt_so_72586115_e
+2024-08-01 15:02:58,778 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Elly+De+La+Cruz+Cincinnati+Reds&sca_esv=e4dd71f640266e19&biw=1280&bih=720&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ&sa=X&ved=2ahUKEwiru-_evdSHAxWUm4kEHa-cBp4Q0pQJegQIBhAC
+2024-08-01 15:02:58,778 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Elly+De+La+Cruz+Cincinnati+Reds&sa=X&sca_esv=e4dd71f640266e19&biw=1280&bih=720&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ&ved=2ahUKEwiru-_evdSHAxWUm4kEHa-cBp4QtKgLegQIBhAE
+2024-08-01 15:02:58,779 - root - INFO - Checking if URL is not google domain: 
+2024-08-01 15:02:58,779 - root - INFO - URL is not google domain: 
+2024-08-01 15:02:58,779 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Elly+De+La+Cruz+Cincinnati+Reds&sa=X&sca_esv=e4dd71f640266e19&biw=1280&bih=720&udm=28&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ&ved=2ahUKEwiru-_evdSHAxWUm4kEHa-cBp4QtKgLegQIBhAI
+2024-08-01 15:02:58,779 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Elly+De+La+Cruz+Cincinnati+Reds&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=vid&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ&sa=X&ved=2ahUKEwiru-_evdSHAxWUm4kEHa-cBp4Q0pQJegQIBhAK
+2024-08-01 15:02:58,779 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Elly+De+La+Cruz+Cincinnati+Reds&sa=X&sca_esv=e4dd71f640266e19&biw=1280&bih=720&udm=18&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ&ved=2ahUKEwiru-_evdSHAxWUm4kEHa-cBp4Qs6gLegQIBhAM
+2024-08-01 15:02:58,780 - root - INFO - Checking if URL is not google domain: https://maps.google.com/maps?sca_esv=e4dd71f640266e19&q=Elly+De+La+Cruz+Cincinnati+Reds&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ&biw=1280&bih=720&dpr=1&um=1&ie=UTF-8&ved=1t:200715&ictx=111
+2024-08-01 15:02:58,780 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Elly+De+La+Cruz+Cincinnati+Reds&sa=X&sca_esv=e4dd71f640266e19&biw=1280&bih=720&udm=14&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ&ved=2ahUKEwiru-_evdSHAxWUm4kEHa-cBp4Q0pQJKAB6BAgGEBI
+2024-08-01 15:02:58,780 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Elly+De+La+Cruz+Cincinnati+Reds&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=bks&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ&sa=X&ved=2ahUKEwiru-_evdSHAxWUm4kEHa-cBp4Q0pQJKAF6BAgGEBM
+2024-08-01 15:02:58,780 - root - INFO - Checking if URL is not google domain: https://www.google.com/travel/flights?q=Elly+De+La+Cruz+Cincinnati+Reds&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=flm&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ&ved=1t:200715&ictx=111
+2024-08-01 15:02:58,780 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Elly+De+La+Cruz+Cincinnati+Reds&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:h&sa=X&ved=2ahUKEwiru-_evdSHAxWUm4kEHa-cBp4QpwV6BAgBEAc
+2024-08-01 15:02:58,780 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Elly+De+La+Cruz+Cincinnati+Reds&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:d&sa=X&ved=2ahUKEwiru-_evdSHAxWUm4kEHa-cBp4QpwV6BAgBEAg
+2024-08-01 15:02:58,781 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Elly+De+La+Cruz+Cincinnati+Reds&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:w&sa=X&ved=2ahUKEwiru-_evdSHAxWUm4kEHa-cBp4QpwV6BAgBEAk
+2024-08-01 15:02:58,781 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Elly+De+La+Cruz+Cincinnati+Reds&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:m&sa=X&ved=2ahUKEwiru-_evdSHAxWUm4kEHa-cBp4QpwV6BAgBEAo
+2024-08-01 15:02:58,781 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Elly+De+La+Cruz+Cincinnati+Reds&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:y&sa=X&ved=2ahUKEwiru-_evdSHAxWUm4kEHa-cBp4QpwV6BAgBEAs
+2024-08-01 15:02:58,781 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Elly+De+La+Cruz+Cincinnati+Reds&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&source=lnt&tbs=ar:1&sa=X&ved=2ahUKEwiru-_evdSHAxWUm4kEHa-cBp4QpwV6BAgBEAw
+2024-08-01 15:02:58,781 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Elly+De+La+Cruz+Cincinnati+Reds&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&source=lnt&tbs=sbd:1&sa=X&ved=2ahUKEwiru-_evdSHAxWUm4kEHa-cBp4QpwV6BAgBEBQ
+2024-08-01 15:02:58,781 - root - INFO - Checking if URL is not google domain: http://news.google.com/news/advanced_news_search?sca_esv=e4dd71f640266e19&q=Elly+De+La+Cruz+Cincinnati+Reds&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ&biw=1280&bih=720&dpr=1
+2024-08-01 15:02:58,781 - root - INFO - Checking if URL is not google domain: https://www.google.com/history/optout?hl=en
+2024-08-01 15:02:58,781 - root - INFO - Checking if URL is not google domain: https://www.google.com/safesearch?prev=https://www.google.com/search?sca_esv%3De4dd71f640266e19%26q%3DElly%2BDe%2BLa%2BCruz%2BCincinnati%2BReds%26tbm%3Dnws%26source%3Dlnms%26fbs%3DAEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ%26sa%3DX%26ved%3D2ahUKEwjq0OPcvdSHAxXUvokEHSA5Aw4Q0pQJegQIDRAB%26biw%3D1280%26bih%3D720%26dpr%3D1&sa=X&ved=2ahUKEwiru-_evdSHAxWUm4kEHa-cBp4Q8JsIegQIBRAG
+2024-08-01 15:02:58,782 - root - INFO - Checking if URL is not google domain: https://www.google.com/preferences?lang=1&hl=en&prev=https://www.google.com/search?q%3DElly%2BDe%2BLa%2BCruz%2BCincinnati%2BReds%26sa%3DX%26sca_esv%3De4dd71f640266e19%26biw%3D1280%26bih%3D720%26tbm%3Dnws#languages
+2024-08-01 15:02:58,782 - root - INFO - Checking if URL is not google domain: https://www.google.com/setprefs?hl=en&prev=https://www.google.com/search?sca_esv%3De4dd71f640266e19%26q%3DElly%2BDe%2BLa%2BCruz%2BCincinnati%2BReds%26tbm%3Dnws%26source%3Dlnms%26fbs%3DAEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ%26sa%3DX%26ved%3D2ahUKEwjq0OPcvdSHAxXUvokEHSA5Aw4Q0pQJegQIDRAB%26biw%3D1280%26bih%3D720%26dpr%3D1%26pccc%3D1&sig=0_B7Ly853rFtMYW5-QMb2RKxGbY1E%3D&cs=2&sa=X&ved=2ahUKEwiru-_evdSHAxWUm4kEHa-cBp4QqsEHegQIBRAI&ictx=1
+2024-08-01 15:02:58,782 - root - INFO - Checking if URL is not google domain: https://www.google.com/preferences?hl=en&prev=https://www.google.com/search?q%3DElly%2BDe%2BLa%2BCruz%2BCincinnati%2BReds%26sa%3DX%26sca_esv%3De4dd71f640266e19%26biw%3D1280%26bih%3D720%26tbm%3Dnws
+2024-08-01 15:02:58,782 - root - INFO - Checking if URL is not google domain: https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-08-01 15:02:58,782 - root - INFO - URL is not google domain: https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-08-01 15:02:58,782 - root - INFO - Checking if URL is not google domain: https://support.google.com/websearch/?p=dsrp_search_hc&hl=en
+2024-08-01 15:02:58,782 - root - INFO - Checking if URL is not google domain: https://policies.google.com/privacy?hl=en&fg=1
+2024-08-01 15:02:58,782 - root - INFO - Checking if URL is not google domain: https://policies.google.com/terms?hl=en&fg=1
+2024-08-01 15:02:58,782 - root - INFO - Checking if URL is not google domain: https://www.mlb.com/reds/video/elly-de-la-cruz-s-double-to-left-center
+2024-08-01 15:02:58,782 - root - INFO - URL is not google domain: https://www.mlb.com/reds/video/elly-de-la-cruz-s-double-to-left-center
+2024-08-01 15:02:58,783 - root - INFO - Checking if URL is not google domain: https://www.si.com/fannation/mlb/fastball/history/cincinnati-reds-elly-de-la-cruz-joins-rickey-henderson-in-mlb-history-books-70-runs-55-stolen-bases-before-end-of-july-01j41zj28r1r
+2024-08-01 15:02:58,783 - root - INFO - URL is not google domain: https://www.si.com/fannation/mlb/fastball/history/cincinnati-reds-elly-de-la-cruz-joins-rickey-henderson-in-mlb-history-books-70-runs-55-stolen-bases-before-end-of-july-01j41zj28r1r
+2024-08-01 15:02:58,783 - root - INFO - Checking if URL is not google domain: https://local12.com/sports/reds/reds-star-elly-de-la-cruz-make-mlb-history-historic-feat-major-league-baseball-steals-stolen-bases-runs-records-edlc-womack-strange-gordon-podsednik-turner-hamilton-cincinnati-rickey-henderson
+2024-08-01 15:02:58,783 - root - INFO - URL is not google domain: https://local12.com/sports/reds/reds-star-elly-de-la-cruz-make-mlb-history-historic-feat-major-league-baseball-steals-stolen-bases-runs-records-edlc-womack-strange-gordon-podsednik-turner-hamilton-cincinnati-rickey-henderson
+2024-08-01 15:02:58,783 - root - INFO - Checking if URL is not google domain: https://www.bizjournals.com/cincinnati/inno/stories/news/2024/07/30/forbes-30-under-30-joe-burrow-chase-elly-de-cruz.html
+2024-08-01 15:02:58,783 - root - INFO - URL is not google domain: https://www.bizjournals.com/cincinnati/inno/stories/news/2024/07/30/forbes-30-under-30-joe-burrow-chase-elly-de-cruz.html
+2024-08-01 15:02:58,783 - root - INFO - Checking if URL is not google domain: https://www.redreporter.com/2024/7/29/24209160/cincinnati-reds-chicago-cubs-baseball
+2024-08-01 15:02:58,783 - root - INFO - URL is not google domain: https://www.redreporter.com/2024/7/29/24209160/cincinnati-reds-chicago-cubs-baseball
+2024-08-01 15:02:58,784 - root - INFO - Checking if URL is not google domain: https://athlonsports.com/mlb/cincinnati-reds/inside-reds/analysis/with-57-games-to-go-the-reds-have-an-uphill-battle-to-the-playoffs
+2024-08-01 15:02:58,784 - root - INFO - URL is not google domain: https://athlonsports.com/mlb/cincinnati-reds/inside-reds/analysis/with-57-games-to-go-the-reds-have-an-uphill-battle-to-the-playoffs
+2024-08-01 15:02:58,784 - root - INFO - Checking if URL is not google domain: https://ftw.usatoday.com/article/cubs-vs-reds-mlb-player-props-and-odds-tuesday-july-30
+2024-08-01 15:02:58,784 - root - INFO - URL is not google domain: https://ftw.usatoday.com/article/cubs-vs-reds-mlb-player-props-and-odds-tuesday-july-30
+2024-08-01 15:02:58,784 - root - INFO - Checking if URL is not google domain: https://www.si.com/mlb/reds/news/electric-cincinnati-reds-star-elly-de-la-cruz-continues-to-make-history-01j3z22kg00m
+2024-08-01 15:02:58,784 - root - INFO - URL is not google domain: https://www.si.com/mlb/reds/news/electric-cincinnati-reds-star-elly-de-la-cruz-continues-to-make-history-01j3z22kg00m
+2024-08-01 15:02:58,784 - root - INFO - Checking if URL is not google domain: https://www.si.com/betting/best-mlb-home-run-picks-today-target-elly-de-la-cruz-to-go-yard
+2024-08-01 15:02:58,785 - root - INFO - URL is not google domain: https://www.si.com/betting/best-mlb-home-run-picks-today-target-elly-de-la-cruz-to-go-yard
+2024-08-01 15:02:58,785 - root - INFO - Checking if URL is not google domain: https://www.mlb.com/stories/game-preview/746683
+2024-08-01 15:02:58,785 - root - INFO - URL is not google domain: https://www.mlb.com/stories/game-preview/746683
+2024-08-01 15:02:58,785 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Elly+De+La+Cruz+Cincinnati+Reds&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&ei=4durZuvGF5S3ptQPr7ma8Ak&start=10&sa=N&ved=2ahUKEwiru-_evdSHAxWUm4kEHa-cBp4Q8tMDegQIAhAE
+2024-08-01 15:02:58,785 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Elly+De+La+Cruz+Cincinnati+Reds&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&ei=4durZuvGF5S3ptQPr7ma8Ak&start=20&sa=N&ved=2ahUKEwiru-_evdSHAxWUm4kEHa-cBp4Q8tMDegQIAhAG
+2024-08-01 15:02:58,785 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Elly+De+La+Cruz+Cincinnati+Reds&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&ei=4durZuvGF5S3ptQPr7ma8Ak&start=30&sa=N&ved=2ahUKEwiru-_evdSHAxWUm4kEHa-cBp4Q8tMDegQIAhAI
+2024-08-01 15:02:58,785 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Elly+De+La+Cruz+Cincinnati+Reds&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&ei=4durZuvGF5S3ptQPr7ma8Ak&start=40&sa=N&ved=2ahUKEwiru-_evdSHAxWUm4kEHa-cBp4Q8tMDegQIAhAK
+2024-08-01 15:02:58,785 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Elly+De+La+Cruz+Cincinnati+Reds&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&ei=4durZuvGF5S3ptQPr7ma8Ak&start=50&sa=N&ved=2ahUKEwiru-_evdSHAxWUm4kEHa-cBp4Q8tMDegQIAhAM
+2024-08-01 15:02:58,786 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Elly+De+La+Cruz+Cincinnati+Reds&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&ei=4durZuvGF5S3ptQPr7ma8Ak&start=60&sa=N&ved=2ahUKEwiru-_evdSHAxWUm4kEHa-cBp4Q8tMDegQIAhAO
+2024-08-01 15:02:58,786 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Elly+De+La+Cruz+Cincinnati+Reds&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&ei=4durZuvGF5S3ptQPr7ma8Ak&start=70&sa=N&ved=2ahUKEwiru-_evdSHAxWUm4kEHa-cBp4Q8tMDegQIAhAQ
+2024-08-01 15:02:58,786 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Elly+De+La+Cruz+Cincinnati+Reds&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&ei=4durZuvGF5S3ptQPr7ma8Ak&start=80&sa=N&ved=2ahUKEwiru-_evdSHAxWUm4kEHa-cBp4Q8tMDegQIAhAS
+2024-08-01 15:02:58,786 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Elly+De+La+Cruz+Cincinnati+Reds&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&ei=4durZuvGF5S3ptQPr7ma8Ak&start=90&sa=N&ved=2ahUKEwiru-_evdSHAxWUm4kEHa-cBp4Q8tMDegQIAhAU
+2024-08-01 15:02:58,786 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Elly+De+La+Cruz+Cincinnati+Reds&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&ei=4durZuvGF5S3ptQPr7ma8Ak&start=10&sa=N&ved=2ahUKEwiru-_evdSHAxWUm4kEHa-cBp4Q8NMDegQIAhAW
+2024-08-01 15:02:58,786 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?sca_esv=e4dd71f640266e19&q=Elly+De+La+Cruz+Cincinnati+Reds&tbm=nws&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05f5uS4yzON_C0W06hD3My-YNTFiFYx03jVlgZmbmBZRiB2Lmo5-hvCwcF7TKPpe4yGDqh-pHKG7jRqgQ20KbRTAAX4bxncrmoiIzel2DqWxvWOAT8qACcE_jCeX3nMwNFMmisMdOnu_S9QLERmUZ-EXi0CrIQ&sa=X&ved=2ahUKEwjq0OPcvdSHAxXUvokEHSA5Aw4Q0pQJegQIDRAB&biw=1280&bih=720&dpr=1#
+2024-08-01 15:02:58,786 - root - INFO - Final List of URLs Created
+2024-08-01 15:02:58,932 - root - INFO - Browser Closed and returning final_list
+2024-08-01 15:02:58,933 - root - INFO - Google Extraction Completed
+2024-08-01 15:02:58,947 - GenericCleaner - INFO - Starting Cleaning
+2024-08-01 15:02:58,947 - GenericCleaner - INFO - Starting cleaning process
+2024-08-01 15:02:58,951 - GenericCleaner - INFO - Initial number of rows: 14
+2024-08-01 15:02:58,955 - GenericCleaner - INFO - Number of rows with invalid URLs: 3
+2024-08-01 15:02:58,960 - GenericCleaner - INFO - URLs starting with '/': 0
+2024-08-01 15:02:58,960 - GenericCleaner - INFO - URLs starting with '//': 0
+2024-08-01 15:02:58,960 - GenericCleaner - INFO - Saved 'AfterConvertingInvalidURLs.csv'
+2024-08-01 15:02:58,966 - GenericCleaner - INFO - Number of duplicate rows removed: 0
+2024-08-01 15:02:58,966 - GenericCleaner - INFO - Cleaning process completed
+2024-08-01 15:02:58,966 - GenericCleaner - INFO - Cleaning Completed
+2024-08-01 15:02:58,966 - root - INFO - Creating JSON Object for articles
+2024-08-01 15:02:58,966 - root - INFO - JSON Article Object Created
+2024-08-01 15:02:58,968 - WebsiteDataExtractor - INFO - Starting Extracting Main Content of Article
+2024-08-01 15:02:58,968 - WebsiteDataExtractor - INFO - processing index 0-> https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-08-01 15:02:58,969 - WebsiteDataExtractor - INFO - Processing URL: https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-08-01 15:02:58,975 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): newsinitiative.withgoogle.com:443
+2024-08-01 15:02:59,144 - urllib3.connectionpool - DEBUG - https://newsinitiative.withgoogle.com:443 "GET /hownewsworks/?fg=1 HTTP/11" 200 6755
+2024-08-01 15:02:59,145 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:02:59,145 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-08-01 15:02:59,145 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:00,147 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:00,147 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:00,154 - trafilatura.main_extractor - DEBUG - Recovering wild text elements
+2024-08-01 15:03:00,158 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:00,158 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:00,165 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:00,165 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:00,180 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:00,181 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:00,182 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:00,183 - WebsiteDataExtractor - INFO - processing index 1-> https://www.mlb.com/reds/video/elly-de-la-cruz-s-double-to-left-center
+2024-08-01 15:03:00,184 - WebsiteDataExtractor - INFO - Processing URL: https://www.mlb.com/reds/video/elly-de-la-cruz-s-double-to-left-center
+2024-08-01 15:03:00,185 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.mlb.com:443
+2024-08-01 15:03:00,392 - urllib3.connectionpool - DEBUG - https://www.mlb.com:443 "GET /reds/video/elly-de-la-cruz-s-double-to-left-center HTTP/11" 200 None
+2024-08-01 15:03:00,448 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:00,448 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.mlb.com/reds/video/elly-de-la-cruz-s-double-to-left-center
+2024-08-01 15:03:00,448 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:01,449 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:01,450 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:01,468 - trafilatura.htmlprocessing - DEBUG - list link text/total: 93/93 – short elems/total: 2/7
+2024-08-01 15:03:01,468 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/92 – short elems/total: 1/1
+2024-08-01 15:03:01,468 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/22 – short elems/total: 1/1
+2024-08-01 15:03:01,468 - trafilatura.htmlprocessing - DEBUG - list link text/total: 9/22 – short elems/total: 1/1
+2024-08-01 15:03:01,468 - trafilatura.htmlprocessing - DEBUG - list link text/total: 10/83 – short elems/total: 0/1
+2024-08-01 15:03:01,468 - trafilatura.htmlprocessing - DEBUG - list link text/total: 10/22 – short elems/total: 0/1
+2024-08-01 15:03:01,468 - trafilatura.htmlprocessing - DEBUG - list link text/total: 10/22 – short elems/total: 0/1
+2024-08-01 15:03:01,469 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'div', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-08-01 15:03:01,469 - trafilatura.main_extractor - DEBUG - discarding element: section None
+2024-08-01 15:03:01,469 - trafilatura.main_extractor - DEBUG - discarding element: section None
+2024-08-01 15:03:01,469 - trafilatura.main_extractor - DEBUG - discarding element: section None
+2024-08-01 15:03:01,469 - trafilatura.main_extractor - DEBUG - (.//*[(self::article or self::div or self::section)][starts-with(@class, "main") or starts-with(@id, "main") or starts-with(@role, "main")])[1]|(.//main)[1]
+2024-08-01 15:03:01,471 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:01,471 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:01,471 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:01,471 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:01,471 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:01,471 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:01,471 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:01,472 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:01,510 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:01,510 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:01,530 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:01,531 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:01,532 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:01,533 - WebsiteDataExtractor - INFO - processing index 2-> https://www.si.com/fannation/mlb/fastball/history/cincinnati-reds-elly-de-la-cruz-joins-rickey-henderson-in-mlb-history-books-70-runs-55-stolen-bases-before-end-of-july-01j41zj28r1r
+2024-08-01 15:03:01,533 - WebsiteDataExtractor - INFO - Processing URL: https://www.si.com/fannation/mlb/fastball/history/cincinnati-reds-elly-de-la-cruz-joins-rickey-henderson-in-mlb-history-books-70-runs-55-stolen-bases-before-end-of-july-01j41zj28r1r
+2024-08-01 15:03:01,534 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.si.com:443
+2024-08-01 15:03:01,866 - urllib3.connectionpool - DEBUG - https://www.si.com:443 "GET /fannation/mlb/fastball/history/cincinnati-reds-elly-de-la-cruz-joins-rickey-henderson-in-mlb-history-books-70-runs-55-stolen-bases-before-end-of-july-01j41zj28r1r HTTP/11" 200 None
+2024-08-01 15:03:01,889 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:01,889 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.si.com/fannation/mlb/fastball/history/cincinnati-reds-elly-de-la-cruz-joins-rickey-henderson-in-mlb-history-books-70-runs-55-stolen-bases-before-end-of-july-01j41zj28r1r
+2024-08-01 15:03:01,889 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:02,890 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:02,891 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:02,897 - trafilatura.htmlprocessing - DEBUG - list link text/total: 10/10 – short elems/total: 0/1
+2024-08-01 15:03:02,898 - trafilatura.htmlprocessing - DEBUG - list link text/total: 10/10 – short elems/total: 0/1
+2024-08-01 15:03:02,898 - trafilatura.htmlprocessing - DEBUG - list link text/total: 15/29 – short elems/total: 0/1
+2024-08-01 15:03:02,898 - trafilatura.htmlprocessing - DEBUG - list link text/total: 15/29 – short elems/total: 0/1
+2024-08-01 15:03:02,898 - trafilatura.htmlprocessing - DEBUG - list link text/total: 15/15 – short elems/total: 0/1
+2024-08-01 15:03:02,898 - trafilatura.htmlprocessing - DEBUG - list link text/total: 10/54 – short elems/total: 0/1
+2024-08-01 15:03:02,898 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-08-01 15:03:02,898 - trafilatura.main_extractor - DEBUG - discarding element: header None
+2024-08-01 15:03:02,898 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:02,898 - trafilatura.main_extractor - DEBUG - discarding element: div Elly De La Cruz has scored 70 runs and stolen 55 bases for the Cincinnati Reds so far this season, doing something that hadn't been achieved since Rickey Henderson in 1988.
+2024-08-01 15:03:02,898 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:02,898 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:02,898 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:02,898 - trafilatura.main_extractor - DEBUG - discarding element: figcaption Jul 27, 2024; St. Petersburg, Florida, USA; Cincinnati Reds shortstop Elly De La Cruz (44) leads off first base against the Tampa Bay Rays during the sixth inning at Tropicana Field. / Matt Pendleton-USA TODAY Sports
+2024-08-01 15:03:02,898 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:02,898 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:02,898 - trafilatura.main_extractor - DEBUG - discarding element: div In this story:
+2024-08-01 15:03:02,898 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:02,898 - trafilatura.main_extractor - DEBUG - discarding element: section None
+2024-08-01 15:03:02,898 - trafilatura.main_extractor - DEBUG - discarding element: div Published 
+2024-08-01 15:03:02,898 - trafilatura.main_extractor - DEBUG - (.//article)[1]
+2024-08-01 15:03:02,899 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:02,899 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:02,911 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:02,911 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:02,915 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:02,915 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:02,916 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:02,917 - WebsiteDataExtractor - INFO - processing index 3-> https://local12.com/sports/reds/reds-star-elly-de-la-cruz-make-mlb-history-historic-feat-major-league-baseball-steals-stolen-bases-runs-records-edlc-womack-strange-gordon-podsednik-turner-hamilton-cincinnati-rickey-henderson
+2024-08-01 15:03:02,917 - WebsiteDataExtractor - INFO - Processing URL: https://local12.com/sports/reds/reds-star-elly-de-la-cruz-make-mlb-history-historic-feat-major-league-baseball-steals-stolen-bases-runs-records-edlc-womack-strange-gordon-podsednik-turner-hamilton-cincinnati-rickey-henderson
+2024-08-01 15:03:02,918 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): local12.com:443
+2024-08-01 15:03:03,271 - urllib3.connectionpool - DEBUG - https://local12.com:443 "GET /sports/reds/reds-star-elly-de-la-cruz-make-mlb-history-historic-feat-major-league-baseball-steals-stolen-bases-runs-records-edlc-womack-strange-gordon-podsednik-turner-hamilton-cincinnati-rickey-henderson HTTP/11" 200 None
+2024-08-01 15:03:03,322 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:03,322 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://local12.com/sports/reds/reds-star-elly-de-la-cruz-make-mlb-history-historic-feat-major-league-baseball-steals-stolen-bases-runs-records-edlc-womack-strange-gordon-podsednik-turner-hamilton-cincinnati-rickey-henderson
+2024-08-01 15:03:03,322 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:04,324 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:04,326 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:04,339 - trafilatura.main_extractor - DEBUG - Recovering wild text elements
+2024-08-01 15:03:04,345 - trafilatura.htmlprocessing - DEBUG - list link text/total: 89/121 – short elems/total: 4/8
+2024-08-01 15:03:04,345 - trafilatura.htmlprocessing - DEBUG - list link text/total: 89/121 – short elems/total: 4/8
+2024-08-01 15:03:04,345 - trafilatura.htmlprocessing - DEBUG - list link text/total: 89/121 – short elems/total: 4/8
+2024-08-01 15:03:04,346 - trafilatura.htmlprocessing - DEBUG - list link text/total: 62/80 – short elems/total: 4/7
+2024-08-01 15:03:04,346 - trafilatura.htmlprocessing - DEBUG - list link text/total: 21/21 – short elems/total: 0/1
+2024-08-01 15:03:04,346 - trafilatura.htmlprocessing - DEBUG - list link text/total: 41/59 – short elems/total: 4/6
+2024-08-01 15:03:04,346 - trafilatura.htmlprocessing - DEBUG - list link text/total: 103/110 – short elems/total: 1/8
+2024-08-01 15:03:04,346 - trafilatura.main_extractor - DEBUG - extra p within p: p EDLC became the fifth MLB player in the modern era (since 1901) to have 70+ runs and 55+ stolen bases in a season before the end of July, and the first since Rickey Henderson in 1988. That was courtesy of OptaSTATS. None
+2024-08-01 15:03:04,346 - trafilatura.main_extractor - DEBUG - extra p within p: p Others to have accomplished the feat, since 1991, along with Turner: Dee Strange-Gordon (MIA in 2015), Billy Hamilton (CIN in 2015), Tony Womack (NYY in 2005) and Scott Podsednik (CHW in 2005).  None
+2024-08-01 15:03:04,346 - trafilatura.main_extractor - DEBUG - discarding p-child: b'<p/>'
+2024-08-01 15:03:04,346 - trafilatura.main_extractor - DEBUG - discarding p-child: b'<p/>'
+2024-08-01 15:03:04,346 - trafilatura.main_extractor - DEBUG - discarding p-child: b'<p/>'
+2024-08-01 15:03:04,347 - trafilatura.main_extractor - DEBUG - discarding p-child: b'<p/>'
+2024-08-01 15:03:04,347 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:04,347 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:04,363 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:04,363 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:04,379 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:04,379 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:04,380 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:04,381 - WebsiteDataExtractor - INFO - processing index 4-> https://www.bizjournals.com/cincinnati/inno/stories/news/2024/07/30/forbes-30-under-30-joe-burrow-chase-elly-de-cruz.html
+2024-08-01 15:03:04,381 - WebsiteDataExtractor - INFO - Processing URL: https://www.bizjournals.com/cincinnati/inno/stories/news/2024/07/30/forbes-30-under-30-joe-burrow-chase-elly-de-cruz.html
+2024-08-01 15:03:04,382 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.bizjournals.com:443
+2024-08-01 15:03:04,502 - urllib3.connectionpool - DEBUG - https://www.bizjournals.com:443 "GET /cincinnati/inno/stories/news/2024/07/30/forbes-30-under-30-joe-burrow-chase-elly-de-cruz.html HTTP/11" 200 212
+2024-08-01 15:03:04,503 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:04,503 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.bizjournals.com/cincinnati/inno/stories/news/2024/07/30/forbes-30-under-30-joe-burrow-chase-elly-de-cruz.html
+2024-08-01 15:03:04,503 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:05,504 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:05,505 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:05,506 - trafilatura.main_extractor - DEBUG - Recovering wild text elements
+2024-08-01 15:03:05,506 - trafilatura.core - DEBUG - non-clean extracted length: 0 (extraction)
+2024-08-01 15:03:05,506 - trafilatura.core - DEBUG - text and comments not long enough: 0 0 None
+2024-08-01 15:03:05,507 - trafilatura.core - WARNING - discarding data: None
+2024-08-01 15:03:05,507 - root - INFO - No main text could be extracted from https://www.bizjournals.com/cincinnati/inno/stories/news/2024/07/30/forbes-30-under-30-joe-burrow-chase-elly-de-cruz.html
+2024-08-01 15:03:05,507 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:05,507 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:05,507 - WebsiteDataExtractor - ERROR - An error occurred while processing https://www.bizjournals.com/cincinnati/inno/stories/news/2024/07/30/forbes-30-under-30-joe-burrow-chase-elly-de-cruz.html: 'NoneType' object has no attribute 'get_text'
+2024-08-01 15:03:05,508 - WebsiteDataExtractor - INFO - Adding FAILED Row To The Dataframe
+2024-08-01 15:03:05,509 - WebsiteDataExtractor - INFO - Added FAILED Row To The DataFrame
+2024-08-01 15:03:05,509 - WebsiteDataExtractor - INFO - processing index 5-> https://www.redreporter.com/2024/7/29/24209160/cincinnati-reds-chicago-cubs-baseball
+2024-08-01 15:03:05,510 - WebsiteDataExtractor - INFO - Processing URL: https://www.redreporter.com/2024/7/29/24209160/cincinnati-reds-chicago-cubs-baseball
+2024-08-01 15:03:05,510 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.redreporter.com:443
+2024-08-01 15:03:06,136 - urllib3.connectionpool - DEBUG - https://www.redreporter.com:443 "GET /2024/7/29/24209160/cincinnati-reds-chicago-cubs-baseball HTTP/11" 200 41887
+2024-08-01 15:03:06,139 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:06,140 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.redreporter.com/2024/7/29/24209160/cincinnati-reds-chicago-cubs-baseball
+2024-08-01 15:03:06,140 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:07,141 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:07,142 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:07,149 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'div', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-08-01 15:03:07,149 - trafilatura.main_extractor - DEBUG - discarding element: section 
+  
+2024-08-01 15:03:07,149 - trafilatura.main_extractor - DEBUG - .//*[(self::article or self::div or self::main or self::section)][
+    @class="post" or @class="entry" or
+    contains(@class, "post-text") or contains(@class, "post_text") or
+    contains(@class, "post-body") or contains(@class, "post-entry") or contains(@class, "postentry") or
+    contains(@class, "post-content") or contains(@class, "post_content") or
+    contains(@class, "postcontent") or contains(@class, "postContent") or contains(@class, "post_inner_wrapper") or
+    contains(@class, "article-text") or contains(@class, "articletext") or contains(@class, "articleText")
+    or contains(@id, "entry-content") or
+    contains(@class, "entry-content") or contains(@id, "article-content") or
+    contains(@class, "article-content") or contains(@id, "article__content") or
+    contains(@class, "article__content") or contains(@id, "article-body") or
+    contains(@class, "article-body") or contains(@id, "article__body") or
+    contains(@class, "article__body") or @itemprop="articleBody" or
+    contains(translate(@id, "B", "b"), "articlebody") or contains(translate(@class, "B", "b"), "articleBody")
+    or @id="articleContent" or contains(@class, "ArticleContent") or
+    contains(@class, "page-content") or contains(@class, "text-content") or
+    contains(@id, "body-text") or contains(@class, "body-text") or
+    contains(@class, "article__container") or contains(@id, "art-content") or contains(@class, "art-content")][1]
+2024-08-01 15:03:07,150 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:07,150 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:07,150 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:07,150 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:07,150 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:07,150 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:07,150 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:07,151 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:07,177 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:07,177 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:07,180 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:07,181 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:07,181 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:07,182 - WebsiteDataExtractor - INFO - processing index 6-> https://athlonsports.com/mlb/cincinnati-reds/inside-reds/analysis/with-57-games-to-go-the-reds-have-an-uphill-battle-to-the-playoffs
+2024-08-01 15:03:07,182 - WebsiteDataExtractor - INFO - Processing URL: https://athlonsports.com/mlb/cincinnati-reds/inside-reds/analysis/with-57-games-to-go-the-reds-have-an-uphill-battle-to-the-playoffs
+2024-08-01 15:03:07,183 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): athlonsports.com:443
+2024-08-01 15:03:07,235 - urllib3.connectionpool - DEBUG - https://athlonsports.com:443 "GET /mlb/cincinnati-reds/inside-reds/analysis/with-57-games-to-go-the-reds-have-an-uphill-battle-to-the-playoffs HTTP/11" 403 None
+2024-08-01 15:03:07,236 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:07,236 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://athlonsports.com/mlb/cincinnati-reds/inside-reds/analysis/with-57-games-to-go-the-reds-have-an-uphill-battle-to-the-playoffs
+2024-08-01 15:03:07,236 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:08,238 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:08,238 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:08,239 - trafilatura.main_extractor - DEBUG - Recovering wild text elements
+2024-08-01 15:03:08,240 - trafilatura.core - DEBUG - non-clean extracted length: 43 (extraction)
+2024-08-01 15:03:08,240 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:08,240 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:08,240 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:08,241 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:08,242 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:08,242 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:08,243 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:08,244 - WebsiteDataExtractor - INFO - processing index 7-> https://ftw.usatoday.com/article/cubs-vs-reds-mlb-player-props-and-odds-tuesday-july-30
+2024-08-01 15:03:08,244 - WebsiteDataExtractor - INFO - Processing URL: https://ftw.usatoday.com/article/cubs-vs-reds-mlb-player-props-and-odds-tuesday-july-30
+2024-08-01 15:03:08,245 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): ftw.usatoday.com:443
+2024-08-01 15:03:08,585 - urllib3.connectionpool - DEBUG - https://ftw.usatoday.com:443 "GET /article/cubs-vs-reds-mlb-player-props-and-odds-tuesday-july-30 HTTP/11" 200 None
+2024-08-01 15:03:08,611 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:08,611 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://ftw.usatoday.com/article/cubs-vs-reds-mlb-player-props-and-odds-tuesday-july-30
+2024-08-01 15:03:08,611 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:09,612 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:09,613 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:09,624 - trafilatura.htmlprocessing - DEBUG - list link text/total: 22/22 – short elems/total: 0/1
+2024-08-01 15:03:09,624 - trafilatura.htmlprocessing - DEBUG - list link text/total: 32/32 – short elems/total: 0/1
+2024-08-01 15:03:09,624 - trafilatura.htmlprocessing - DEBUG - list link text/total: 5/209 – short elems/total: 1/1
+2024-08-01 15:03:09,624 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-08-01 15:03:09,624 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:09,624 - trafilatura.main_extractor - DEBUG - discarding element: div 
+			  
+2024-08-01 15:03:09,625 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:09,625 - trafilatura.main_extractor - DEBUG - discarding element: div 
+			  
+2024-08-01 15:03:09,625 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:09,625 - trafilatura.main_extractor - DEBUG - discarding element: div 
+			  
+2024-08-01 15:03:09,625 - trafilatura.main_extractor - DEBUG - .//*[(self::article or self::div or self::main or self::section)][
+    @class="post" or @class="entry" or
+    contains(@class, "post-text") or contains(@class, "post_text") or
+    contains(@class, "post-body") or contains(@class, "post-entry") or contains(@class, "postentry") or
+    contains(@class, "post-content") or contains(@class, "post_content") or
+    contains(@class, "postcontent") or contains(@class, "postContent") or contains(@class, "post_inner_wrapper") or
+    contains(@class, "article-text") or contains(@class, "articletext") or contains(@class, "articleText")
+    or contains(@id, "entry-content") or
+    contains(@class, "entry-content") or contains(@id, "article-content") or
+    contains(@class, "article-content") or contains(@id, "article__content") or
+    contains(@class, "article__content") or contains(@id, "article-body") or
+    contains(@class, "article-body") or contains(@id, "article__body") or
+    contains(@class, "article__body") or @itemprop="articleBody" or
+    contains(translate(@id, "B", "b"), "articlebody") or contains(translate(@class, "B", "b"), "articleBody")
+    or @id="articleContent" or contains(@class, "ArticleContent") or
+    contains(@class, "page-content") or contains(@class, "text-content") or
+    contains(@id, "body-text") or contains(@class, "body-text") or
+    contains(@class, "article__container") or contains(@id, "art-content") or contains(@class, "art-content")][1]
+2024-08-01 15:03:09,626 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,626 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,626 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,626 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,626 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,626 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,627 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,628 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,628 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,628 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,628 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:09,628 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:09,628 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:09,665 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:09,665 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:09,669 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:09,670 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:09,672 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:09,673 - WebsiteDataExtractor - INFO - processing index 8-> https://www.si.com/mlb/reds/news/electric-cincinnati-reds-star-elly-de-la-cruz-continues-to-make-history-01j3z22kg00m
+2024-08-01 15:03:09,673 - WebsiteDataExtractor - INFO - Processing URL: https://www.si.com/mlb/reds/news/electric-cincinnati-reds-star-elly-de-la-cruz-continues-to-make-history-01j3z22kg00m
+2024-08-01 15:03:09,674 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.si.com:443
+2024-08-01 15:03:10,098 - urllib3.connectionpool - DEBUG - https://www.si.com:443 "GET /mlb/reds/news/electric-cincinnati-reds-star-elly-de-la-cruz-continues-to-make-history-01j3z22kg00m HTTP/11" 200 None
+2024-08-01 15:03:10,125 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:10,126 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.si.com/mlb/reds/news/electric-cincinnati-reds-star-elly-de-la-cruz-continues-to-make-history-01j3z22kg00m
+2024-08-01 15:03:10,126 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:11,127 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:11,128 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:11,136 - trafilatura.htmlprocessing - DEBUG - list link text/total: 12/12 – short elems/total: 0/1
+2024-08-01 15:03:11,136 - trafilatura.htmlprocessing - DEBUG - list link text/total: 12/12 – short elems/total: 0/1
+2024-08-01 15:03:11,136 - trafilatura.htmlprocessing - DEBUG - list link text/total: 15/29 – short elems/total: 0/1
+2024-08-01 15:03:11,136 - trafilatura.htmlprocessing - DEBUG - list link text/total: 15/29 – short elems/total: 0/1
+2024-08-01 15:03:11,136 - trafilatura.htmlprocessing - DEBUG - list link text/total: 15/15 – short elems/total: 0/1
+2024-08-01 15:03:11,136 - trafilatura.htmlprocessing - DEBUG - list link text/total: 22/22 – short elems/total: 0/1
+2024-08-01 15:03:11,137 - trafilatura.htmlprocessing - DEBUG - list link text/total: 19/19 – short elems/total: 0/1
+2024-08-01 15:03:11,137 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-08-01 15:03:11,137 - trafilatura.main_extractor - DEBUG - discarding element: header None
+2024-08-01 15:03:11,138 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:11,138 - trafilatura.main_extractor - DEBUG - discarding element: div The 22-year-old continues to make a major impact.
+2024-08-01 15:03:11,138 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:11,138 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:11,138 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:11,138 - trafilatura.main_extractor - DEBUG - discarding element: figcaption Jul 28, 2024; St. Petersburg, Florida, USA; Tampa Bay Rays first baseman Yandy Diaz (2) and Cincinnati Reds short stop Elly De La Cruz (44) chat during the sixth inning  at Tropicana Field. Mandatory Credit: Jonathan Dyer-USA TODAY Sports / Jonathan Dyer-USA TODAY Sports
+2024-08-01 15:03:11,138 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:11,138 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:11,138 - trafilatura.main_extractor - DEBUG - discarding element: div In this story:
+2024-08-01 15:03:11,138 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:11,138 - trafilatura.main_extractor - DEBUG - discarding element: section None
+2024-08-01 15:03:11,138 - trafilatura.main_extractor - DEBUG - discarding element: div Published 
+2024-08-01 15:03:11,138 - trafilatura.main_extractor - DEBUG - (.//article)[1]
+2024-08-01 15:03:11,139 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:11,140 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:11,187 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:11,187 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:11,191 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:11,192 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:11,193 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:11,194 - WebsiteDataExtractor - INFO - processing index 9-> https://www.si.com/betting/best-mlb-home-run-picks-today-target-elly-de-la-cruz-to-go-yard
+2024-08-01 15:03:11,194 - WebsiteDataExtractor - INFO - Processing URL: https://www.si.com/betting/best-mlb-home-run-picks-today-target-elly-de-la-cruz-to-go-yard
+2024-08-01 15:03:11,195 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.si.com:443
+2024-08-01 15:03:11,476 - urllib3.connectionpool - DEBUG - https://www.si.com:443 "GET /betting/best-mlb-home-run-picks-today-target-elly-de-la-cruz-to-go-yard HTTP/11" 200 None
+2024-08-01 15:03:11,485 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:11,486 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.si.com/betting/best-mlb-home-run-picks-today-target-elly-de-la-cruz-to-go-yard
+2024-08-01 15:03:11,486 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:12,487 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:12,487 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:12,495 - trafilatura.htmlprocessing - DEBUG - list link text/total: 12/12 – short elems/total: 0/1
+2024-08-01 15:03:12,495 - trafilatura.htmlprocessing - DEBUG - list link text/total: 12/12 – short elems/total: 0/1
+2024-08-01 15:03:12,495 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-08-01 15:03:12,495 - trafilatura.main_extractor - DEBUG - discarding element: header None
+2024-08-01 15:03:12,496 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:12,496 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:12,496 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:12,496 - trafilatura.main_extractor - DEBUG - discarding element: figcaption Jul 28, 2024; St. Petersburg, Florida, USA; Cincinnati Reds short stop Elly De La Cruz (44) singles  in the first inning against the Tampa Bay Rays at Tropicana Field. Mandatory Credit: Jonathan Dyer-USA TODAY Sports / Jonathan Dyer-USA TODAY Sports
+2024-08-01 15:03:12,496 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:12,496 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:12,496 - trafilatura.main_extractor - DEBUG - extra p within p: p Game odds refresh periodically and are subject to change. None
+2024-08-01 15:03:12,496 - trafilatura.main_extractor - DEBUG - extra p within p: p If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER. None
+2024-08-01 15:03:12,496 - trafilatura.main_extractor - DEBUG - discarding element: section None
+2024-08-01 15:03:12,496 - trafilatura.main_extractor - DEBUG - discarding element: div Published 
+2024-08-01 15:03:12,496 - trafilatura.main_extractor - DEBUG - (.//article)[1]
+2024-08-01 15:03:12,497 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:12,497 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:12,497 - trafilatura.xml - DEBUG - unprocessed element in output: item
+2024-08-01 15:03:12,497 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:12,497 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:12,506 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:12,507 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:12,510 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:12,511 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:12,511 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:12,512 - WebsiteDataExtractor - INFO - processing index 10-> https://www.mlb.com/stories/game-preview/746683
+2024-08-01 15:03:12,512 - WebsiteDataExtractor - INFO - Processing URL: https://www.mlb.com/stories/game-preview/746683
+2024-08-01 15:03:12,513 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.mlb.com:443
+2024-08-01 15:03:13,025 - urllib3.connectionpool - DEBUG - https://www.mlb.com:443 "GET /stories/game-preview/746683 HTTP/11" 200 None
+2024-08-01 15:03:13,026 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:13,026 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.mlb.com/stories/game-preview/746683
+2024-08-01 15:03:13,026 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:14,028 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:14,028 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:14,032 - trafilatura.main_extractor - DEBUG - Recovering wild text elements
+2024-08-01 15:03:14,037 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:14,037 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:14,042 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:14,043 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:15,996 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:15,997 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:15,998 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:15,998 - WebsiteDataExtractor - INFO - Completed Extracting Main Content of Article
+2024-08-01 15:03:16,000 - root - INFO - JSON file 'url_status.json' has been created with all records.
+2024-08-01 15:03:16,001 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:16,001 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:16,001 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:16,002 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:16,002 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:16,003 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:16,003 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:16,004 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:16,004 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:16,004 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:16,004 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:16,005 - root - INFO - Processing index 1
+2024-08-01 15:03:16,005 - root - INFO - First name: Joe, Last name: Burrow, Organization: Cincinnati Bengals
+2024-08-01 15:03:16,005 - root - INFO - EnteringGoogle Extraction
+2024-08-01 15:03:16,005 - asyncio - DEBUG - Using selector: EpollSelector
+2024-08-01 15:03:16,228 - root - INFO - Starting Google Extraction
+2024-08-01 15:03:16,228 - root - INFO - Inside Run Function
+2024-08-01 15:03:16,351 - root - INFO - Browser Launched
+2024-08-01 15:03:16,362 - root - INFO - New Context Created
+2024-08-01 15:03:16,818 - root - INFO - New Page Created
+2024-08-01 15:03:17,998 - root - INFO - Navigated to Google
+2024-08-01 15:03:17,998 - root - INFO - Trying to get search box
+2024-08-01 15:03:17,998 - root - INFO - Search box found
+2024-08-01 15:03:21,291 - root - INFO - Search results loaded
+2024-08-01 15:03:21,334 - root - INFO - Trying to get News tab
+2024-08-01 15:03:21,335 - root - INFO - News tab found
+2024-08-01 15:03:23,578 - root - INFO - News results loaded
+2024-08-01 15:03:23,604 - root - INFO - Extracted all 'a' tags
+2024-08-01 15:03:23,605 - root - INFO - Checking if URL is not google domain: 
+2024-08-01 15:03:23,605 - root - INFO - URL is not google domain: 
+2024-08-01 15:03:23,605 - root - INFO - Checking if URL is not google domain: https://support.google.com/websearch/answer/181196?hl=en
+2024-08-01 15:03:23,605 - root - INFO - Checking if URL is not google domain: 
+2024-08-01 15:03:23,605 - root - INFO - URL is not google domain: 
+2024-08-01 15:03:23,605 - root - INFO - Checking if URL is not google domain: https://www.google.com/webhp?hl=en&ictx=2&sa=X&ved=0ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQPQgJ
+2024-08-01 15:03:23,605 - root - INFO - Checking if URL is not google domain: https://www.google.com/intl/en/about/products
+2024-08-01 15:03:23,606 - root - INFO - Checking if URL is not google domain: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fsca_esv%3De4dd71f640266e19%26q%3DJoe%2BBurrow%2BCincinnati%2BBengals%26tbm%3Dnws%26source%3Dlnms%26fbs%3DAEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J5MIFhvnvU242yFxzEEp3BfRFWcyM5BvpTgNzM3vKj4sEjS6haKlrdzONTHhmt-ed1AL2sEA2xDA0c_J9ch7a-5Qf-GQSPTFAQP9bunwVRLfsfdPVs048YIsbW24qYhdmMChgrcloFN1BNdp3w68rVoF7EDu-kuTO1e1rnHsswpnEQOibA%26sa%3DX%26ved%3D2ahUKEwj8gIjpvdSHAxXamokEHS1KBuoQ0pQJegQIEBAB%26biw%3D1280%26bih%3D720%26dpr%3D1&ec=futura_gmv_dt_so_72586115_e
+2024-08-01 15:03:23,606 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Joe+Burrow+Cincinnati+Bengals&sca_esv=e4dd71f640266e19&biw=1280&bih=720&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J5MIFhvnvU242yFxzEEp3BfRFWcyM5BvpTgNzM3vKj4sEjS6haKlrdzONTHhmt-ed1AL2sEA2xDA0c_J9ch7a-5Qf-GQSPTFAQP9bunwVRLfsfdPVs048YIsbW24qYhdmMChgrcloFN1BNdp3w68rVoF7EDu-kuTO1e1rnHsswpnEQOibA&sa=X&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQ0pQJegQIBhAC
+2024-08-01 15:03:23,606 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Joe+Burrow+Cincinnati+Bengals&sa=X&sca_esv=e4dd71f640266e19&biw=1280&bih=720&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J5MIFhvnvU242yFxzEEp3BfRFWcyM5BvpTgNzM3vKj4sEjS6haKlrdzONTHhmt-ed1AL2sEA2xDA0c_J9ch7a-5Qf-GQSPTFAQP9bunwVRLfsfdPVs048YIsbW24qYhdmMChgrcloFN1BNdp3w68rVoF7EDu-kuTO1e1rnHsswpnEQOibA&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQtKgLegQIBhAE
+2024-08-01 15:03:23,606 - root - INFO - Checking if URL is not google domain: 
+2024-08-01 15:03:23,607 - root - INFO - URL is not google domain: 
+2024-08-01 15:03:23,607 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Joe+Burrow+Cincinnati+Bengals&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=vid&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J5MIFhvnvU242yFxzEEp3BfRFWcyM5BvpTgNzM3vKj4sEjS6haKlrdzONTHhmt-ed1AL2sEA2xDA0c_J9ch7a-5Qf-GQSPTFAQP9bunwVRLfsfdPVs048YIsbW24qYhdmMChgrcloFN1BNdp3w68rVoF7EDu-kuTO1e1rnHsswpnEQOibA&sa=X&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQ0pQJegQIBhAI
+2024-08-01 15:03:23,607 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Joe+Burrow+Cincinnati+Bengals&sa=X&sca_esv=e4dd71f640266e19&biw=1280&bih=720&udm=28&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J5MIFhvnvU242yFxzEEp3BfRFWcyM5BvpTgNzM3vKj4sEjS6haKlrdzONTHhmt-ed1AL2sEA2xDA0c_J9ch7a-5Qf-GQSPTFAQP9bunwVRLfsfdPVs048YIsbW24qYhdmMChgrcloFN1BNdp3w68rVoF7EDu-kuTO1e1rnHsswpnEQOibA&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQtKgLegQIBhAK
+2024-08-01 15:03:23,607 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Joe+Burrow+Cincinnati+Bengals&sa=X&sca_esv=e4dd71f640266e19&biw=1280&bih=720&udm=18&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J5MIFhvnvU242yFxzEEp3BfRFWcyM5BvpTgNzM3vKj4sEjS6haKlrdzONTHhmt-ed1AL2sEA2xDA0c_J9ch7a-5Qf-GQSPTFAQP9bunwVRLfsfdPVs048YIsbW24qYhdmMChgrcloFN1BNdp3w68rVoF7EDu-kuTO1e1rnHsswpnEQOibA&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQs6gLegQIBhAM
+2024-08-01 15:03:23,607 - root - INFO - Checking if URL is not google domain: https://maps.google.com/maps?sca_esv=e4dd71f640266e19&q=Joe+Burrow+Cincinnati+Bengals&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J5MIFhvnvU242yFxzEEp3BfRFWcyM5BvpTgNzM3vKj4sEjS6haKlrdzONTHhmt-ed1AL2sEA2xDA0c_J9ch7a-5Qf-GQSPTFAQP9bunwVRLfsfdPVs048YIsbW24qYhdmMChgrcloFN1BNdp3w68rVoF7EDu-kuTO1e1rnHsswpnEQOibA&biw=1280&bih=720&dpr=1&um=1&ie=UTF-8&ved=1t:200715&ictx=111
+2024-08-01 15:03:23,607 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Joe+Burrow+Cincinnati+Bengals&sa=X&sca_esv=e4dd71f640266e19&biw=1280&bih=720&udm=14&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J5MIFhvnvU242yFxzEEp3BfRFWcyM5BvpTgNzM3vKj4sEjS6haKlrdzONTHhmt-ed1AL2sEA2xDA0c_J9ch7a-5Qf-GQSPTFAQP9bunwVRLfsfdPVs048YIsbW24qYhdmMChgrcloFN1BNdp3w68rVoF7EDu-kuTO1e1rnHsswpnEQOibA&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQ0pQJKAB6BAgGEBI
+2024-08-01 15:03:23,607 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Joe+Burrow+Cincinnati+Bengals&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=bks&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J5MIFhvnvU242yFxzEEp3BfRFWcyM5BvpTgNzM3vKj4sEjS6haKlrdzONTHhmt-ed1AL2sEA2xDA0c_J9ch7a-5Qf-GQSPTFAQP9bunwVRLfsfdPVs048YIsbW24qYhdmMChgrcloFN1BNdp3w68rVoF7EDu-kuTO1e1rnHsswpnEQOibA&sa=X&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQ0pQJKAF6BAgGEBM
+2024-08-01 15:03:23,608 - root - INFO - Checking if URL is not google domain: https://www.google.com/travel/flights?q=Joe+Burrow+Cincinnati+Bengals&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=flm&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J5MIFhvnvU242yFxzEEp3BfRFWcyM5BvpTgNzM3vKj4sEjS6haKlrdzONTHhmt-ed1AL2sEA2xDA0c_J9ch7a-5Qf-GQSPTFAQP9bunwVRLfsfdPVs048YIsbW24qYhdmMChgrcloFN1BNdp3w68rVoF7EDu-kuTO1e1rnHsswpnEQOibA&ved=1t:200715&ictx=111
+2024-08-01 15:03:23,608 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Joe+Burrow+Cincinnati+Bengals&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:h&sa=X&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQpwV6BAgDEAc
+2024-08-01 15:03:23,608 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Joe+Burrow+Cincinnati+Bengals&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:d&sa=X&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQpwV6BAgDEAg
+2024-08-01 15:03:23,608 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Joe+Burrow+Cincinnati+Bengals&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:w&sa=X&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQpwV6BAgDEAk
+2024-08-01 15:03:23,608 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Joe+Burrow+Cincinnati+Bengals&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:m&sa=X&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQpwV6BAgDEAo
+2024-08-01 15:03:23,608 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Joe+Burrow+Cincinnati+Bengals&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&source=lnt&tbs=qdr:y&sa=X&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQpwV6BAgDEAs
+2024-08-01 15:03:23,609 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Joe+Burrow+Cincinnati+Bengals&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&source=lnt&tbs=ar:1&sa=X&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQpwV6BAgDEAw
+2024-08-01 15:03:23,609 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Joe+Burrow+Cincinnati+Bengals&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&source=lnt&tbs=sbd:1&sa=X&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQpwV6BAgDEBQ
+2024-08-01 15:03:23,609 - root - INFO - Checking if URL is not google domain: http://news.google.com/news/advanced_news_search?sca_esv=e4dd71f640266e19&q=Joe+Burrow+Cincinnati+Bengals&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J5MIFhvnvU242yFxzEEp3BfRFWcyM5BvpTgNzM3vKj4sEjS6haKlrdzONTHhmt-ed1AL2sEA2xDA0c_J9ch7a-5Qf-GQSPTFAQP9bunwVRLfsfdPVs048YIsbW24qYhdmMChgrcloFN1BNdp3w68rVoF7EDu-kuTO1e1rnHsswpnEQOibA&biw=1280&bih=720&dpr=1
+2024-08-01 15:03:23,609 - root - INFO - Checking if URL is not google domain: https://www.google.com/history/optout?hl=en
+2024-08-01 15:03:23,609 - root - INFO - Checking if URL is not google domain: https://www.google.com/safesearch?prev=https://www.google.com/search?sca_esv%3De4dd71f640266e19%26q%3DJoe%2BBurrow%2BCincinnati%2BBengals%26tbm%3Dnws%26source%3Dlnms%26fbs%3DAEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J5MIFhvnvU242yFxzEEp3BfRFWcyM5BvpTgNzM3vKj4sEjS6haKlrdzONTHhmt-ed1AL2sEA2xDA0c_J9ch7a-5Qf-GQSPTFAQP9bunwVRLfsfdPVs048YIsbW24qYhdmMChgrcloFN1BNdp3w68rVoF7EDu-kuTO1e1rnHsswpnEQOibA%26sa%3DX%26ved%3D2ahUKEwj8gIjpvdSHAxXamokEHS1KBuoQ0pQJegQIEBAB%26biw%3D1280%26bih%3D720%26dpr%3D1&sa=X&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQ8JsIegQIBRAG
+2024-08-01 15:03:23,609 - root - INFO - Checking if URL is not google domain: https://www.google.com/preferences?lang=1&hl=en&prev=https://www.google.com/search?q%3DJoe%2BBurrow%2BCincinnati%2BBengals%26sa%3DX%26sca_esv%3De4dd71f640266e19%26biw%3D1280%26bih%3D720%26tbm%3Dnws#languages
+2024-08-01 15:03:23,610 - root - INFO - Checking if URL is not google domain: https://www.google.com/setprefs?hl=en&prev=https://www.google.com/search?sca_esv%3De4dd71f640266e19%26q%3DJoe%2BBurrow%2BCincinnati%2BBengals%26tbm%3Dnws%26source%3Dlnms%26fbs%3DAEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J5MIFhvnvU242yFxzEEp3BfRFWcyM5BvpTgNzM3vKj4sEjS6haKlrdzONTHhmt-ed1AL2sEA2xDA0c_J9ch7a-5Qf-GQSPTFAQP9bunwVRLfsfdPVs048YIsbW24qYhdmMChgrcloFN1BNdp3w68rVoF7EDu-kuTO1e1rnHsswpnEQOibA%26sa%3DX%26ved%3D2ahUKEwj8gIjpvdSHAxXamokEHS1KBuoQ0pQJegQIEBAB%26biw%3D1280%26bih%3D720%26dpr%3D1%26pccc%3D1&sig=0_MUawtzz-OKzwoWxkcdd4-KVBzNE%3D&cs=2&sa=X&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQqsEHegQIBRAI&ictx=1
+2024-08-01 15:03:23,610 - root - INFO - Checking if URL is not google domain: https://www.google.com/preferences?hl=en&prev=https://www.google.com/search?q%3DJoe%2BBurrow%2BCincinnati%2BBengals%26sa%3DX%26sca_esv%3De4dd71f640266e19%26biw%3D1280%26bih%3D720%26tbm%3Dnws
+2024-08-01 15:03:23,610 - root - INFO - Checking if URL is not google domain: https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-08-01 15:03:23,610 - root - INFO - URL is not google domain: https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-08-01 15:03:23,610 - root - INFO - Checking if URL is not google domain: https://support.google.com/websearch/?p=dsrp_search_hc&hl=en
+2024-08-01 15:03:23,610 - root - INFO - Checking if URL is not google domain: https://policies.google.com/privacy?hl=en&fg=1
+2024-08-01 15:03:23,610 - root - INFO - Checking if URL is not google domain: https://policies.google.com/terms?hl=en&fg=1
+2024-08-01 15:03:23,611 - root - INFO - Checking if URL is not google domain: https://www.foxnews.com/sports/joe-burrow-not-white-dudes-call-support-kamala-harris-bengals-say
+2024-08-01 15:03:23,611 - root - INFO - URL is not google domain: https://www.foxnews.com/sports/joe-burrow-not-white-dudes-call-support-kamala-harris-bengals-say
+2024-08-01 15:03:23,611 - root - INFO - Checking if URL is not google domain: https://www.cincinnati.com/story/sports/nfl/bengals/2024/07/30/joe-burrow-kamala-harris-white-dude-for-harris-2024-election-cincinnati-bengals/74600762007/
+2024-08-01 15:03:23,611 - root - INFO - URL is not google domain: https://www.cincinnati.com/story/sports/nfl/bengals/2024/07/30/joe-burrow-kamala-harris-white-dude-for-harris-2024-election-cincinnati-bengals/74600762007/
+2024-08-01 15:03:23,611 - root - INFO - Checking if URL is not google domain: https://www.the-sun.com/sport/12061307/joe-burrow-white-dudes-for-harris-kamala-bengal/
+2024-08-01 15:03:23,611 - root - INFO - URL is not google domain: https://www.the-sun.com/sport/12061307/joe-burrow-white-dudes-for-harris-kamala-bengal/
+2024-08-01 15:03:23,611 - root - INFO - Checking if URL is not google domain: https://www.wlwt.com/article/joe-burrow-cincinnati-bengals-kamala-harris-fundraising-call/61739637
+2024-08-01 15:03:23,612 - root - INFO - URL is not google domain: https://www.wlwt.com/article/joe-burrow-cincinnati-bengals-kamala-harris-fundraising-call/61739637
+2024-08-01 15:03:23,612 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Joe+Burrow+Cincinnati+Bengals&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&story=GmkIpQEaIQoTc3RvcnlfbGFiZWxfcGFydGlhbBIKSm9lIEJ1cnJvdxodChNzdG9yeV9sYWJlbF9wYXJ0aWFsEgZIYXJyaXMaIgoTc3RvcnlfbGFiZWxfcGFydGlhbBILV2hpdGUgRHVkZXMyMQon_uGmlIuE14jiAZ7zpdWA_JXd6AHqpcLOg9THu0rcs9Ctl7bK-dEBEIbo14cMGAVyAhAC&fcs=ACgqzedM-_j5A1thsUX3wijFvkGXcA4mRg&sa=X&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQ7IUHegQIIBAF
+2024-08-01 15:03:23,612 - root - INFO - Checking if URL is not google domain: https://www.si.com/nfl/bengals/allbengals-insiders-plus/cincinnati-bengals-practice-takeaways-joe-burrow-continues-to-shine-young-weapons-make-impact-01j4460fa6yg
+2024-08-01 15:03:23,612 - root - INFO - URL is not google domain: https://www.si.com/nfl/bengals/allbengals-insiders-plus/cincinnati-bengals-practice-takeaways-joe-burrow-continues-to-shine-young-weapons-make-impact-01j4460fa6yg
+2024-08-01 15:03:23,612 - root - INFO - Checking if URL is not google domain: https://www.si.com/nfl/bengals/news/zac-taylor-shares-preseason-plan-for-joe-burrow-rest-of-bengals-starters-and-when-they-ll-make-debut-01j47gwtakjh
+2024-08-01 15:03:23,612 - root - INFO - URL is not google domain: https://www.si.com/nfl/bengals/news/zac-taylor-shares-preseason-plan-for-joe-burrow-rest-of-bengals-starters-and-when-they-ll-make-debut-01j47gwtakjh
+2024-08-01 15:03:23,612 - root - INFO - Checking if URL is not google domain: https://www.cincinnati.com/story/sports/nfl/bengals/2024/08/01/jamarr-chase-practice-contract-cincinnati-bengals-zac-taylor/74634284007/
+2024-08-01 15:03:23,612 - root - INFO - URL is not google domain: https://www.cincinnati.com/story/sports/nfl/bengals/2024/08/01/jamarr-chase-practice-contract-cincinnati-bengals-zac-taylor/74634284007/
+2024-08-01 15:03:23,613 - root - INFO - Checking if URL is not google domain: https://www.cincyjungle.com/2024/7/30/24209321/bengals-news-tua-tagovailoa-joe-burrow-dolphins-qb
+2024-08-01 15:03:23,613 - root - INFO - URL is not google domain: https://www.cincyjungle.com/2024/7/30/24209321/bengals-news-tua-tagovailoa-joe-burrow-dolphins-qb
+2024-08-01 15:03:23,613 - root - INFO - Checking if URL is not google domain: https://www.nfl.com/videos/burrow-talks-to-baldinger-condon-about-his-blonde-hair-mindset-for-24-inside-training-camp-live
+2024-08-01 15:03:23,613 - root - INFO - URL is not google domain: https://www.nfl.com/videos/burrow-talks-to-baldinger-condon-about-his-blonde-hair-mindset-for-24-inside-training-camp-live
+2024-08-01 15:03:23,613 - root - INFO - Checking if URL is not google domain: https://www.cincinnati.com/story/sports/nfl/bengals/2024/07/31/jamarr-chase-funny-reaction-joe-burrow-locker-room-fridge/74614834007/
+2024-08-01 15:03:23,613 - root - INFO - URL is not google domain: https://www.cincinnati.com/story/sports/nfl/bengals/2024/07/31/jamarr-chase-funny-reaction-joe-burrow-locker-room-fridge/74614834007/
+2024-08-01 15:03:23,613 - root - INFO - Checking if URL is not google domain: https://www.si.com/nfl/bengals/news/look-bengals-stars-joe-burrow-ja-marr-chase-and-tee-higgins-react-to-new-locker-room-01j41y3k53sg
+2024-08-01 15:03:23,614 - root - INFO - URL is not google domain: https://www.si.com/nfl/bengals/news/look-bengals-stars-joe-burrow-ja-marr-chase-and-tee-higgins-react-to-new-locker-room-01j41y3k53sg
+2024-08-01 15:03:23,614 - root - INFO - Checking if URL is not google domain: https://www.bengals.com/video/burrow-chase-higgins-see-locker-room-for-first-time
+2024-08-01 15:03:23,614 - root - INFO - URL is not google domain: https://www.bengals.com/video/burrow-chase-higgins-see-locker-room-for-first-time
+2024-08-01 15:03:23,614 - root - INFO - Checking if URL is not google domain: https://bleacherreport.com/articles/10130137-bengals-new-locker-room-revealed-in-video-photos-burrow-hyped-after-2023-d-grade
+2024-08-01 15:03:23,615 - root - INFO - URL is not google domain: https://bleacherreport.com/articles/10130137-bengals-new-locker-room-revealed-in-video-photos-burrow-hyped-after-2023-d-grade
+2024-08-01 15:03:23,615 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Joe+Burrow+Cincinnati+Bengals&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&story=GisSKUNpbmNpbm5hdGkgQmVuZ2FscyB1bnZlaWwgbmV3IGxvY2tlciByb29tMi8KJdbku6nmodqFVM6v0MKB06iz1QH-k5qr953V-xWYjN_S9vuppg8QkdLliAwYBXICEAI&fcs=ACgqzef7kzZQqgA2w2Qw938uSmimUcXvZQ&sa=X&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQ7IUHegQIIxAF
+2024-08-01 15:03:23,615 - root - INFO - Checking if URL is not google domain: https://sports.yahoo.com/zac-taylor-surprsies-joe-burrows-180453943.html
+2024-08-01 15:03:23,615 - root - INFO - URL is not google domain: https://sports.yahoo.com/zac-taylor-surprsies-joe-burrows-180453943.html
+2024-08-01 15:03:23,615 - root - INFO - Checking if URL is not google domain: https://www.bleacherreport.com/articles/10130029-nfl-networks-top-100-players-of-2024-joe-burrow-tua-tagovailoa-among-nos-40-31
+2024-08-01 15:03:23,615 - root - INFO - URL is not google domain: https://www.bleacherreport.com/articles/10130029-nfl-networks-top-100-players-of-2024-joe-burrow-tua-tagovailoa-among-nos-40-31
+2024-08-01 15:03:23,615 - root - INFO - Checking if URL is not google domain: https://www.si.com/nfl/bengals/allbengals-insiders-plus/joe-burrow-highlights-young-receiver-development-without-ja-marr-chase-at-training-camp-01j4039w8vfc
+2024-08-01 15:03:23,616 - root - INFO - URL is not google domain: https://www.si.com/nfl/bengals/allbengals-insiders-plus/joe-burrow-highlights-young-receiver-development-without-ja-marr-chase-at-training-camp-01j4039w8vfc
+2024-08-01 15:03:23,616 - root - INFO - Checking if URL is not google domain: https://www.cincyjungle.com/2024/7/30/24207051/jermaine-burton-fast-start-bengals-alabama-football-nfl
+2024-08-01 15:03:23,616 - root - INFO - URL is not google domain: https://www.cincyjungle.com/2024/7/30/24207051/jermaine-burton-fast-start-bengals-alabama-football-nfl
+2024-08-01 15:03:23,616 - root - INFO - Checking if URL is not google domain: https://athlonsports.com/nfl/bengals-joe-burrows-touching-gesture-at-training-camp-goes-viral
+2024-08-01 15:03:23,616 - root - INFO - URL is not google domain: https://athlonsports.com/nfl/bengals-joe-burrows-touching-gesture-at-training-camp-goes-viral
+2024-08-01 15:03:23,616 - root - INFO - Checking if URL is not google domain: https://www.bizjournals.com/cincinnati/inno/stories/news/2024/07/30/forbes-30-under-30-joe-burrow-chase-elly-de-cruz.html
+2024-08-01 15:03:23,616 - root - INFO - URL is not google domain: https://www.bizjournals.com/cincinnati/inno/stories/news/2024/07/30/forbes-30-under-30-joe-burrow-chase-elly-de-cruz.html
+2024-08-01 15:03:23,616 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Joe+Burrow+Cincinnati+Bengals&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&ei=-turZsq4BMWcptQPwY3OsQM&start=10&sa=N&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQ8tMDegQIARAE
+2024-08-01 15:03:23,616 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Joe+Burrow+Cincinnati+Bengals&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&ei=-turZsq4BMWcptQPwY3OsQM&start=20&sa=N&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQ8tMDegQIARAG
+2024-08-01 15:03:23,617 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Joe+Burrow+Cincinnati+Bengals&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&ei=-turZsq4BMWcptQPwY3OsQM&start=30&sa=N&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQ8tMDegQIARAI
+2024-08-01 15:03:23,617 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Joe+Burrow+Cincinnati+Bengals&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&ei=-turZsq4BMWcptQPwY3OsQM&start=40&sa=N&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQ8tMDegQIARAK
+2024-08-01 15:03:23,617 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Joe+Burrow+Cincinnati+Bengals&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&ei=-turZsq4BMWcptQPwY3OsQM&start=50&sa=N&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQ8tMDegQIARAM
+2024-08-01 15:03:23,617 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Joe+Burrow+Cincinnati+Bengals&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&ei=-turZsq4BMWcptQPwY3OsQM&start=60&sa=N&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQ8tMDegQIARAO
+2024-08-01 15:03:23,617 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Joe+Burrow+Cincinnati+Bengals&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&ei=-turZsq4BMWcptQPwY3OsQM&start=70&sa=N&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQ8tMDegQIARAQ
+2024-08-01 15:03:23,617 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Joe+Burrow+Cincinnati+Bengals&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&ei=-turZsq4BMWcptQPwY3OsQM&start=80&sa=N&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQ8tMDegQIARAS
+2024-08-01 15:03:23,617 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Joe+Burrow+Cincinnati+Bengals&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&ei=-turZsq4BMWcptQPwY3OsQM&start=90&sa=N&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQ8tMDegQIARAU
+2024-08-01 15:03:23,617 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?q=Joe+Burrow+Cincinnati+Bengals&sca_esv=e4dd71f640266e19&biw=1280&bih=720&tbm=nws&ei=-turZsq4BMWcptQPwY3OsQM&start=10&sa=N&ved=2ahUKEwjKndLqvdSHAxVFjokEHcGGMzYQ8NMDegQIARAW
+2024-08-01 15:03:23,617 - root - INFO - Checking if URL is not google domain: https://www.google.com/search?sca_esv=e4dd71f640266e19&q=Joe+Burrow+Cincinnati+Bengals&tbm=nws&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J5MIFhvnvU242yFxzEEp3BfRFWcyM5BvpTgNzM3vKj4sEjS6haKlrdzONTHhmt-ed1AL2sEA2xDA0c_J9ch7a-5Qf-GQSPTFAQP9bunwVRLfsfdPVs048YIsbW24qYhdmMChgrcloFN1BNdp3w68rVoF7EDu-kuTO1e1rnHsswpnEQOibA&sa=X&ved=2ahUKEwj8gIjpvdSHAxXamokEHS1KBuoQ0pQJegQIEBAB&biw=1280&bih=720&dpr=1#
+2024-08-01 15:03:23,618 - root - INFO - Final List of URLs Created
+2024-08-01 15:03:23,746 - root - INFO - Browser Closed and returning final_list
+2024-08-01 15:03:23,746 - root - INFO - Google Extraction Completed
+2024-08-01 15:03:23,769 - GenericCleaner - INFO - Starting Cleaning
+2024-08-01 15:03:23,769 - GenericCleaner - INFO - Starting cleaning process
+2024-08-01 15:03:23,771 - GenericCleaner - INFO - Initial number of rows: 23
+2024-08-01 15:03:23,772 - GenericCleaner - INFO - Number of rows with invalid URLs: 3
+2024-08-01 15:03:23,774 - GenericCleaner - INFO - URLs starting with '/': 0
+2024-08-01 15:03:23,774 - GenericCleaner - INFO - URLs starting with '//': 0
+2024-08-01 15:03:23,774 - GenericCleaner - INFO - Saved 'AfterConvertingInvalidURLs.csv'
+2024-08-01 15:03:23,775 - GenericCleaner - INFO - Number of duplicate rows removed: 0
+2024-08-01 15:03:23,776 - GenericCleaner - INFO - Cleaning process completed
+2024-08-01 15:03:23,776 - GenericCleaner - INFO - Cleaning Completed
+2024-08-01 15:03:23,776 - root - INFO - Creating JSON Object for articles
+2024-08-01 15:03:23,776 - root - INFO - JSON Article Object Created
+2024-08-01 15:03:23,777 - WebsiteDataExtractor - INFO - Starting Extracting Main Content of Article
+2024-08-01 15:03:23,777 - WebsiteDataExtractor - INFO - processing index 0-> https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-08-01 15:03:23,778 - WebsiteDataExtractor - INFO - Processing URL: https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-08-01 15:03:23,779 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): newsinitiative.withgoogle.com:443
+2024-08-01 15:03:23,907 - urllib3.connectionpool - DEBUG - https://newsinitiative.withgoogle.com:443 "GET /hownewsworks/?fg=1 HTTP/11" 200 6755
+2024-08-01 15:03:23,908 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:23,908 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://newsinitiative.withgoogle.com/hownewsworks/?fg=1
+2024-08-01 15:03:23,908 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:24,909 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:24,909 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:24,913 - trafilatura.main_extractor - DEBUG - Recovering wild text elements
+2024-08-01 15:03:24,915 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:24,915 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:24,922 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:24,922 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:24,937 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:24,937 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:24,939 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:24,939 - WebsiteDataExtractor - INFO - processing index 1-> https://www.foxnews.com/sports/joe-burrow-not-white-dudes-call-support-kamala-harris-bengals-say
+2024-08-01 15:03:24,939 - WebsiteDataExtractor - INFO - Processing URL: https://www.foxnews.com/sports/joe-burrow-not-white-dudes-call-support-kamala-harris-bengals-say
+2024-08-01 15:03:24,940 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.foxnews.com:443
+2024-08-01 15:03:25,103 - urllib3.connectionpool - DEBUG - https://www.foxnews.com:443 "GET /sports/joe-burrow-not-white-dudes-call-support-kamala-harris-bengals-say HTTP/11" 200 None
+2024-08-01 15:03:25,133 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:25,133 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.foxnews.com/sports/joe-burrow-not-white-dudes-call-support-kamala-harris-bengals-say
+2024-08-01 15:03:25,133 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:26,135 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:26,135 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:26,148 - trafilatura.htmlprocessing - DEBUG - list link text/total: 10/11 – short elems/total: 2/2
+2024-08-01 15:03:26,149 - trafilatura.htmlprocessing - DEBUG - list link text/total: 10/11 – short elems/total: 2/2
+2024-08-01 15:03:26,149 - trafilatura.htmlprocessing - DEBUG - list link text/total: 5/5 – short elems/total: 1/1
+2024-08-01 15:03:26,149 - trafilatura.htmlprocessing - DEBUG - list link text/total: 5/5 – short elems/total: 1/1
+2024-08-01 15:03:26,149 - trafilatura.htmlprocessing - DEBUG - list link text/total: 5/5 – short elems/total: 1/1
+2024-08-01 15:03:26,149 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-08-01 15:03:26,149 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:26,150 - trafilatura.main_extractor - DEBUG - discarding element: main None
+2024-08-01 15:03:26,150 - trafilatura.main_extractor - DEBUG - discarding element: article   
+2024-08-01 15:03:26,150 - trafilatura.main_extractor - DEBUG - discarding element: header None
+2024-08-01 15:03:26,150 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      Published
+       
+2024-08-01 15:03:26,150 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:26,150 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:26,150 - trafilatura.main_extractor - DEBUG - discarding element: div  
+2024-08-01 15:03:26,150 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:26,150 - trafilatura.main_extractor - DEBUG - discarding element: div   
+2024-08-01 15:03:26,150 - trafilatura.main_extractor - DEBUG - discarding element: div   
+2024-08-01 15:03:26,150 - trafilatura.main_extractor - DEBUG - discarding element: div   
+2024-08-01 15:03:26,150 - trafilatura.main_extractor - DEBUG - discarding element: div  
+2024-08-01 15:03:26,150 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:26,150 - trafilatura.main_extractor - DEBUG - discarding element: div   
+2024-08-01 15:03:26,150 - trafilatura.main_extractor - DEBUG - discarding element: div   
+2024-08-01 15:03:26,150 - trafilatura.main_extractor - DEBUG - discarding element: div   
+2024-08-01 15:03:26,150 - trafilatura.main_extractor - DEBUG - discarding element: div   
+2024-08-01 15:03:26,150 - trafilatura.main_extractor - DEBUG - discarding element: div  
+2024-08-01 15:03:26,150 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:26,150 - trafilatura.main_extractor - DEBUG - discarding element: div   
+2024-08-01 15:03:26,150 - trafilatura.main_extractor - DEBUG - discarding element: div   
+2024-08-01 15:03:26,150 - trafilatura.main_extractor - DEBUG - discarding element: div  
+2024-08-01 15:03:26,150 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:26,150 - trafilatura.main_extractor - DEBUG - discarding element: div   
+2024-08-01 15:03:26,150 - trafilatura.main_extractor - DEBUG - discarding element: div   
+2024-08-01 15:03:26,150 - trafilatura.main_extractor - DEBUG - .//*[(self::article or self::div or self::main or self::section)][
+    @class="post" or @class="entry" or
+    contains(@class, "post-text") or contains(@class, "post_text") or
+    contains(@class, "post-body") or contains(@class, "post-entry") or contains(@class, "postentry") or
+    contains(@class, "post-content") or contains(@class, "post_content") or
+    contains(@class, "postcontent") or contains(@class, "postContent") or contains(@class, "post_inner_wrapper") or
+    contains(@class, "article-text") or contains(@class, "articletext") or contains(@class, "articleText")
+    or contains(@id, "entry-content") or
+    contains(@class, "entry-content") or contains(@id, "article-content") or
+    contains(@class, "article-content") or contains(@id, "article__content") or
+    contains(@class, "article__content") or contains(@id, "article-body") or
+    contains(@class, "article-body") or contains(@id, "article__body") or
+    contains(@class, "article__body") or @itemprop="articleBody" or
+    contains(translate(@id, "B", "b"), "articlebody") or contains(translate(@class, "B", "b"), "articleBody")
+    or @id="articleContent" or contains(@class, "ArticleContent") or
+    contains(@class, "page-content") or contains(@class, "text-content") or
+    contains(@id, "body-text") or contains(@class, "body-text") or
+    contains(@class, "article__container") or contains(@id, "art-content") or contains(@class, "art-content")][1]
+2024-08-01 15:03:26,153 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:26,153 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:26,184 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:26,184 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:26,189 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:26,190 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:26,191 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:26,191 - WebsiteDataExtractor - INFO - processing index 2-> https://www.cincinnati.com/story/sports/nfl/bengals/2024/07/30/joe-burrow-kamala-harris-white-dude-for-harris-2024-election-cincinnati-bengals/74600762007/
+2024-08-01 15:03:26,191 - WebsiteDataExtractor - INFO - Processing URL: https://www.cincinnati.com/story/sports/nfl/bengals/2024/07/30/joe-burrow-kamala-harris-white-dude-for-harris-2024-election-cincinnati-bengals/74600762007/
+2024-08-01 15:03:26,192 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.cincinnati.com:443
+2024-08-01 15:03:26,258 - urllib3.connectionpool - DEBUG - https://www.cincinnati.com:443 "GET /story/sports/nfl/bengals/2024/07/30/joe-burrow-kamala-harris-white-dude-for-harris-2024-election-cincinnati-bengals/74600762007/ HTTP/11" 200 56525
+2024-08-01 15:03:26,261 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:26,261 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.cincinnati.com/story/sports/nfl/bengals/2024/07/30/joe-burrow-kamala-harris-white-dude-for-harris-2024-election-cincinnati-bengals/74600762007/
+2024-08-01 15:03:26,261 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:27,262 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:27,263 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:27,269 - trafilatura.htmlprocessing - DEBUG - list link text/total: 7/7 – short elems/total: 1/1
+2024-08-01 15:03:27,269 - trafilatura.htmlprocessing - DEBUG - list link text/total: 7/7 – short elems/total: 1/1
+2024-08-01 15:03:27,269 - trafilatura.htmlprocessing - DEBUG - list link text/total: 13/32 – short elems/total: 0/1
+2024-08-01 15:03:27,269 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-08-01 15:03:27,270 - trafilatura.main_extractor - DEBUG - discarding element: div  Kelsey Conway
+2024-08-01 15:03:27,270 - trafilatura.main_extractor - DEBUG - discarding element: div Cincinnati Enquirer
+2024-08-01 15:03:27,270 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:27,270 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:27,270 - trafilatura.main_extractor - DEBUG - discarding element: svg None
+2024-08-01 15:03:27,270 - trafilatura.main_extractor - DEBUG - discarding element: svg None
+2024-08-01 15:03:27,270 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:27,270 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:27,270 - trafilatura.main_extractor - DEBUG - (.//article)[1]
+2024-08-01 15:03:27,270 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:27,271 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:27,280 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:27,280 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:27,284 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:27,285 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:27,286 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:27,286 - WebsiteDataExtractor - INFO - processing index 3-> https://www.the-sun.com/sport/12061307/joe-burrow-white-dudes-for-harris-kamala-bengal/
+2024-08-01 15:03:27,287 - WebsiteDataExtractor - INFO - Processing URL: https://www.the-sun.com/sport/12061307/joe-burrow-white-dudes-for-harris-kamala-bengal/
+2024-08-01 15:03:27,288 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.the-sun.com:443
+2024-08-01 15:03:27,562 - urllib3.connectionpool - DEBUG - https://www.the-sun.com:443 "GET /sport/12061307/joe-burrow-white-dudes-for-harris-kamala-bengal/ HTTP/11" 200 133839
+2024-08-01 15:03:27,627 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:27,627 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.the-sun.com/sport/12061307/joe-burrow-white-dudes-for-harris-kamala-bengal/
+2024-08-01 15:03:27,628 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:28,629 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:28,629 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:28,641 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-08-01 15:03:28,642 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:28,642 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:28,642 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:28,642 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:28,642 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:28,642 - trafilatura.main_extractor - DEBUG - discarding element: header None
+2024-08-01 15:03:28,642 - trafilatura.main_extractor - DEBUG - discarding element: div KAM CALL 
+2024-08-01 15:03:28,642 - trafilatura.main_extractor - DEBUG - discarding element: div Rumors claimed Burrow joined the call alongside many other celebrities and politicians
+
+2024-08-01 15:03:28,650 - trafilatura.htmlprocessing - DEBUG - list link text/total: 87/87 – short elems/total: 0/1
+2024-08-01 15:03:28,650 - trafilatura.htmlprocessing - DEBUG - list link text/total: 87/87 – short elems/total: 0/1
+2024-08-01 15:03:28,650 - trafilatura.htmlprocessing - DEBUG - list link text/total: 85/85 – short elems/total: 0/1
+2024-08-01 15:03:28,650 - trafilatura.htmlprocessing - DEBUG - list link text/total: 82/82 – short elems/total: 0/1
+2024-08-01 15:03:28,651 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-08-01 15:03:28,651 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:28,651 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:28,651 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:28,651 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:28,651 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:28,651 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:28,651 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:28,651 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:28,651 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:28,652 - trafilatura.main_extractor - DEBUG - discarding element: section None
+2024-08-01 15:03:28,652 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:28,652 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:28,652 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:28,652 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:28,652 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:28,652 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:28,652 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:28,652 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:28,652 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:28,652 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:28,652 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:28,652 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:28,652 - trafilatura.main_extractor - DEBUG - (.//article)[1]
+2024-08-01 15:03:28,654 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:28,654 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:28,680 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:28,680 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:28,687 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:28,687 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:28,688 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:28,690 - WebsiteDataExtractor - INFO - processing index 4-> https://www.wlwt.com/article/joe-burrow-cincinnati-bengals-kamala-harris-fundraising-call/61739637
+2024-08-01 15:03:28,690 - WebsiteDataExtractor - INFO - Processing URL: https://www.wlwt.com/article/joe-burrow-cincinnati-bengals-kamala-harris-fundraising-call/61739637
+2024-08-01 15:03:28,691 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.wlwt.com:443
+2024-08-01 15:03:29,451 - urllib3.connectionpool - DEBUG - https://www.wlwt.com:443 "GET /article/joe-burrow-cincinnati-bengals-kamala-harris-fundraising-call/61739637 HTTP/11" 200 56605
+2024-08-01 15:03:29,456 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:29,456 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.wlwt.com/article/joe-burrow-cincinnati-bengals-kamala-harris-fundraising-call/61739637
+2024-08-01 15:03:29,456 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:30,458 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:30,459 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:30,473 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-08-01 15:03:30,473 - trafilatura.main_extractor - DEBUG - discarding element: div 
+				
+
+
+2024-08-01 15:03:30,473 - trafilatura.main_extractor - DEBUG - discarding element: section 
+	
+			
+2024-08-01 15:03:30,473 - trafilatura.main_extractor - DEBUG - discarding element: div 
+		
+2024-08-01 15:03:30,473 - trafilatura.main_extractor - DEBUG - discarding element: div 
+									
+
+
+2024-08-01 15:03:30,473 - trafilatura.main_extractor - DEBUG - discarding element: div 
+	
+2024-08-01 15:03:30,474 - trafilatura.main_extractor - DEBUG - discarding element: div 
+					
+
+
+2024-08-01 15:03:30,474 - trafilatura.main_extractor - DEBUG - discarding element: section 
+	
+			
+2024-08-01 15:03:30,474 - trafilatura.main_extractor - DEBUG - discarding element: div Joe Burrow did not attend 'White Dudes for Harris' call despite social media rumors
+2024-08-01 15:03:30,474 - trafilatura.main_extractor - DEBUG - discarding element: div 
+											CORRECTLY, IT LOOKS LIKE JOE BURROW BACK HERE AT HOME. HE IS READY TO TALK TO REPORTERS ABOUT THE FIRST DAY OF TRAINING CAMP. LET’S LISTEN IN, EVERYBODY. BUT I THOUGHT IT WAS A GOOD PRACTICE AND I START. LET’S GO AHEAD AND GET OUT OF THE WAY THAT WE’RE JUST TALKING HERE TO KIND OF WELL, BJ SAID THAT IF I BUZZED IT AND BLEACHED IT, HE WOULD DO IT TOO. SO NOW EVERYBODY’S GOT TO HOLD HIM ACCOUNTABLE BECAUSE HE’S GOT TO DO IT IN THE NEXT WEEK. THERE’S NOTHING ELSE TO IT. IT WAS JUST I GOT BORED. THAT’S ABOUT IT. REFERENCES. HAVE YOU HAD OVER THE LAST COUPLE DAYS? WELL, I HAVEN’T EXACTLY BEEN TO SOCIAL THE LAST COUPLE DAYS, SO I’M NOT ENTIRELY SURE, BUT I’M SURE THEY’RE OUT THERE. SO DO YOU ANTICIPATE PRACTICING EVERY DAY? CAN YOU WALK US THROUGH WHAT YOU’RE ANTICIPATING? THIS MONTH WILL LOOK LIKE IN TERMS OF YOUR PARTICIPATION? WE’RE GOING TO PLAY IT BY EAR. I DON’T REALLY YOU KNOW, WE DON’T REALLY PLAN ON PRACTICING MORE THAN TWO DAYS IN A ROW OTHER THAN THIS FIRST CHUNK. SO WE’RE GOING TO PLAY THAT THIRD DAY BY EAR FOR THE NEXT WEEK. UH, AND THEN AFTER THAT, I PLAN ON GOING EVERY DAY. JACK TOLD US THAT HE WANTS TO PLAY ALL THE STARTERS IN THE PRESEASON, INCLUDING YOU. IS THAT SOMETHING I KNOW IN YEARS PAST, YOU’VE SAID THAT YOU WANTED TO GET SOME OF THAT. IS THAT SOMETHING YOU WANT TO DO IN TERMS OF PRE-SEASON WORK? YEAH, I THINK THAT’S THE BEST WAY TO GO ABOUT IT THIS YEAR. WE’LL TRY IT OUT. UH, YOU KNOW, I THINK IN ORDER FOR US TO BE OUR BEST AT THE BEGINNING OF THE YEAR, I THINK WE KIND OF NEED THAT. SO THAT’S SOMETHING WE WANTED TO DO IN YEARS PAST, HAVEN’T BEEN ABLE TO, BUT I’M EXCITED TO GET THAT DONE THIS YEAR. WHAT DO YOU EXPECT TO BE THE DIFFERENCE BETWEEN THE JOINT PRACTICES? BECAUSE YOU HAVE TWO THIS YEAR VERSUS GETTING THAT PIG WORKS IN PRESEASON? WHAT WHAT’S THE. PLAN? YEAH, THERE’S MORE GAME REPS. UH, KIND OF GET THAT FOR LIKE IT’S JUST DIFFERENT. WHEN YOU GO OUT, YOU WARM UP KNOWING YOU’RE GOING TO PLAY. YOU SLEEP IN THE HOTEL KNOWING YOU’RE GOING TO PLAY. UH, IT’S JUST IT’S JUST ALL DIFFERENT WHEN YOU KNOW YOU’RE GOING TO GO OUT THERE AND WHETHER IT’S A SERIES A QUARTER, A HALF, YOU KNOW, WE HAVEN’T REALLY TALKED ABOUT THAT YET. BUT, UH, I THINK THAT’S JUST GETTING THAT FIRST FEELING OUT OF THE WAY IN A, IN A SCRIMMAGE, ESSENTIALLY, UH, WILL BE GOOD FOR US. DO YOU THINK YOUR STAFF’S DURING PRESEASON GAMES YOU MIGHT BEAR ON HOW THINGS GO DURING THE, YOU KNOW, THE CONTROLLED SCRIMMAGES? I MEAN, HOW MANY STEPS YOU TAKE THERE AND ALL THAT SORT OF THING. ARE THEY SEPARATE ENTITIES? TOTALLY, I DON’T KNOW. WE HAVEN’T REALLY HAD THOSE DISCUSSIONS YET. I THINK, YOU KNOW, BOTH WILL PROBABLY PLAY A PART. UM, I IMAGINE HOW HOW WE PLAY IN THAT PRESEASON GAME WHEN WE’RE IN THERE WILL ALSO PLAY A PART. SO I THINK THERE’S A LOT OF FACTORS. WAS THERE ANYTHING IN PARTICULAR YOU WORKED ON TODAY. JUST GETTING BACK OUT THERE? UM, WANTED TO GET THE LEGS BACK UNDER YOU. YOU KNOW, THE FIRST TIME YOU’RE OUT THERE FOR A CAMP PRACTICE, YOUR LEGS ARE ALWAYS FEELING A LITTLE HEAVY. YOU GOT TO GET BACK IN IN, IN FOOTBALL SHAPE BECAUSE YOU CAN TRAIN AS MUCH AS YOU WANT, BUT IT’S ALWAYS DIFFERENT WHEN YOU COME BACK OUT HERE. UH, AND GETTING THE TIMING, GETTING THE RECEIVERS BACK USED TO MAKING THOSE CONTESTED CATCHES THAT THEY HAVEN’T MADE, UH, IN A WHILE. SO EVERYBODY’S JUST GETTING THEIR FEET BACK UNDER THEM. AND, UH, I THINK IT WAS A GOOD DAY. HOW CLOSE ARE YOU TO NOT THINKING ABOUT THE RISK AT ALL WHEN YOU THROW? YEAH, I WAS HAPPY WITH TODAY. UH, YOU KNOW, STILL FEELING IT OUT, YOU KNOW, STILL HAVE HAVE SOME THROWS WHERE IT’S, IT’S LIKE, WELL, WHAT DID THAT LOOK LIKE? UH, IT USUALLY GOES WHERE I WANT IT TO, BUT SOMETIMES IT DOESN’T SPIN THE WAY I WANT IT TO. SO WE’RE STILL WORKING THROUGH THAT. UH, BUT I FEEL REALLY GOOD ABOUT WHERE I’M AT. I FEEL LIKE I KIND OF FIGURED SOMETHING OUT TOWARDS THE END OF THE PRACTICE THERE, AND INDIVIDUAL. SO, UM, LOOKING FORWARD TO EXPLORING THAT A LITTLE MORE. JUST A FOLLOW UP ON THAT WITH YOUR WRIST, SINCE NONE OF US PLAYED FOOTBALL AT THE LEVEL YOU DO OR HAVE PROBABLY EVER HAD THAT WRIST PROCEDURE DONE, WHAT’S BEEN THE MOST CHALLENGING PART IN TERMS OF DEFENSE STRENGTH OR GRIPPING? LIKE WHAT’S BEEN THE MOST CHALLENGING PART TO GET THROUGH TO GET YOU BACK TO WHERE YOU ARE? JUST THE INCONSISTENCY. UM, WITH ANY INJURY, THERE’S THERE’S GOOD DAYS AND BAD DAYS AND IT DOESN’T REALLY SEEM LIKE THERE’S ANY RHYME OR REASON TO IT TOO MUCH. YOU KNOW, I’VE, I’VE PUT THE WORK IN AND THE PEOPLE AROUND ME HAVE PUT THE WORK IN FOR, FOR THIS THING TO BE AT 100%. AND I’M HAPPY WITH WHERE IT’S AT, THE STRENGTH IS, IS REALLY GOOD. AND MY MOBILITY IN IT HAS GOTTEN MUCH BETTER OVER THE LAST MONTH, MONTH AND A HALF. UH, SO I THINK I’M IN A GOOD SPOT. IT’S GOING TO CONTINUE TO GET BETTER, ESPECIALLY, YOU KNOW, GETTING ALL THE REPS THAT I’M I’M GOING TO BE GETTING DURING TRAINING CAMP, YOU KNOW, CONTINUE TO LOOSEN UP. SO, UH, WE’RE IN A GOOD SPOT. IS THERE A SPECIFIC DAY YOU’RE GOING TO STOP DOING BACK TO BACK DAYS, YOU GUYS? NOT THAT OUT YET. UM, I DON’T THINK I REALLY PLAN ON THROWING TOO MUCH ON ON FRIDAY. THIS WEEK. UM, BUT AS I SAID, WE’RE GOING TO TAKE IT DAY BY DAY AND, AND WE’LL SEE YOU GUYS WENT THROUGH THAT PROCESS BUILDING THAT OUT. WHAT’S THE BIGGEST IMPACT TO HAVE THAT THAT REST DAY, NOT GOING BACK TO BACK? OR IS THAT KIND OF HELP YOU BOTH RECOVERY? I DON’T KNOW. WE’LL SEE. THE HOPE IS THAT I’M GOING INTO TO WEEK ONE FEELING AS FRESH AS POSSIBLE. UH, I THINK WE’RE WE’RE DOING A REALLY GOOD JOB OF MANAGING ALL THE GUYS COMING BACK FROM INJURY RIGHT NOW. SO, UH, OUR COACHING STAFF AND OUR TRAINING STAFF DO DO A GREAT JOB OF TRYING TO KEEP US HEALTHY AND KEEP US FRESH. UH, GOING INTO WEEK ONE, WE’RE DOING A LITTLE MORE WITH THE THE MULTIPLE JOINT PRACTICES AND PLAYING IN THE PRESEASON. SO WE’RE PLANNING ON DOING A LITTLE BIT MORE THAT OF THAT THIS YEAR. UH, BUT AS FAR AS PRACTICE WISE, THEY TAKE CARE OF US DURING A TEAM TO BE COMPLETELY HEALTHY AT THE SAME TIME A LOT LAST YEAR, LIKE, WHAT ARE YOU LOOKING FORWARD TO KIND OF A NEXT STEP WITH THAT CONNECTION, KIND OF HOW THAT CAN GROW THIS SEASON? YEAH, HE’S GOING TO HAVE A BIG YEAR. IT’S IT’S NICE LOOKING OUT THERE AND SEEING BIG, LONG, STRONG T LINING UP. YOU KNOW I SAW HIM OUT THERE AND I SCREENED T IT’S GOOD TO HAVE YOU BACK THIS YOU KNOW ONE OF THE REPS TODAY AND IT’S IT’S JUST NICE TO SEE HIM BACK OUT THERE. UH, YOU KNOW HE’S HE’S GETTING HIS FEET BACK UNDER HIM JUST LIKE EVERYBODY ELSE IS. BUT, UH, HE’S IN A GOOD SPOT. FROM YOUR STANDPOINT, WHAT ARE YOU HOPING TO ACCOMPLISH FROM A BIG PICTURE FROM NOW UNTIL SEPTEMBER 8TH? JUST CONTINUE TO TO WORK ON THAT CONSISTENCY. UH, I’M GOING TO CONTINUE TO GET THE DEXTERITY THAT THAT I NEED WHEN WE CONTINUE TO THROW THROUGH ALL THESE DAYS IN CAMP AND INDIVIDUAL IS GOING TO BE A BIG PART OF THAT. UH, SO I FEEL I FEEL REALLY GOOD MY WHOLE MY WHOLE BODY IS FEELING GREAT, GOING TO CONTINUE TO ADAPT AND EVOLVE DEPENDING ON WHAT WHATEVER CHALLENGES ARE PRESENTED. BUT, UH, WE’RE IN A GOOD SPOT. IT’S GOING TO BE DIFFERENT. UH, WHAT’S THE THING WE DIDN’T DO THIS YEAR THAT MAYBE YOU DIDN’T DO THIS YEAR? UM, JUST LISTEN TO MY BODY MORE. YOU KNOW, IF I WAS REALLY TIRED, ONE DAY, YOU KNOW, I DIDN’T QUITE GO AS HARD IN THE IN THE WEIGHT ROOM OR ON THE FIELD, YOU KNOW, TOOK MORE TIME OFF IF I FELT LIKE I NEEDED IT. UM, AND I THINK THAT WORKED IN MY FAVOR. YOU KNOW, I WAS GOING INTO CAMP IN A REALLY GOOD SHAPE. I WAS REALLY STRONG. I WAS HAPPY WITH WHERE MY WEIGHT WAS AT. UH, SO WE HAD A GOOD PLAN. HE FELT FOR FOR PRACTICING PROBABLY TWO YEARS. YEAH. I WOULD SAY THAT, YOU KNOW, THE FIRST PRACTICE, YOUR LEGS ARE ALWAYS A LITTLE HEAVY. BUT, YOU KNOW, I FELT REALLY, REALLY GOOD THROUGHOUT. YOU KNOW, YOU MENTIONED IT WAS NICE TO HAVE TEA OUT THERE. SOMETIMES WHEN GUYS GO THROUGH CONTRACT NEGOTIATIONS, YOU DON’T KNOW WHAT YOU’RE GOING TO GET IN TRAINING CAMP TO HAVE A GUY LIKE HIM OUT THERE ON DAY ONE, AFTER THE CONTRACT NEGOTIATIONS AND ALL THAT. WHAT DOES THAT SAY ABOUT T T THAT’S THE KIND OF GUY T IS. T IS GOING TO COME OUT AND WORK. T KNOWS HOW BIG OF A YEAR IT IS FOR FOR US AND HIM. AND HE WANTS TO GET OUT HERE AND GET BETTER, JUST LIKE WE ALL DO. UH, HE’S AND HE’S. I THINK HE’S GOING ABOUT IT THE RIGHT WAY. YOU KNOW, HE HASN’T. YOU KNOW, HIS BUSINESS IS HIS BUSINESS. BUT I KNOW HE’S HE’S A FOOTBALL PLAYER AT HEART AND WANTS TO CONTINUE TO GET BETTER, GET BETTER AND IMPROVE. DO YOU THINK THE, UH, WHAT DO YOU ENVISION STEPPING UP AND TAKING OVER TV’S ROLE IN THE SLOT? YEAH, WE’LL WE’LL WE’LL SEE. WE’LL SEE. UH, I FEEL REALLY GOOD ABOUT ALL OF OUR OPTIONS, WHETHER IT’S ANDRE, CHUCK, JERMAINE, TRENTON, I FEEL LIKE THOSE GUYS HAD A GREAT SPRING AND, YOU KNOW, THEY ALL LOOKED REALLY GOOD TODAY. AND I FEEL REALLY GOOD ABOUT OUR TIGHT END ROOM AS WELL. SO I THINK THIS IS THE DEEPEST AND MOST TALENTED GROUP THAT WE’VE HAD SINCE I’VE BEEN HERE. FROM FROM TOP TO BOTTOM AND A LOT OF DIFFERENT SPOTS. UH, SO I THINK A LOT OF THOSE GUYS ARE GOING TO HAVE TO FILL THAT ROLE AND STEP UP. HOW MUCH DO YOU THINK HOMER OFF SEASON THAT YOU HAD MENTALLY, EMOTIONALLY, WHATEVER GIVEN LAST YEAR, YOU WERE GOING THROUGH CONTRACT NEGOTIATIONS. THEN YOU HAD THE INJURY CAMP, AND NOW IT SEEMS LIKE YOU’RE IN A DIFFERENT PLACE, CHARACTERIZED. YEAH, DEFINITELY LESS DISTRACTIONS HEADING INTO CAMP THIS YEAR. I WOULD SAY, ESPECIALLY IN THIS FIRST WEEK. UH, I’VE BEEN WE HAD A GREAT PLAN OVER THE LAST MONTH TO MONTH AND A HALF TO GET MY BODY AND MIND THE WAY THAT I FELT LIKE IT NEEDED TO BE COMING INTO CAMP. UM, AND THAT’S A CREDIT TO ALL THE PEOPLE THAT I SURROUND MYSELF WITH. THEY WORK REALLY HARD TO MAKE SURE THAT I’M AT MY BEST AND I’M REALLY APPRECIATIVE OF THAT. FROM PEOPLE IN THE BUILDING AND OUT THE BUILDING, FAMILY, FRIENDS, EVERYBODY. SO, UM, I’M REALLY HAPPY WITH THE THE PLAN THAT I HAD COMING INTO CAMP THIS YEAR, HAPPY WITH HOW MY BODY FEELS, HAPPY WITH HOW MY MIND FEELS. SO WE’RE IN A GOOD SPOT. DO YOU THINK THE EXTRA WORK IN THE. DO YOU THINK THE EXTRA JOINT PRACTICE, THE WORK IN THE PRESEASON GAMES? DO YOU THINK THAT WILL BE AN ANTIDOTE TO THE SLOW STARTS? THE LAST COUPLE OF YEARS, OR DO YOU THINK THE SLOW STARTS COULD BE JUST KIND OF WRITTEN OFF FOR HELP? I DON’T KNOW, WE’LL SEE. THAT’S A QUESTION THAT’S TO BE DETERMINED, BUT I THINK WE’RE THINKING ABOUT IT. THE RIGHT WAY. I THINK WE’RE TRYING NEW THINGS TO TRY TO HELP THOSE SLOW STARTS AND AND GETTING OFF TO FASTER STARTS, PUTTING US IN A BETTER POSITION AT THE MIDWAY POINT OF THE SEASON. UH, AND SO I DO THINK THAT IT WILL HELP, BUT WE’LL SEE. YAMATO GOT READY FOR CAMP AND HE’S GOING TO DEAL WITH THIS STUFF AS YOU ALL KIND OF TRY TO WORK THROUGH WITH HIM BACK INTO THE ROTATION WILL BE WHAT’S GOING TO BE THE MESSAGE TO HIM. THAT’S HOW YOU KIND OF GOT TO DEAL WITH. YOU KNOW, WE’VE HAD OUR DISCUSSIONS THAT, YOU KNOW, I’LL KEEP PRIVATE, BUT HIS BUSINESS IS HIS BUSINESS. AND, UH, HE’S OUT HERE ENCOURAGING GUYS AND, YOU KNOW, I’M NOT ENTIRELY SURE WHAT HIS PLAN IS AT THIS POINT, BUT, YOU KNOW, I KNOW HE’S WITH US 100%. AND SO WHEN HE’S READY TO COME BACK OUT THERE AND PRACTICE, WE’LL BE READY TO TO HAVE HIM. AND I KNOW THAT HE’S GOING TO BE PHYSICALLY AND MENTALLY READY WHENEVER YOU STEP BACK OUT HERE, AND HE’S GOING TO BE THE JAMAAR CHASE THAT EVERYBODY KNOWS THAT HE IS. IS THAT ONE OF THE BENEFITS OF HAVING NOW YOU PLAYED WITH FOR SO LONG, AND YOU’VE GOT SUCH A HUGE BUILDUP THAT IF THERE IS A LONG ABSENCE LIKE YOU GUYS CAN PICK UP QUICKER THAN IT WOULD OTHERWISE. YEAH, I THINK THAT’S FAIR TO SAY. YOU KNOW, I WAS THINKING ABOUT THAT THIS OFF SEASON THAT I HAD I’VE PLAYED ABOUT TEN GAMES OVER THE COURSE OF MY ENTIRE FOOTBALL CAREER OUTSIDE OF HIGH SCHOOL WITHOUT JAMAAR. AND THOSE WERE THE GAMES MY ROOKIE YEAR. SO YOU KNOW, W
+									
+2024-08-01 15:03:30,474 - trafilatura.main_extractor - DEBUG - discarding element: div 
+								
+2024-08-01 15:03:30,474 - trafilatura.main_extractor - DEBUG - discarding element: div 
+											
+
+2024-08-01 15:03:30,474 - trafilatura.main_extractor - DEBUG - discarding element: div 
+	
+
+			
+2024-08-01 15:03:30,474 - trafilatura.main_extractor - DEBUG - discarding element: div 
+			Advertisement
+		
+2024-08-01 15:03:30,474 - trafilatura.main_extractor - DEBUG - discarding element: section 
+	
+			
+2024-08-01 15:03:30,474 - trafilatura.main_extractor - DEBUG - discarding element: div Joe Burrow did not attend 'White Dudes for Harris' call despite social media rumors
+2024-08-01 15:03:30,474 - trafilatura.main_extractor - DEBUG - discarding element: div 
+					On Monday night, presumptive Democratic presidential nominee Kamala Harris held a "White Dudes for Harris" fundraising call.In the wake of the call, several tweets went viral claiming among the celebrities that attended, Cincinnati Bengals franchise quarterback was among them.However, there's one problem with these tweets and others like them: They're not true.The Bengals confirmed to WLWT Tuesday morning that Joe Burrow was not on the fundraising call.Users later updated their posts, including Kwatra.According to CNN, the call raised more than $4 million for the campaign.In his time as the Bengals' quarterback, Joe Burrow has rarely discussed politics, but has been caught up in a couple of political moments.In June of 2022, after the U.S. Supreme Court overturned Roe v. Wade, Burrow took to Instagram to share that he was in support of a woman's right to choose when it comes to abortion rights.He also spoke about gun control when asked about it at a press conference that same summer.Earlier this offseason, Burrow and teammate Sam Hubbard attended UFC 299 in Miami and were spotted posing for a photo with former president Donald Trump.
+				
+2024-08-01 15:03:30,474 - trafilatura.main_extractor - DEBUG - discarding element: div 
+																
+2024-08-01 15:03:30,474 - trafilatura.main_extractor - DEBUG - discarding element: div 
+            
+
+2024-08-01 15:03:30,474 - trafilatura.main_extractor - DEBUG - discarding element: div 
+	
+
+			
+2024-08-01 15:03:30,474 - trafilatura.main_extractor - DEBUG - discarding element: div 
+			Advertisement
+		
+2024-08-01 15:03:30,474 - trafilatura.main_extractor - DEBUG - .//*[(self::article or self::div or self::main or self::section)][
+    @class="post" or @class="entry" or
+    contains(@class, "post-text") or contains(@class, "post_text") or
+    contains(@class, "post-body") or contains(@class, "post-entry") or contains(@class, "postentry") or
+    contains(@class, "post-content") or contains(@class, "post_content") or
+    contains(@class, "postcontent") or contains(@class, "postContent") or contains(@class, "post_inner_wrapper") or
+    contains(@class, "article-text") or contains(@class, "articletext") or contains(@class, "articleText")
+    or contains(@id, "entry-content") or
+    contains(@class, "entry-content") or contains(@id, "article-content") or
+    contains(@class, "article-content") or contains(@id, "article__content") or
+    contains(@class, "article__content") or contains(@id, "article-body") or
+    contains(@class, "article-body") or contains(@id, "article__body") or
+    contains(@class, "article__body") or @itemprop="articleBody" or
+    contains(translate(@id, "B", "b"), "articlebody") or contains(translate(@class, "B", "b"), "articleBody")
+    or @id="articleContent" or contains(@class, "ArticleContent") or
+    contains(@class, "page-content") or contains(@class, "text-content") or
+    contains(@id, "body-text") or contains(@class, "body-text") or
+    contains(@class, "article__container") or contains(@id, "art-content") or contains(@class, "art-content")][1]
+2024-08-01 15:03:30,475 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:30,475 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:30,499 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:30,499 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:30,504 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:30,505 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:30,506 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:30,507 - WebsiteDataExtractor - INFO - processing index 5-> https://www.si.com/nfl/bengals/allbengals-insiders-plus/cincinnati-bengals-practice-takeaways-joe-burrow-continues-to-shine-young-weapons-make-impact-01j4460fa6yg
+2024-08-01 15:03:30,507 - WebsiteDataExtractor - INFO - Processing URL: https://www.si.com/nfl/bengals/allbengals-insiders-plus/cincinnati-bengals-practice-takeaways-joe-burrow-continues-to-shine-young-weapons-make-impact-01j4460fa6yg
+2024-08-01 15:03:30,508 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.si.com:443
+2024-08-01 15:03:30,925 - urllib3.connectionpool - DEBUG - https://www.si.com:443 "GET /nfl/bengals/allbengals-insiders-plus/cincinnati-bengals-practice-takeaways-joe-burrow-continues-to-shine-young-weapons-make-impact-01j4460fa6yg HTTP/11" 200 None
+2024-08-01 15:03:30,944 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:30,944 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.si.com/nfl/bengals/allbengals-insiders-plus/cincinnati-bengals-practice-takeaways-joe-burrow-continues-to-shine-young-weapons-make-impact-01j4460fa6yg
+2024-08-01 15:03:30,944 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:31,945 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:31,946 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:31,957 - trafilatura.htmlprocessing - DEBUG - list link text/total: 12/12 – short elems/total: 0/1
+2024-08-01 15:03:31,957 - trafilatura.htmlprocessing - DEBUG - list link text/total: 12/12 – short elems/total: 0/1
+2024-08-01 15:03:31,957 - trafilatura.htmlprocessing - DEBUG - list link text/total: 18/32 – short elems/total: 0/1
+2024-08-01 15:03:31,957 - trafilatura.htmlprocessing - DEBUG - list link text/total: 18/32 – short elems/total: 0/1
+2024-08-01 15:03:31,958 - trafilatura.htmlprocessing - DEBUG - list link text/total: 18/18 – short elems/total: 0/1
+2024-08-01 15:03:31,958 - trafilatura.htmlprocessing - DEBUG - list link text/total: 22/22 – short elems/total: 0/1
+2024-08-01 15:03:31,958 - trafilatura.htmlprocessing - DEBUG - list link text/total: 16/16 – short elems/total: 0/1
+2024-08-01 15:03:31,958 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-08-01 15:03:31,958 - trafilatura.main_extractor - DEBUG - discarding element: header None
+2024-08-01 15:03:31,958 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:31,958 - trafilatura.main_extractor - DEBUG - discarding element: div The Bengals practiced in pads for the first time on Tuesday.
+2024-08-01 15:03:31,958 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:31,958 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:31,958 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:31,958 - trafilatura.main_extractor - DEBUG - discarding element: figcaption Bengals Joe Burrow winds up for a pass during their training camp on Tuesday July 30, 2024. / Phil Didion/The Enquirer / USA TODAY NETWORK
+2024-08-01 15:03:31,958 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:31,959 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:31,959 - trafilatura.main_extractor - DEBUG - discarding element: div In this story:
+2024-08-01 15:03:31,959 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:31,959 - trafilatura.main_extractor - DEBUG - discarding element: section None
+2024-08-01 15:03:31,959 - trafilatura.main_extractor - DEBUG - discarding element: div Published 
+2024-08-01 15:03:31,959 - trafilatura.main_extractor - DEBUG - (.//article)[1]
+2024-08-01 15:03:31,960 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:31,961 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:31,974 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:31,974 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:31,978 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:31,979 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:31,980 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:31,982 - WebsiteDataExtractor - INFO - processing index 6-> https://www.si.com/nfl/bengals/news/zac-taylor-shares-preseason-plan-for-joe-burrow-rest-of-bengals-starters-and-when-they-ll-make-debut-01j47gwtakjh
+2024-08-01 15:03:31,982 - WebsiteDataExtractor - INFO - Processing URL: https://www.si.com/nfl/bengals/news/zac-taylor-shares-preseason-plan-for-joe-burrow-rest-of-bengals-starters-and-when-they-ll-make-debut-01j47gwtakjh
+2024-08-01 15:03:31,984 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.si.com:443
+2024-08-01 15:03:32,255 - urllib3.connectionpool - DEBUG - https://www.si.com:443 "GET /nfl/bengals/news/zac-taylor-shares-preseason-plan-for-joe-burrow-rest-of-bengals-starters-and-when-they-ll-make-debut-01j47gwtakjh HTTP/11" 200 None
+2024-08-01 15:03:32,276 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:32,276 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.si.com/nfl/bengals/news/zac-taylor-shares-preseason-plan-for-joe-burrow-rest-of-bengals-starters-and-when-they-ll-make-debut-01j47gwtakjh
+2024-08-01 15:03:32,276 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:33,278 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:33,278 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:33,289 - trafilatura.htmlprocessing - DEBUG - list link text/total: 12/12 – short elems/total: 0/1
+2024-08-01 15:03:33,289 - trafilatura.htmlprocessing - DEBUG - list link text/total: 12/12 – short elems/total: 0/1
+2024-08-01 15:03:33,289 - trafilatura.htmlprocessing - DEBUG - list link text/total: 18/32 – short elems/total: 0/1
+2024-08-01 15:03:33,289 - trafilatura.htmlprocessing - DEBUG - list link text/total: 18/32 – short elems/total: 0/1
+2024-08-01 15:03:33,289 - trafilatura.htmlprocessing - DEBUG - list link text/total: 18/18 – short elems/total: 0/1
+2024-08-01 15:03:33,290 - trafilatura.htmlprocessing - DEBUG - list link text/total: 22/22 – short elems/total: 0/1
+2024-08-01 15:03:33,290 - trafilatura.htmlprocessing - DEBUG - list link text/total: 16/16 – short elems/total: 0/1
+2024-08-01 15:03:33,290 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-08-01 15:03:33,290 - trafilatura.main_extractor - DEBUG - discarding element: header None
+2024-08-01 15:03:33,290 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:33,290 - trafilatura.main_extractor - DEBUG - discarding element: div The Bengals plan on playing their starters this preseason.
+2024-08-01 15:03:33,290 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:33,290 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:33,290 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:33,290 - trafilatura.main_extractor - DEBUG - discarding element: figcaption Bengals Joe Burrow looks for a pass during their training camp on Thursday July 29, 2024. / Phil Didion/The Enquirer / USA TODAY NETWORK
+2024-08-01 15:03:33,290 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:33,290 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:33,290 - trafilatura.main_extractor - DEBUG - discarding element: div In this story:
+2024-08-01 15:03:33,290 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:33,290 - trafilatura.main_extractor - DEBUG - discarding element: section None
+2024-08-01 15:03:33,290 - trafilatura.main_extractor - DEBUG - discarding element: div Published |Modified 
+2024-08-01 15:03:33,290 - trafilatura.main_extractor - DEBUG - (.//article)[1]
+2024-08-01 15:03:33,291 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:33,291 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:33,303 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:33,304 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:33,307 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:33,308 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:33,309 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:33,310 - WebsiteDataExtractor - INFO - processing index 7-> https://www.cincinnati.com/story/sports/nfl/bengals/2024/08/01/jamarr-chase-practice-contract-cincinnati-bengals-zac-taylor/74634284007/
+2024-08-01 15:03:33,310 - WebsiteDataExtractor - INFO - Processing URL: https://www.cincinnati.com/story/sports/nfl/bengals/2024/08/01/jamarr-chase-practice-contract-cincinnati-bengals-zac-taylor/74634284007/
+2024-08-01 15:03:33,311 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.cincinnati.com:443
+2024-08-01 15:03:33,380 - urllib3.connectionpool - DEBUG - https://www.cincinnati.com:443 "GET /story/sports/nfl/bengals/2024/08/01/jamarr-chase-practice-contract-cincinnati-bengals-zac-taylor/74634284007/ HTTP/11" 200 54367
+2024-08-01 15:03:33,383 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:33,383 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.cincinnati.com/story/sports/nfl/bengals/2024/08/01/jamarr-chase-practice-contract-cincinnati-bengals-zac-taylor/74634284007/
+2024-08-01 15:03:33,383 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:34,384 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:34,385 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:34,389 - trafilatura.htmlprocessing - DEBUG - list link text/total: 7/7 – short elems/total: 1/1
+2024-08-01 15:03:34,389 - trafilatura.htmlprocessing - DEBUG - list link text/total: 7/7 – short elems/total: 1/1
+2024-08-01 15:03:34,389 - trafilatura.htmlprocessing - DEBUG - list link text/total: 13/32 – short elems/total: 0/1
+2024-08-01 15:03:34,390 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-08-01 15:03:34,390 - trafilatura.main_extractor - DEBUG - discarding element: div  Kelsey Conway
+2024-08-01 15:03:34,390 - trafilatura.main_extractor - DEBUG - discarding element: div Cincinnati Enquirer
+2024-08-01 15:03:34,390 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:34,390 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:34,390 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:34,390 - trafilatura.main_extractor - DEBUG - (.//article)[1]
+2024-08-01 15:03:34,390 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:34,391 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:34,400 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:34,400 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:34,403 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:34,404 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:34,406 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:34,406 - WebsiteDataExtractor - INFO - processing index 8-> https://www.cincyjungle.com/2024/7/30/24209321/bengals-news-tua-tagovailoa-joe-burrow-dolphins-qb
+2024-08-01 15:03:34,407 - WebsiteDataExtractor - INFO - Processing URL: https://www.cincyjungle.com/2024/7/30/24209321/bengals-news-tua-tagovailoa-joe-burrow-dolphins-qb
+2024-08-01 15:03:34,408 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.cincyjungle.com:443
+2024-08-01 15:03:34,865 - urllib3.connectionpool - DEBUG - https://www.cincyjungle.com:443 "GET /2024/7/30/24209321/bengals-news-tua-tagovailoa-joe-burrow-dolphins-qb HTTP/11" 200 44024
+2024-08-01 15:03:34,868 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:34,869 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.cincyjungle.com/2024/7/30/24209321/bengals-news-tua-tagovailoa-joe-burrow-dolphins-qb
+2024-08-01 15:03:34,869 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:35,870 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:35,870 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:35,878 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-08-01 15:03:35,879 - trafilatura.main_extractor - DEBUG - discarding element: div 
+    
+
+
+      
+    
+
+
+
+
+
+
+
+2024-08-01 15:03:35,879 - trafilatura.main_extractor - DEBUG - discarding element: div 
+  
+2024-08-01 15:03:35,879 - trafilatura.main_extractor - DEBUG - extra p within p: p Training Camp Report: Bengals Prep For Pads; Ted Karras Just Fine With Sked; Money Mac Keeps Cashing 
+
+2024-08-01 15:03:35,879 - trafilatura.main_extractor - DEBUG - extra p within p: p Five Observations from Day 5 of Bengals Training Camp 
+
+2024-08-01 15:03:35,879 - trafilatura.main_extractor - DEBUG - extra p within p: p Training Camp Report: Bengals Hold College All-Star Punting Summit; How Joe Burrow Secured Play Of The Day 
+
+2024-08-01 15:03:35,879 - trafilatura.main_extractor - DEBUG - extra p within p: p Bengals training camp: 7 thoughts about the fourth practice 
+
+2024-08-01 15:03:35,879 - trafilatura.main_extractor - DEBUG - extra p within p: p Cincinnati Bengals QB Joe Burrow Ranked Lower Than Expected in NFLs Top 100 
+
+2024-08-01 15:03:35,879 - trafilatura.main_extractor - DEBUG - extra p within p: p Monday’s Cincinnati Bengals Training Camp Special 
+
+2024-08-01 15:03:35,879 - trafilatura.main_extractor - DEBUG - extra p within p: p Bengals training camp 
+
+2024-08-01 15:03:35,879 - trafilatura.main_extractor - DEBUG - extra p within p: p The Results Are In, and NFL Players Think Tua Tagovailoa Is a Better Quarterback Than Joe Burrow 
+
+  
+
+2024-08-01 15:03:35,879 - trafilatura.main_extractor - DEBUG - discarding element: div 
+  
+
+2024-08-01 15:03:35,879 - trafilatura.main_extractor - DEBUG - discarding element: section 
+  
+2024-08-01 15:03:35,879 - trafilatura.main_extractor - DEBUG - .//*[(self::article or self::div or self::main or self::section)][
+    @class="post" or @class="entry" or
+    contains(@class, "post-text") or contains(@class, "post_text") or
+    contains(@class, "post-body") or contains(@class, "post-entry") or contains(@class, "postentry") or
+    contains(@class, "post-content") or contains(@class, "post_content") or
+    contains(@class, "postcontent") or contains(@class, "postContent") or contains(@class, "post_inner_wrapper") or
+    contains(@class, "article-text") or contains(@class, "articletext") or contains(@class, "articleText")
+    or contains(@id, "entry-content") or
+    contains(@class, "entry-content") or contains(@id, "article-content") or
+    contains(@class, "article-content") or contains(@id, "article__content") or
+    contains(@class, "article__content") or contains(@id, "article-body") or
+    contains(@class, "article-body") or contains(@id, "article__body") or
+    contains(@class, "article__body") or @itemprop="articleBody" or
+    contains(translate(@id, "B", "b"), "articlebody") or contains(translate(@class, "B", "b"), "articleBody")
+    or @id="articleContent" or contains(@class, "ArticleContent") or
+    contains(@class, "page-content") or contains(@class, "text-content") or
+    contains(@id, "body-text") or contains(@class, "body-text") or
+    contains(@class, "article__container") or contains(@id, "art-content") or contains(@class, "art-content")][1]
+2024-08-01 15:03:35,881 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:35,881 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:35,904 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:35,904 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:35,907 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:35,908 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:35,909 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:35,909 - WebsiteDataExtractor - INFO - processing index 9-> https://www.nfl.com/videos/burrow-talks-to-baldinger-condon-about-his-blonde-hair-mindset-for-24-inside-training-camp-live
+2024-08-01 15:03:35,909 - WebsiteDataExtractor - INFO - Processing URL: https://www.nfl.com/videos/burrow-talks-to-baldinger-condon-about-his-blonde-hair-mindset-for-24-inside-training-camp-live
+2024-08-01 15:03:35,910 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.nfl.com:443
+2024-08-01 15:03:36,465 - urllib3.connectionpool - DEBUG - https://www.nfl.com:443 "GET /videos/burrow-talks-to-baldinger-condon-about-his-blonde-hair-mindset-for-24-inside-training-camp-live HTTP/11" 200 89085
+2024-08-01 15:03:36,475 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:36,475 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.nfl.com/videos/burrow-talks-to-baldinger-condon-about-his-blonde-hair-mindset-for-24-inside-training-camp-live
+2024-08-01 15:03:36,475 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:37,476 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:37,477 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:37,508 - trafilatura.htmlprocessing - DEBUG - list link text/total: 215/215 – short elems/total: 0/1
+2024-08-01 15:03:37,508 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-08-01 15:03:37,508 - trafilatura.main_extractor - DEBUG - discarding element: section 
+    
+2024-08-01 15:03:37,508 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+2024-08-01 15:03:37,508 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+    
+2024-08-01 15:03:37,508 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+
+
+2024-08-01 15:03:37,508 - trafilatura.main_extractor - DEBUG - discarding element: div 
+  
+2024-08-01 15:03:37,508 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+        
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+            
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+              
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+                
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: section 
+  
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+
+    
+
+
+
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+
+
+    
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+        
+
+
+
+
+
+
+
+    
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          video
+        
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+        
+
+
+
+
+
+
+
+    
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          video
+        
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+        
+
+
+
+
+
+
+
+    
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          video
+        
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+        
+
+
+
+
+
+
+
+    
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          video
+        
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+        
+
+
+
+
+
+
+
+    
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          video
+        
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+        
+
+
+
+
+
+
+
+    
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          video
+        
+2024-08-01 15:03:37,509 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+        
+
+
+
+
+
+
+
+    
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          video
+        
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+        
+
+
+
+
+
+
+
+    
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          video
+        
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+        
+
+
+
+
+
+
+
+    
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          video
+        
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+        
+
+
+
+
+
+
+
+    
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          video
+        
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+        
+
+
+
+
+
+
+
+    
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          video
+        
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+        
+
+
+
+
+
+
+
+    
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          video
+        
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+        
+
+
+
+
+
+
+
+    
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          video
+        
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+        
+
+
+
+
+
+
+
+    
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          video
+        
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+        
+
+
+
+
+
+
+
+    
+2024-08-01 15:03:37,510 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          video
+        
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+        
+
+
+
+
+
+
+
+    
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          video
+        
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+        
+
+
+
+
+
+
+
+    
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          video
+        
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+        
+
+
+
+
+
+
+
+    
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          video
+        
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+        
+
+
+
+
+
+
+
+    
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          video
+        
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+        
+
+
+
+
+
+
+
+    
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          video
+        
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+        
+
+
+
+
+
+
+
+    
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          video
+        
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+        
+
+
+
+
+
+
+
+    
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          video
+        
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+        
+
+
+
+
+
+
+
+    
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          video
+        
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          
+2024-08-01 15:03:37,511 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+        
+
+
+
+
+
+
+
+    
+2024-08-01 15:03:37,512 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+2024-08-01 15:03:37,512 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          video
+        
+2024-08-01 15:03:37,512 - trafilatura.main_extractor - DEBUG - discarding element: div 
+          
+2024-08-01 15:03:37,512 - trafilatura.main_extractor - DEBUG - discarding element: section 
+  
+2024-08-01 15:03:37,512 - trafilatura.main_extractor - DEBUG - discarding element: div 
+    
+2024-08-01 15:03:37,512 - trafilatura.main_extractor - DEBUG - discarding element: div 
+      
+
+      
+2024-08-01 15:03:37,512 - trafilatura.main_extractor - DEBUG - discarding element: div 
+        
+      
+2024-08-01 15:03:37,512 - trafilatura.main_extractor - DEBUG - (.//*[(self::article or self::div or self::main or self::section)][
+    contains(@id, "content-main") or contains(@class, "content-main") or contains(@class, "content_main") or
+    contains(@id, "content-body") or contains(@class, "content-body") or contains(@id, "contentBody")
+    or contains(@class, "content__body") or contains(translate(@id, "CM","cm"), "main-content") or contains(translate(@class, "CM","cm"), "main-content")
+    or contains(translate(@class, "CP","cp"), "page-content") or
+    @id="content" or @class="content"])[1]
+2024-08-01 15:03:37,519 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:37,519 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:37,610 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:37,610 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:37,623 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:37,624 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:37,624 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:37,625 - WebsiteDataExtractor - INFO - processing index 10-> https://www.cincinnati.com/story/sports/nfl/bengals/2024/07/31/jamarr-chase-funny-reaction-joe-burrow-locker-room-fridge/74614834007/
+2024-08-01 15:03:37,625 - WebsiteDataExtractor - INFO - Processing URL: https://www.cincinnati.com/story/sports/nfl/bengals/2024/07/31/jamarr-chase-funny-reaction-joe-burrow-locker-room-fridge/74614834007/
+2024-08-01 15:03:37,626 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.cincinnati.com:443
+2024-08-01 15:03:37,697 - urllib3.connectionpool - DEBUG - https://www.cincinnati.com:443 "GET /story/sports/nfl/bengals/2024/07/31/jamarr-chase-funny-reaction-joe-burrow-locker-room-fridge/74614834007/ HTTP/11" 200 61987
+2024-08-01 15:03:37,701 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:37,702 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.cincinnati.com/story/sports/nfl/bengals/2024/07/31/jamarr-chase-funny-reaction-joe-burrow-locker-room-fridge/74614834007/
+2024-08-01 15:03:37,702 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:38,703 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:38,704 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:38,709 - trafilatura.htmlprocessing - DEBUG - list link text/total: 7/7 – short elems/total: 1/1
+2024-08-01 15:03:38,709 - trafilatura.htmlprocessing - DEBUG - list link text/total: 7/7 – short elems/total: 1/1
+2024-08-01 15:03:38,709 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/33 – short elems/total: 0/1
+2024-08-01 15:03:38,710 - trafilatura.htmlprocessing - DEBUG - list link text/total: 11/50 – short elems/total: 0/1
+2024-08-01 15:03:38,710 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-08-01 15:03:38,710 - trafilatura.main_extractor - DEBUG - discarding element: div  Haadiza Ogwude
+2024-08-01 15:03:38,710 - trafilatura.main_extractor - DEBUG - discarding element: div Cincinnati Enquirer
+2024-08-01 15:03:38,710 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:38,710 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:38,710 - trafilatura.main_extractor - DEBUG - discarding element: svg None
+2024-08-01 15:03:38,710 - trafilatura.main_extractor - DEBUG - discarding element: svg None
+2024-08-01 15:03:38,710 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:38,710 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:38,710 - trafilatura.main_extractor - DEBUG - (.//article)[1]
+2024-08-01 15:03:38,711 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:38,711 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:38,721 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:38,722 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:38,724 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:38,725 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:38,726 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:38,726 - WebsiteDataExtractor - INFO - processing index 11-> https://www.si.com/nfl/bengals/news/look-bengals-stars-joe-burrow-ja-marr-chase-and-tee-higgins-react-to-new-locker-room-01j41y3k53sg
+2024-08-01 15:03:38,727 - WebsiteDataExtractor - INFO - Processing URL: https://www.si.com/nfl/bengals/news/look-bengals-stars-joe-burrow-ja-marr-chase-and-tee-higgins-react-to-new-locker-room-01j41y3k53sg
+2024-08-01 15:03:38,728 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.si.com:443
+2024-08-01 15:03:39,043 - urllib3.connectionpool - DEBUG - https://www.si.com:443 "GET /nfl/bengals/news/look-bengals-stars-joe-burrow-ja-marr-chase-and-tee-higgins-react-to-new-locker-room-01j41y3k53sg HTTP/11" 200 None
+2024-08-01 15:03:39,070 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:39,070 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.si.com/nfl/bengals/news/look-bengals-stars-joe-burrow-ja-marr-chase-and-tee-higgins-react-to-new-locker-room-01j41y3k53sg
+2024-08-01 15:03:39,070 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:40,071 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:40,071 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:40,081 - trafilatura.htmlprocessing - DEBUG - list link text/total: 12/12 – short elems/total: 0/1
+2024-08-01 15:03:40,082 - trafilatura.htmlprocessing - DEBUG - list link text/total: 12/12 – short elems/total: 0/1
+2024-08-01 15:03:40,082 - trafilatura.htmlprocessing - DEBUG - list link text/total: 18/32 – short elems/total: 0/1
+2024-08-01 15:03:40,082 - trafilatura.htmlprocessing - DEBUG - list link text/total: 18/32 – short elems/total: 0/1
+2024-08-01 15:03:40,082 - trafilatura.htmlprocessing - DEBUG - list link text/total: 18/18 – short elems/total: 0/1
+2024-08-01 15:03:40,082 - trafilatura.htmlprocessing - DEBUG - list link text/total: 22/22 – short elems/total: 0/1
+2024-08-01 15:03:40,082 - trafilatura.htmlprocessing - DEBUG - list link text/total: 16/16 – short elems/total: 0/1
+2024-08-01 15:03:40,083 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-08-01 15:03:40,083 - trafilatura.main_extractor - DEBUG - discarding element: header None
+2024-08-01 15:03:40,083 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:40,083 - trafilatura.main_extractor - DEBUG - discarding element: div Wow.
+2024-08-01 15:03:40,083 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:40,083 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:40,083 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:40,083 - trafilatura.main_extractor - DEBUG - discarding element: figcaption Cincinnati Bengals quarterback Joe Burrow (9) smiles while speaking with Cincinnati Bengals wide receiver Ja'Marr Chase (1) before stretching for the NFL game between the Cincinnati Bengals and Los Angeles Rams at Paycor Stadium in Cincinnati on Monday, Sept. 25, 2023. / Albert Cesare/The Enquirer / USA TODAY
+2024-08-01 15:03:40,083 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:40,083 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:40,083 - trafilatura.main_extractor - DEBUG - discarding element: div In this story:
+2024-08-01 15:03:40,083 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:40,083 - trafilatura.main_extractor - DEBUG - discarding element: section None
+2024-08-01 15:03:40,083 - trafilatura.main_extractor - DEBUG - discarding element: div Published |Modified 
+2024-08-01 15:03:40,083 - trafilatura.main_extractor - DEBUG - (.//article)[1]
+2024-08-01 15:03:40,084 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:40,085 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:40,097 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:40,097 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:40,102 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:40,102 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:40,103 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:40,104 - WebsiteDataExtractor - INFO - processing index 12-> https://www.bengals.com/video/burrow-chase-higgins-see-locker-room-for-first-time
+2024-08-01 15:03:40,104 - WebsiteDataExtractor - INFO - Processing URL: https://www.bengals.com/video/burrow-chase-higgins-see-locker-room-for-first-time
+2024-08-01 15:03:40,105 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.bengals.com:443
+2024-08-01 15:03:40,242 - urllib3.connectionpool - DEBUG - https://www.bengals.com:443 "GET /video/burrow-chase-higgins-see-locker-room-for-first-time HTTP/11" 200 82423
+2024-08-01 15:03:40,252 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:40,252 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.bengals.com/video/burrow-chase-higgins-see-locker-room-for-first-time
+2024-08-01 15:03:40,252 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:41,253 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:41,254 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:41,286 - trafilatura.htmlprocessing - DEBUG - list link text/total: 31/31 – short elems/total: 0/1
+2024-08-01 15:03:41,286 - trafilatura.htmlprocessing - DEBUG - list link text/total: 56/56 – short elems/total: 0/1
+2024-08-01 15:03:41,286 - trafilatura.htmlprocessing - DEBUG - list link text/total: 75/75 – short elems/total: 0/1
+2024-08-01 15:03:41,286 - trafilatura.htmlprocessing - DEBUG - list link text/total: 56/56 – short elems/total: 0/1
+2024-08-01 15:03:41,286 - trafilatura.htmlprocessing - DEBUG - list link text/total: 27/27 – short elems/total: 0/1
+2024-08-01 15:03:41,286 - trafilatura.htmlprocessing - DEBUG - list link text/total: 23/23 – short elems/total: 0/1
+2024-08-01 15:03:41,286 - trafilatura.htmlprocessing - DEBUG - list link text/total: 72/72 – short elems/total: 0/1
+2024-08-01 15:03:41,286 - trafilatura.htmlprocessing - DEBUG - list link text/total: 71/71 – short elems/total: 0/1
+2024-08-01 15:03:41,286 - trafilatura.htmlprocessing - DEBUG - list link text/total: 77/77 – short elems/total: 0/1
+2024-08-01 15:03:41,286 - trafilatura.htmlprocessing - DEBUG - list link text/total: 69/69 – short elems/total: 0/1
+2024-08-01 15:03:41,286 - trafilatura.htmlprocessing - DEBUG - list link text/total: 74/74 – short elems/total: 0/1
+2024-08-01 15:03:41,286 - trafilatura.htmlprocessing - DEBUG - list link text/total: 59/59 – short elems/total: 0/1
+2024-08-01 15:03:41,286 - trafilatura.htmlprocessing - DEBUG - list link text/total: 49/49 – short elems/total: 0/1
+2024-08-01 15:03:41,287 - trafilatura.htmlprocessing - DEBUG - list link text/total: 43/43 – short elems/total: 0/1
+2024-08-01 15:03:41,287 - trafilatura.htmlprocessing - DEBUG - list link text/total: 57/57 – short elems/total: 0/1
+2024-08-01 15:03:41,287 - trafilatura.htmlprocessing - DEBUG - list link text/total: 61/61 – short elems/total: 0/1
+2024-08-01 15:03:41,287 - trafilatura.htmlprocessing - DEBUG - list link text/total: 44/44 – short elems/total: 0/1
+2024-08-01 15:03:41,287 - trafilatura.htmlprocessing - DEBUG - list link text/total: 62/62 – short elems/total: 0/1
+2024-08-01 15:03:41,287 - trafilatura.htmlprocessing - DEBUG - list link text/total: 40/40 – short elems/total: 0/1
+2024-08-01 15:03:41,287 - trafilatura.htmlprocessing - DEBUG - list link text/total: 30/30 – short elems/total: 0/1
+2024-08-01 15:03:41,287 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'div', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-08-01 15:03:41,287 - trafilatura.main_extractor - DEBUG - discarding element: section 
+    
+2024-08-01 15:03:41,287 - trafilatura.main_extractor - DEBUG - discarding element: section 
+  
+2024-08-01 15:03:41,287 - trafilatura.main_extractor - DEBUG - discarding element: section 
+  
+2024-08-01 15:03:41,287 - trafilatura.main_extractor - DEBUG - discarding element: section 
+          Advertising
+          
+2024-08-01 15:03:41,287 - trafilatura.main_extractor - DEBUG - (.//*[(self::article or self::div or self::main or self::section)][
+    contains(@id, "content-main") or contains(@class, "content-main") or contains(@class, "content_main") or
+    contains(@id, "content-body") or contains(@class, "content-body") or contains(@id, "contentBody")
+    or contains(@class, "content__body") or contains(translate(@id, "CM","cm"), "main-content") or contains(translate(@class, "CM","cm"), "main-content")
+    or contains(translate(@class, "CP","cp"), "page-content") or
+    @id="content" or @class="content"])[1]
+2024-08-01 15:03:41,287 - trafilatura.main_extractor - DEBUG - Recovering wild text elements
+2024-08-01 15:03:41,300 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/16 – short elems/total: 3/3
+2024-08-01 15:03:41,300 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/16 – short elems/total: 3/3
+2024-08-01 15:03:41,300 - trafilatura.htmlprocessing - DEBUG - list link text/total: 31/31 – short elems/total: 0/1
+2024-08-01 15:03:41,301 - trafilatura.htmlprocessing - DEBUG - list link text/total: 56/56 – short elems/total: 0/1
+2024-08-01 15:03:41,301 - trafilatura.htmlprocessing - DEBUG - list link text/total: 75/75 – short elems/total: 0/1
+2024-08-01 15:03:41,301 - trafilatura.htmlprocessing - DEBUG - list link text/total: 56/56 – short elems/total: 0/1
+2024-08-01 15:03:41,301 - trafilatura.htmlprocessing - DEBUG - list link text/total: 27/27 – short elems/total: 0/1
+2024-08-01 15:03:41,301 - trafilatura.htmlprocessing - DEBUG - list link text/total: 23/23 – short elems/total: 0/1
+2024-08-01 15:03:41,301 - trafilatura.htmlprocessing - DEBUG - list link text/total: 72/72 – short elems/total: 0/1
+2024-08-01 15:03:41,301 - trafilatura.htmlprocessing - DEBUG - list link text/total: 71/71 – short elems/total: 0/1
+2024-08-01 15:03:41,301 - trafilatura.htmlprocessing - DEBUG - list link text/total: 77/77 – short elems/total: 0/1
+2024-08-01 15:03:41,301 - trafilatura.htmlprocessing - DEBUG - list link text/total: 69/69 – short elems/total: 0/1
+2024-08-01 15:03:41,301 - trafilatura.htmlprocessing - DEBUG - list link text/total: 74/74 – short elems/total: 0/1
+2024-08-01 15:03:41,301 - trafilatura.htmlprocessing - DEBUG - list link text/total: 59/59 – short elems/total: 0/1
+2024-08-01 15:03:41,301 - trafilatura.htmlprocessing - DEBUG - list link text/total: 49/49 – short elems/total: 0/1
+2024-08-01 15:03:41,301 - trafilatura.htmlprocessing - DEBUG - list link text/total: 43/43 – short elems/total: 0/1
+2024-08-01 15:03:41,301 - trafilatura.htmlprocessing - DEBUG - list link text/total: 57/57 – short elems/total: 0/1
+2024-08-01 15:03:41,301 - trafilatura.htmlprocessing - DEBUG - list link text/total: 61/61 – short elems/total: 0/1
+2024-08-01 15:03:41,301 - trafilatura.htmlprocessing - DEBUG - list link text/total: 44/44 – short elems/total: 0/1
+2024-08-01 15:03:41,301 - trafilatura.htmlprocessing - DEBUG - list link text/total: 62/62 – short elems/total: 0/1
+2024-08-01 15:03:41,301 - trafilatura.htmlprocessing - DEBUG - list link text/total: 40/40 – short elems/total: 0/1
+2024-08-01 15:03:41,301 - trafilatura.htmlprocessing - DEBUG - list link text/total: 30/30 – short elems/total: 0/1
+2024-08-01 15:03:41,304 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:41,304 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:41,387 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:41,387 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:41,399 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:41,400 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:41,401 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:41,403 - WebsiteDataExtractor - INFO - processing index 13-> https://bleacherreport.com/articles/10130137-bengals-new-locker-room-revealed-in-video-photos-burrow-hyped-after-2023-d-grade
+2024-08-01 15:03:41,403 - WebsiteDataExtractor - INFO - Processing URL: https://bleacherreport.com/articles/10130137-bengals-new-locker-room-revealed-in-video-photos-burrow-hyped-after-2023-d-grade
+2024-08-01 15:03:41,404 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): bleacherreport.com:443
+2024-08-01 15:03:41,668 - urllib3.connectionpool - DEBUG - https://bleacherreport.com:443 "GET /articles/10130137-bengals-new-locker-room-revealed-in-video-photos-burrow-hyped-after-2023-d-grade HTTP/11" 200 55657
+2024-08-01 15:03:41,674 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:41,674 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://bleacherreport.com/articles/10130137-bengals-new-locker-room-revealed-in-video-photos-burrow-hyped-after-2023-d-grade
+2024-08-01 15:03:41,675 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:42,676 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:42,677 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:42,694 - trafilatura.htmlprocessing - DEBUG - list link text/total: 61/61 – short elems/total: 0/1
+2024-08-01 15:03:42,694 - trafilatura.htmlprocessing - DEBUG - list link text/total: 61/61 – short elems/total: 0/1
+2024-08-01 15:03:42,695 - trafilatura.htmlprocessing - DEBUG - list link text/total: 61/61 – short elems/total: 0/1
+2024-08-01 15:03:42,695 - trafilatura.htmlprocessing - DEBUG - list link text/total: 61/61 – short elems/total: 0/1
+2024-08-01 15:03:42,695 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-08-01 15:03:42,696 - trafilatura.main_extractor - DEBUG - discarding element: header None
+2024-08-01 15:03:42,696 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,696 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,697 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,697 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,697 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,697 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,697 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,697 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,697 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,697 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,697 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,698 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,698 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,698 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,698 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,698 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,698 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,698 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,698 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,698 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,698 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,698 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,698 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,698 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,698 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,698 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,699 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:42,699 - trafilatura.main_extractor - DEBUG - (.//article)[1]
+2024-08-01 15:03:42,700 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:42,700 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:42,716 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:42,717 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:42,726 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:42,727 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:42,728 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:42,729 - WebsiteDataExtractor - INFO - processing index 14-> https://sports.yahoo.com/zac-taylor-surprsies-joe-burrows-180453943.html
+2024-08-01 15:03:42,730 - WebsiteDataExtractor - INFO - Processing URL: https://sports.yahoo.com/zac-taylor-surprsies-joe-burrows-180453943.html
+2024-08-01 15:03:42,732 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): sports.yahoo.com:443
+2024-08-01 15:03:43,006 - urllib3.connectionpool - DEBUG - https://sports.yahoo.com:443 "GET /zac-taylor-surprsies-joe-burrows-180453943.html HTTP/11" 200 None
+2024-08-01 15:03:43,113 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:43,114 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://sports.yahoo.com/zac-taylor-surprsies-joe-burrows-180453943.html
+2024-08-01 15:03:43,114 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:44,115 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:44,117 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:44,148 - trafilatura.htmlprocessing - DEBUG - list link text/total: 12/12 – short elems/total: 0/1
+2024-08-01 15:03:44,148 - trafilatura.htmlprocessing - DEBUG - list link text/total: 14/46 – short elems/total: 0/1
+2024-08-01 15:03:44,149 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-08-01 15:03:44,149 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:44,149 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:44,149 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:44,149 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:44,149 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:44,149 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:44,149 - trafilatura.main_extractor - DEBUG - discarding element: header None
+2024-08-01 15:03:44,149 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:44,149 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:44,149 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:44,149 - trafilatura.main_extractor - DEBUG - (.//article)[1]
+2024-08-01 15:03:44,153 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:44,153 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:44,286 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:44,286 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:44,298 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:44,299 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:44,300 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:44,301 - WebsiteDataExtractor - INFO - processing index 15-> https://www.bleacherreport.com/articles/10130029-nfl-networks-top-100-players-of-2024-joe-burrow-tua-tagovailoa-among-nos-40-31
+2024-08-01 15:03:44,301 - WebsiteDataExtractor - INFO - Processing URL: https://www.bleacherreport.com/articles/10130029-nfl-networks-top-100-players-of-2024-joe-burrow-tua-tagovailoa-among-nos-40-31
+2024-08-01 15:03:44,302 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.bleacherreport.com:443
+2024-08-01 15:03:44,686 - urllib3.connectionpool - DEBUG - https://www.bleacherreport.com:443 "GET /articles/10130029-nfl-networks-top-100-players-of-2024-joe-burrow-tua-tagovailoa-among-nos-40-31 HTTP/11" 200 54633
+2024-08-01 15:03:44,691 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:44,692 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.bleacherreport.com/articles/10130029-nfl-networks-top-100-players-of-2024-joe-burrow-tua-tagovailoa-among-nos-40-31
+2024-08-01 15:03:44,692 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:45,693 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:45,694 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:45,706 - trafilatura.htmlprocessing - DEBUG - list link text/total: 61/61 – short elems/total: 0/1
+2024-08-01 15:03:45,706 - trafilatura.htmlprocessing - DEBUG - list link text/total: 61/61 – short elems/total: 0/1
+2024-08-01 15:03:45,706 - trafilatura.htmlprocessing - DEBUG - list link text/total: 61/61 – short elems/total: 0/1
+2024-08-01 15:03:45,706 - trafilatura.htmlprocessing - DEBUG - list link text/total: 61/61 – short elems/total: 0/1
+2024-08-01 15:03:45,706 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-08-01 15:03:45,706 - trafilatura.main_extractor - DEBUG - discarding element: header None
+2024-08-01 15:03:45,706 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:45,706 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:45,706 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:45,706 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:45,706 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:45,706 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:45,706 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:45,706 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:45,706 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:45,706 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:45,706 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:45,707 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:45,707 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:45,707 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:45,707 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:45,707 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:45,707 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:45,707 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:45,707 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:45,707 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:45,707 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:45,707 - trafilatura.main_extractor - DEBUG - (.//article)[1]
+2024-08-01 15:03:45,708 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:45,708 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:45,721 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:45,721 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:45,727 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:45,727 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:45,729 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:45,730 - WebsiteDataExtractor - INFO - processing index 16-> https://www.si.com/nfl/bengals/allbengals-insiders-plus/joe-burrow-highlights-young-receiver-development-without-ja-marr-chase-at-training-camp-01j4039w8vfc
+2024-08-01 15:03:45,730 - WebsiteDataExtractor - INFO - Processing URL: https://www.si.com/nfl/bengals/allbengals-insiders-plus/joe-burrow-highlights-young-receiver-development-without-ja-marr-chase-at-training-camp-01j4039w8vfc
+2024-08-01 15:03:45,732 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.si.com:443
+2024-08-01 15:03:46,171 - urllib3.connectionpool - DEBUG - https://www.si.com:443 "GET /nfl/bengals/allbengals-insiders-plus/joe-burrow-highlights-young-receiver-development-without-ja-marr-chase-at-training-camp-01j4039w8vfc HTTP/11" 200 None
+2024-08-01 15:03:46,200 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:46,200 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.si.com/nfl/bengals/allbengals-insiders-plus/joe-burrow-highlights-young-receiver-development-without-ja-marr-chase-at-training-camp-01j4039w8vfc
+2024-08-01 15:03:46,200 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:47,202 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:47,202 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:47,211 - trafilatura.htmlprocessing - DEBUG - list link text/total: 12/12 – short elems/total: 0/1
+2024-08-01 15:03:47,212 - trafilatura.htmlprocessing - DEBUG - list link text/total: 12/12 – short elems/total: 0/1
+2024-08-01 15:03:47,212 - trafilatura.htmlprocessing - DEBUG - list link text/total: 22/22 – short elems/total: 0/1
+2024-08-01 15:03:47,212 - trafilatura.htmlprocessing - DEBUG - list link text/total: 16/16 – short elems/total: 0/1
+2024-08-01 15:03:47,212 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-08-01 15:03:47,213 - trafilatura.main_extractor - DEBUG - discarding element: header None
+2024-08-01 15:03:47,213 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:47,213 - trafilatura.main_extractor - DEBUG - discarding element: div Cincinnati has a deep group of pass catchers.
+2024-08-01 15:03:47,213 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:47,213 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:47,213 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:47,213 - trafilatura.main_extractor - DEBUG - discarding element: figcaption Cincinnati Bengals quarterback Joe Burrow (9) throws a pass at Cincinnati Bengals training camp on the Kettering Health Practice Fields in Cincinnati on Sunday, July 28, 2024. / Albert Cesare/The Enquirer / USA TODAY
+2024-08-01 15:03:47,213 - trafilatura.main_extractor - DEBUG - discarding element: div None
+2024-08-01 15:03:47,214 - trafilatura.main_extractor - DEBUG - discarding element: section None
+2024-08-01 15:03:47,214 - trafilatura.main_extractor - DEBUG - discarding element: div Published 
+2024-08-01 15:03:47,214 - trafilatura.main_extractor - DEBUG - (.//article)[1]
+2024-08-01 15:03:47,215 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:47,216 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:47,227 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:47,227 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:47,232 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:47,233 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:47,234 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:47,235 - WebsiteDataExtractor - INFO - processing index 17-> https://www.cincyjungle.com/2024/7/30/24207051/jermaine-burton-fast-start-bengals-alabama-football-nfl
+2024-08-01 15:03:47,235 - WebsiteDataExtractor - INFO - Processing URL: https://www.cincyjungle.com/2024/7/30/24207051/jermaine-burton-fast-start-bengals-alabama-football-nfl
+2024-08-01 15:03:47,236 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.cincyjungle.com:443
+2024-08-01 15:03:47,626 - urllib3.connectionpool - DEBUG - https://www.cincyjungle.com:443 "GET /2024/7/30/24207051/jermaine-burton-fast-start-bengals-alabama-football-nfl HTTP/11" 200 45291
+2024-08-01 15:03:47,630 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:47,631 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.cincyjungle.com/2024/7/30/24207051/jermaine-burton-fast-start-bengals-alabama-football-nfl
+2024-08-01 15:03:47,631 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:48,632 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:48,632 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:48,641 - trafilatura.main_extractor - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-08-01 15:03:48,641 - trafilatura.main_extractor - DEBUG - discarding element: div 
+    
+
+
+      
+    
+
+
+
+
+
+
+
+2024-08-01 15:03:48,641 - trafilatura.main_extractor - DEBUG - discarding element: div 
+  
+2024-08-01 15:03:48,641 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+2024-08-01 15:03:48,641 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+2024-08-01 15:03:48,642 - trafilatura.main_extractor - DEBUG - discarding element: div 
+
+2024-08-01 15:03:48,642 - trafilatura.main_extractor - DEBUG - discarding element: div 
+  
+
+2024-08-01 15:03:48,642 - trafilatura.main_extractor - DEBUG - discarding element: section 
+  
+2024-08-01 15:03:48,642 - trafilatura.main_extractor - DEBUG - .//*[(self::article or self::div or self::main or self::section)][
+    @class="post" or @class="entry" or
+    contains(@class, "post-text") or contains(@class, "post_text") or
+    contains(@class, "post-body") or contains(@class, "post-entry") or contains(@class, "postentry") or
+    contains(@class, "post-content") or contains(@class, "post_content") or
+    contains(@class, "postcontent") or contains(@class, "postContent") or contains(@class, "post_inner_wrapper") or
+    contains(@class, "article-text") or contains(@class, "articletext") or contains(@class, "articleText")
+    or contains(@id, "entry-content") or
+    contains(@class, "entry-content") or contains(@id, "article-content") or
+    contains(@class, "article-content") or contains(@id, "article__content") or
+    contains(@class, "article__content") or contains(@id, "article-body") or
+    contains(@class, "article-body") or contains(@id, "article__body") or
+    contains(@class, "article__body") or @itemprop="articleBody" or
+    contains(translate(@id, "B", "b"), "articlebody") or contains(translate(@class, "B", "b"), "articleBody")
+    or @id="articleContent" or contains(@class, "ArticleContent") or
+    contains(@class, "page-content") or contains(@class, "text-content") or
+    contains(@id, "body-text") or contains(@class, "body-text") or
+    contains(@class, "article__container") or contains(@id, "art-content") or contains(@class, "art-content")][1]
+2024-08-01 15:03:48,643 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:48,644 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:48,669 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:48,669 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:48,673 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:48,673 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:48,674 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:48,675 - WebsiteDataExtractor - INFO - processing index 18-> https://athlonsports.com/nfl/bengals-joe-burrows-touching-gesture-at-training-camp-goes-viral
+2024-08-01 15:03:48,675 - WebsiteDataExtractor - INFO - Processing URL: https://athlonsports.com/nfl/bengals-joe-burrows-touching-gesture-at-training-camp-goes-viral
+2024-08-01 15:03:48,676 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): athlonsports.com:443
+2024-08-01 15:03:48,727 - urllib3.connectionpool - DEBUG - https://athlonsports.com:443 "GET /nfl/bengals-joe-burrows-touching-gesture-at-training-camp-goes-viral HTTP/11" 403 None
+2024-08-01 15:03:48,728 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:48,728 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://athlonsports.com/nfl/bengals-joe-burrows-touching-gesture-at-training-camp-goes-viral
+2024-08-01 15:03:48,728 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:49,730 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:49,730 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:49,731 - trafilatura.main_extractor - DEBUG - Recovering wild text elements
+2024-08-01 15:03:49,731 - trafilatura.core - DEBUG - non-clean extracted length: 43 (extraction)
+2024-08-01 15:03:49,731 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:49,731 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:49,732 - WebsiteDataExtractor - INFO - Finished Extracting title
+2024-08-01 15:03:49,732 - WebsiteDataExtractor - INFO - Getting Date Of Article
+2024-08-01 15:03:49,733 - WebsiteDataExtractor - INFO - Extracted Date Of Article
+2024-08-01 15:03:49,733 - WebsiteDataExtractor - INFO - Adding New Row To The Dataframe
+2024-08-01 15:03:49,734 - WebsiteDataExtractor - INFO - Added New Row To The DataFrame
+2024-08-01 15:03:49,735 - WebsiteDataExtractor - INFO - processing index 19-> https://www.bizjournals.com/cincinnati/inno/stories/news/2024/07/30/forbes-30-under-30-joe-burrow-chase-elly-de-cruz.html
+2024-08-01 15:03:49,735 - WebsiteDataExtractor - INFO - Processing URL: https://www.bizjournals.com/cincinnati/inno/stories/news/2024/07/30/forbes-30-under-30-joe-burrow-chase-elly-de-cruz.html
+2024-08-01 15:03:49,736 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.bizjournals.com:443
+2024-08-01 15:03:49,821 - urllib3.connectionpool - DEBUG - https://www.bizjournals.com:443 "GET /cincinnati/inno/stories/news/2024/07/30/forbes-30-under-30-joe-burrow-chase-elly-de-cruz.html HTTP/11" 200 930
+2024-08-01 15:03:49,822 - WebsiteDataExtractor - INFO - Response extraction completed
+2024-08-01 15:03:49,822 - WebsiteDataExtractor - INFO - Processing Finished for URL: https://www.bizjournals.com/cincinnati/inno/stories/news/2024/07/30/forbes-30-under-30-joe-burrow-chase-elly-de-cruz.html
+2024-08-01 15:03:49,822 - WebsiteDataExtractor - INFO - Waiting 1 second for the page to load
+2024-08-01 15:03:50,824 - WebsiteDataExtractor - INFO - Extracting HTML after waiting
+2024-08-01 15:03:50,824 - WebsiteDataExtractor - INFO - Extracting main text
+2024-08-01 15:03:50,825 - trafilatura.main_extractor - DEBUG - Recovering wild text elements
+2024-08-01 15:03:50,826 - trafilatura.core - DEBUG - non-clean extracted length: 81 (extraction)
+2024-08-01 15:03:50,827 - WebsiteDataExtractor - INFO - Extracting main text completed
+2024-08-01 15:03:50,827 - WebsiteDataExtractor - INFO - Getting title
+2024-08-01 15:03:50,828 - WebsiteDataExtractor - ERROR - An error occurred while processing https://www.bizjournals.com/cincinnati/inno/stories/news/2024/07/30/forbes-30-under-30-joe-burrow-chase-elly-de-cruz.html: 'NoneType' object has no attribute 'get_text'
+2024-08-01 15:03:50,829 - WebsiteDataExtractor - INFO - Adding FAILED Row To The Dataframe
+2024-08-01 15:03:50,831 - WebsiteDataExtractor - INFO - Added FAILED Row To The DataFrame
+2024-08-01 15:03:50,832 - WebsiteDataExtractor - INFO - Completed Extracting Main Content of Article
+2024-08-01 15:03:50,835 - root - INFO - JSON file 'url_status.json' has been created with all records.
+2024-08-01 15:03:50,835 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:50,835 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:50,836 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:50,836 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:50,836 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:50,836 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:50,837 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:50,837 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:50,837 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:50,837 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:50,838 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:50,838 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:50,838 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:50,839 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:50,839 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:50,839 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:50,840 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:50,840 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:50,840 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:50,841 - root - INFO - Adding articles to the JSON
+2024-08-01 15:03:50,842 - root - INFO - Writing the JSON object to JSON file
+2024-08-01 15:03:50,842 - root - INFO - Execution time: 62.26 seconds
+2024-08-01 15:03:50,842 - root - INFO - Process completed successfully
